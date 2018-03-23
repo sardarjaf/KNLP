@@ -1,0 +1,275 @@
+
+#trans = home children library is an educational factor to promote children's mind and develop and educate them.  
+#sent_id = 1
+#text: کتێبخانەی ماڵەوەی منداڵ ، هۆکارێکی پەروەردەییە ، بۆ زاخاودانی هزری منداڵ و گەشەکردن و پێشکەوتن و زۆرزانینی 
+1	کتێبخانەی	کتێبخانە	N	N	N|SG|ABS|EZALOS	1	 _ 	 _ 	 _
+2	ماڵەوەی	ماڵەوەی	N	N	N|SG|ABS|EZALOS	2	 _ 	 _ 	 _
+3	منداڵ	منداڵ	N	N	N|SG|ABS	3	 _ 	 _ 	 _
+4	،	،	CM	CM	CM	4	 _ 	 _ 	 _
+5	هۆکارێکی	هۆکار	N	N	N|SG|IND|EZALOS	5	 _ 	 _ 	 _
+6-7	پەروەردەییە
+6	پەروەردە	N	N	N|SG|ABS	6	 _ 	 _ 	 _ 
+7	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	7	 _ 	 _ 	 _ 
+8	،	،	CM	CM	CM	8	 _ 	 _ 	 _
+9	بۆ	بۆ	PR	PR	PR	9	 _ 	 _ 	 _
+10-11	زاخاودانی
+10	زاخاودانی	N	N	N|SG|ABS	10	 _ 	 _ 	 _ 
+11	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	11	 _ 	 _ 	 _ 
+12	هزری	هزری	N	N	N|SG|ABS|EZALOS	12	 _ 	 _ 	 _
+13	منداڵ	منداڵ	N	N	N|SG|ABS	13	 _ 	 _ 	 _
+14	و	و	CNJCOO	CNJCOO	CNJCOO	14	 _ 	 _ 	 _
+15	گەشەکردن	گەشەکردن	N	N	N|SG|ABS	15	 _ 	 _ 	 _
+16	و	و	CNJCOO	CNJCOO	CNJCOO	16	 _ 	 _ 	 _
+17	پێشکەوتن	پێشکەوتن	N	N	N|SG|ABS	17	 _ 	 _ 	 _
+18	و	و	CNJCOO	CNJCOO	CNJCOO	18	 _ 	 _ 	 _
+19	زۆرزانینی	زۆرزانینی	N	N	N|SG|ABS|PX3SG	19	 _ 	 _ 	 _
+
+#trans = It is like carving on stone.  
+#sent_id = 2
+#text: وەکو نەقشی سەر بەرد وایە 
+1	وەکو	وەکو	PR	PR	PR	1	 _ 	 _ 	 _
+2	نەقشی	نەقشی	N	N	N|SG|ABS|EZALOS	2	 _ 	 _ 	 _
+3-4	سەر
+3	سەر	N	N	N|SG|ABS	3	 _ 	 _ 	 _ 
+4	سەر	PR	PR	PR	4	 _ 	 _ 	 _ 
+5	بەرد	بەرد	N	N	N|SG|ABS	5	 _ 	 _ 	 _
+6-7	وایە
+6	وا	N	N	N|SG|ABS	6	 _ 	 _ 	 _ 
+7	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	7	 _ 	 _ 	 _ 
+
+#trans =  It is fine that a child do not make use of their parents' library, however its existence in the house will strengthen and enhance his love for science and creativity.  
+#sent_id = 3
+#text: دەشێ منداڵ سوود لە کتێبخانەکەی باوک و دایکی وەرنەگرێت ، بەڵام تەنها بوونی لە ماڵەوەدا ، خۆشەویستی زانست و داهێنانی لا بەهێز و شیرین دەکات 
+1	دەشێ	دەشێ	ADJ	ADJ	ADJ	1	 _ 	 _ 	 _
+2	منداڵ	منداڵ	N	N	N|SG|ABS	2	 _ 	 _ 	 _
+3	سوود	سوود	N	N	N|SG|ABS	3	 _ 	 _ 	 _
+4	لە	لە	PR	PR	PR	4	 _ 	 _ 	 _
+5	کتێبخانەکەی	کتێبخانە	N	N	N|SG|DEF|EZALOS	5	 _ 	 _ 	 _
+6	باوک	باوک	N	N	N|SG|ABS	6	 _ 	 _ 	 _
+7	و	و	CNJCOO	CNJCOO	CNJCOO	7	 _ 	 _ 	 _
+8	دایکی	دایک	N	N	N|SG|ABS|PX3SG	8	 _ 	 _ 	 _
+9	وەرنەگرێت	وەرنەگرێت	VB	VB	VB|NEG|TV|P3|SG	9	 _ 	 _ 	 _
+10	،	،	CM	CM	CM	10	 _ 	 _ 	 _
+11	بەڵام	بەڵام	CNJCOO	CNJCOO	CNJCOO	11	 _ 	 _ 	 _
+12	تەنها	تەنها	ADV	ADV	ADV	12	 _ 	 _ 	 _
+13	بوونی	بوونی	VBCOP	VBCOP	VBCOP|PRI|P3|SG	13	 _ 	 _ 	 _
+14	لە	لە	PR	PR	PR	14	 _ 	 _ 	 _
+15-16	ماڵەوەدا
+15	ماڵەوەدا	N	N	N|SG|ABS	15	 _ 	 _ 	 _ 
+16	دا	CLT	CLT	CLT	16	 _ 	 _ 	 _ 
+17	،	،	CM	CM	CM	17	 _ 	 _ 	 _
+18	خۆشەویستی	خۆشەویست	N	N	N|SG|ABS|EZALOS	18	 _ 	 _ 	 _
+19	زانست	زانست	N	N	N|SG|ABS	19	 _ 	 _ 	 _
+20	و	و	CNJCOO	CNJCOO	CNJCOO	20	 _ 	 _ 	 _
+21	داهێنانی	داهێنانی	N	N	N|SG|ABS|PX3SG	21	 _ 	 _ 	 _
+22	لا	لا	N	N	N|SG|ABS	22	 _ 	 _ 	 _
+23	بەهێز	بەهێز	ADJ	ADJ	ADJ|PST	23	 _ 	 _ 	 _
+24	و	و	CNJCOO	CNJCOO	CNJCOO	24	 _ 	 _ 	 _
+25	شیرین	شیر	ADJ	ADJ	ADJ|PST	25	 _ 	 _ 	 _
+26	دەکات	کردن	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	26	 _ 	 _ 	 _
+
+#trans =  Syrians also should have their own libraries. [?]
+#sent_id = 4
+#text: سووریش دەبێت لەسەر ئەوەی ، کە پێویستە ئەمیش کتێبخانەی تایبەتی خۆی هەبێت 
+1	سووریش	سووریش	NP	NP	NP|TOP|SG|ABS	1	 _ 	 _ 	 _
+2	دەبێت	دەبێت	VBCOP	VBCOP	VBCOP|PRI|P3|SG	2	 _ 	 _ 	 _
+3	لەسەر	لەسەر	PR	PR	PR	3	 _ 	 _ 	 _
+4	ئەوەی	ئەوەی	DET	DET	DET|DEM|SG|PX3SG	4	 _ 	 _ 	 _
+5	،	،	CM	CM	CM	5	 _ 	 _ 	 _
+6	کە	کە	CNJSUB	CNJSUB	CNJSUB	6	 _ 	 _ 	 _
+7	پێویستە	پێویستە	N	N	N|SG|ABS	7	 _ 	 _ 	 _
+8	ئەمیش	ئەمیش	DET	DET	DET|DEM|SG	8	 _ 	 _ 	 _
+9	کتێبخانەی	کتێبخانە	N	N	N|SG|ABS|EZALOS	9	 _ 	 _ 	 _
+10	تایبەتی	تایبەتی	ADJ	ADJ	ADJ|PST	10	 _ 	 _ 	 _
+11	خۆی	خۆ	N	N	N|SG|ABS|PX3SG	11	 _ 	 _ 	 _
+12	هەبێت	هەبێت	VBHAVER	VBHAVER	VBHAVER|PRI|P3|SG	12	 _ 	 _ 	 _
+
+#trans = Reading books and journals is an important educational element and forms a positive role in promoting children.
+#sent_id = 5
+#text: خوێندنەوەی کتێب و گۆڤار کەرەستەیەکی گرنگی پەروەردەییە و رۆڵێکی ئەرێنی هەیە لە گەشەکردنی دروستی منداڵان 
+1	خوێندنەوەی	خوێندنەوەی	N	N	N|SG|ABS|EZALOS	1	 _ 	 _ 	 _
+2	کتێب	کتێب	N	N	N|SG|ABS	2	 _ 	 _ 	 _
+3	و	و	CNJCOO	CNJCOO	CNJCOO	3	 _ 	 _ 	 _
+4	گۆڤار	گۆڤار	N	N	N|SG|ABS	4	 _ 	 _ 	 _
+5	کەرەستەیەکی	کەرەستەیەکی	N	N	N|SG|ABS|EZALOS	5	 _ 	 _ 	 _
+6	گرنگی	گرنگ	ADJ	ADJ	ADJ|PST	6	 _ 	 _ 	 _
+7-8	پەروەردەییە
+7	پەروەردە	N	N	N|SG|ABS|PX3SG	7	 _ 	 _ 	 _ 
+8	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	8	 _ 	 _ 	 _ 
+9	و	و	CNJCOO	CNJCOO	CNJCOO	9	 _ 	 _ 	 _
+10	رۆڵێکی	رۆڵێکی	N	N	N|SG|ABS|EZALOS	10	 _ 	 _ 	 _
+11	ئەرێنی	ئەرێنی	ADJ	ADJ	ADJ|PST	11	 _ 	 _ 	 _
+12	هەیە	ھەبوون	VBHAVER	VBHAVER	VBHAVER|PRI|P3|SG	12	 _ 	 _ 	 _
+13	لە	لە	PR	PR	PR	13	 _ 	 _ 	 _
+14	گەشەکردنی	گەشەکردنی	N	N	N|SG|ABS|EZALOS	14	 _ 	 _ 	 _
+15	دروستی	دروست	ADJ	ADJ	ADJ|PST	15	 _ 	 _ 	 _
+16	منداڵان	منداڵ	N	N	N|PL|IND	16	 _ 	 _ 	 _
+
+#trans = In every city, town, district and village in Norway there is a big public library.  
+#sent_id = 6
+#text: لە هەر شارێک و قەزا و ناحیە و گەڕەک و گوندێکی وڵاتی نەرویج دا ، کتێبخانەیەکی گشتی گەورە هەیە 
+1	لە	لە	PR	PR	PR	1	 _ 	 _ 	 _
+2	هەر	هەر			|ADV	2	 _ 	 _ 	 _
+3	شارێک	شار	N	N	N|SG|IND	3	 _ 	 _ 	 _
+4	و	و	CNJCOO	CNJCOO	CNJCOO	4	 _ 	 _ 	 _
+5	قەزا	قەزا	N	N	N|SG|ABS	5	 _ 	 _ 	 _
+6	و	و	CNJCOO	CNJCOO	CNJCOO	6	 _ 	 _ 	 _
+7	ناحیە	ناحیە	N	N	N|SG|ABS	7	 _ 	 _ 	 _
+8	و	و	CNJCOO	CNJCOO	CNJCOO	8	 _ 	 _ 	 _
+9	گەڕەک	گەڕەک	N	N	N|SG|ABS	9	 _ 	 _ 	 _
+10	و	و	CNJCOO	CNJCOO	CNJCOO	10	 _ 	 _ 	 _
+11	گوندێکی	گوند	N	N	N|SG|IND|EZALOS	11	 _ 	 _ 	 _
+12	وڵاتی	وڵات	N	N	N|SG|ABS|EZALOS	12	 _ 	 _ 	 _
+13	نەرویج	نەرویج	NP	NP	NP|TOP|SG|ABS	13	 _ 	 _ 	 _
+14	دا	دا	CLT	CLT	CLT	14	 _ 	 _ 	 _
+15	،	،	CM	CM	CM	15	 _ 	 _ 	 _
+16	کتێبخانەیەکی	کتێبخانە	N	N	N|SG|IND|EZALOS	16	 _ 	 _ 	 _
+17	گشتی	گشتی	ADJ	ADJ	ADJ|PST	17	 _ 	 _ 	 _
+18	گەورە	گەورە	ADJ	ADJ	ADJ|PST	18	 _ 	 _ 	 _
+19	هەیە	ھەبوون	VBHAVER	VBHAVER	VBHAVER|PRI|P3|SG	19	 _ 	 _ 	 _
+
+#trans =  In every house there is a library, in every child's room there is a small library.
+#sent_id = 7
+#text: لە هەر ماڵێکیشدا کتێبخانەیەک هەیە ، لە ژووری هەر منداڵیکیشدا کتێبخانەیەکی قنج هەیە 
+1	لە	لە	PR	PR	PR	1	 _ 	 _ 	 _
+2	هەر	هەر	DET	DET	DET|IND|SG|||ADV	2	 _ 	 _ 	 _
+3-4	ماڵێکیشدا
+3	ماڵێکیشدا	N	N	N|SG|IND	3	 _ 	 _ 	 _ 
+4	دا	CLT	CLT	CLT	4	 _ 	 _ 	 _ 
+5	کتێبخانەیەک	کتێبخان	N	N	N|SG|IND	5	 _ 	 _ 	 _
+6	هەیە	ھەبوون	VBHAVER	VBHAVER	VBHAVER|PRI|P3|SG	6	 _ 	 _ 	 _
+7	،	،	CM	CM	CM	7	 _ 	 _ 	 _
+8	لە	لە	PR	PR	PR	8	 _ 	 _ 	 _
+9	ژووری	ژوور	N	N	N|SG|ABS|EZALOS	9	 _ 	 _ 	 _
+10	هەر	هەر	DET	DET	DET|IND|SG|||ADV	10	 _ 	 _ 	 _
+11-12	منداڵیکیشدا
+11	منداڵیکیشدا	N	N	N|SG|IND	11	 _ 	 _ 	 _ 
+12	دا	CLT	CLT	CLT	12	 _ 	 _ 	 _ 
+13	کتێبخانەیەکی	کتێبخانە	N	N	N|SG|IND|EZALOS	13	 _ 	 _ 	 _
+14	قنج	قنج	ADJ	ADJ	ADJ	14	 _ 	 _ 	 _
+15	هەیە	ھەبوون	VBHAVER	VBHAVER	VBHAVER|PRI|P3|SG	15	 _ 	 _ 	 _
+
+#trans =  In every street and centre there is a bookstore for books, magazines and newspapers. 
+#sent_id = 8
+#text: لە هەر شەقام و سەنتەرێکدا کتێبخانەی فرۆشتنی کتێب و گۆڤار و رۆژنامەکان هەن 
+1	لە	لە	PR	PR	PR	1	 _ 	 _ 	 _
+2	هەر	هەر	DET	DET	DET|IND|SG|||ADV	2	 _ 	 _ 	 _
+3	شەقام	شەقام	N	N	N|SG|ABS	3	 _ 	 _ 	 _
+4	و	و	CNJCOO	CNJCOO	CNJCOO	4	 _ 	 _ 	 _
+5-6	سەنتەرێکدا
+5	سەنتەرێکدا	N	N	N|SG|IND	5	 _ 	 _ 	 _ 
+6	دا	CLT	CLT	CLT	6	 _ 	 _ 	 _ 
+7	کتێبخانەی	کتێبخانە	N	N	N|SG|ABS|EZALOS	7	 _ 	 _ 	 _
+8	فرۆشتنی	فرۆشتنی	N	N	N|SG|EZALOS	8	 _ 	 _ 	 _
+9	کتێب	کتێب	N	N	N|SG|ABS	9	 _ 	 _ 	 _
+10	و	و	CNJCOO	CNJCOO	CNJCOO	10	 _ 	 _ 	 _
+11	گۆڤار	گۆڤار	N	N	N|SG|ABS	11	 _ 	 _ 	 _
+12	و	و	CNJCOO	CNJCOO	CNJCOO	12	 _ 	 _ 	 _
+13	رۆژنامەکان	رۆژنامە	N	N	N|PL|DEF	13	 _ 	 _ 	 _
+14	هەن	هەن	VBCOP	VBCOP	VBCOP|PRI|P3|SG	14	 _ 	 _ 	 _
+
+#trans = Even in these supermarkets that sell food, drinks and fruits, they also have sections where they sell books, children books in particular. 
+#sent_id = 9
+#text: تەنانەت لەو مارکێتانەی کە خواردەمەنی و خواردنەەوە و میوەهاتیش دەفرۆشن ، لە بەشێکیاندا کتێبان بۆ فرۆشتن داناون بە تایبەتیش کتێبیی منداڵان 
+1	تەنانەت	تەنانەت	ADV	ADV	ADV	1	 _ 	 _ 	 _
+2-3	لەو
+2	لە	PR	PR	PR	2	 _ 	 _ 	 _ 
+3	ئەو	PRN	PRN	PRN|PERS|P3|SG	3	 _ 	 _ 	 _ 
+4	مارکێتانەی	مارکێت	N	N	N|PL|DEM|PX3SG	4	 _ 	 _ 	 _
+5	کە	کە	CNJSUB	CNJSUB	CNJSUB	5	 _ 	 _ 	 _
+6	خواردەمەنی	خواردەمەنی	N	N	N|SG|ABS	6	 _ 	 _ 	 _
+7	و	و	CNJCOO	CNJCOO	CNJCOO	7	 _ 	 _ 	 _
+8	خواردنەەوە	خواردنەەوە	N	N	N|SG|ABS	8	 _ 	 _ 	 _
+9	و	و	CNJCOO	CNJCOO	CNJCOO	9	 _ 	 _ 	 _
+10	میوەهاتیش	میوەهاتیش	N	N	N|SG	10	 _ 	 _ 	 _
+11	دەفرۆشن	دەفرۆشن	VBLEX	VBLEX	VBLEX|PRS|TV|P3|PL	11	 _ 	 _ 	 _
+12	،	،	CM	CM	CM	12	 _ 	 _ 	 _
+13	لە	لە	PR	PR	PR	13	 _ 	 _ 	 _
+14-15	بەشێکیاندا
+14	بەشێکیان	N	N	N|PL|DEF	14	 _ 	 _ 	 _ 
+15	دا	CLT	CLT	CLT	15	 _ 	 _ 	 _ 
+16	کتێبان	کتێب	N	N	N|PL|IND	16	 _ 	 _ 	 _
+17	بۆ	بۆ	PR	PR	PR	17	 _ 	 _ 	 _
+18	فرۆشتن	فرۆشتن	N	N	N|SG|ABS	18	 _ 	 _ 	 _
+19	داناون	داناون	VBLEX	VBLEX	VBLEX|TV|P3|PL	19	 _ 	 _ 	 _
+20	بە	بە	PR	PR	PR	20	 _ 	 _ 	 _
+21	تایبەتیش	تایبەتیش	N	N	N|SG	21	 _ 	 _ 	 _
+22	کتێبیی	کتێب	N	N	N|SG|ABS|EZALOS	22	 _ 	 _ 	 _
+23	منداڵان	منداڵ	N	N	N|PL|IND	23	 _ 	 _ 	 _
+
+#trans = In reality there are many other European countries that are more advanced in this field than Norway. 
+#sent_id = 10
+#text: لە راستیشدا زۆر دەوڵەتی تری ئەوروپی هەن ، کە لەم بوارەدا لە پێش نەرویجن 
+1	لە	لە	PR	PR	PR	1	 _ 	 _ 	 _
+2-3	راستیشدا
+2	راستیشدا	N	N	N|SG|ABS	2	 _ 	 _ 	 _ 
+3	دا	CLT	CLT	CLT	3	 _ 	 _ 	 _ 
+4	زۆر	زۆر	ADV	ADV	ADV	4	 _ 	 _ 	 _
+5	دەوڵەتی	دەوڵەت	N	N	N|SG|ABS|EZALOS	5	 _ 	 _ 	 _
+6	تری	تر	ADJ	ADJ	ADJ	6	 _ 	 _ 	 _
+7	ئەوروپی	ئەوروپی	N	N	N|SG	7	 _ 	 _ 	 _
+8	هەن	هەن	VBCOP	VBCOP	VBCOP|PRI|P3|SG	8	 _ 	 _ 	 _
+9	،	،	CM	CM	CM	9	 _ 	 _ 	 _
+10	کە	کە	CNJSUB	CNJSUB	CNJSUB	10	 _ 	 _ 	 _
+11-12	لەم
+11	لە	PR	PR	PR	11	 _ 	 _ 	 _ 
+12	ئەم	PRN	PRN	PRN|CLT|P2|SG	12	 _ 	 _ 	 _ 
+13-14	بوارەدا
+13	بوارەدا	N	N	N|SG	13	 _ 	 _ 	 _ 
+14	دا	CLT	CLT	CLT	14	 _ 	 _ 	 _ 
+15	لە	لە	PR	PR	PR	15	 _ 	 _ 	 _
+16	پێش	پێش	PR	PR	PR	16	 _ 	 _ 	 _
+17-18	نەرویجن
+17	نەرویجن	NP	NP	NP|TOP|SG|ABS	17	 _ 	 _ 	 _ 
+18	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	18	 _ 	 _ 	 _ 
+
+#trans = Also for us home library is more important than the kitchen. 
+#sent_id = 11
+#text: بە لای ئێمەشەوە ، کتێبخانەی ماڵەوە ، لە چێشتخانەی	 ماڵەوە گرنگترە 
+1	بە	بە	PR	PR	PR	1	 _ 	 _ 	 _
+2	لای	لا	N	N	N|SG|ABS|EZALOS	2	 _ 	 _ 	 _
+3	ئێمەشەوە	ئێمەشەوە	PRN	PRN	PRN|P1|PL	3	 _ 	 _ 	 _
+4	،	،	CM	CM	CM	4	 _ 	 _ 	 _
+5	کتێبخانەی	کتێبخانەی	N	N	N|SG|ABS|EZALOS	5	 _ 	 _ 	 _
+6	ماڵەوە	ماڵەوە	N	N	N|SG|ABS	6	 _ 	 _ 	 _
+7	،	،	CM	CM	CM	7	 _ 	 _ 	 _
+8	لە	لە	PR	PR	PR	8	 _ 	 _ 	 _
+9	چێشتخانەی	چێشتخانەی	N	N	N|SG|ABS|EZALOS	9	 _ 	 _ 	 _
+10	ماڵەوە	ماڵەوە	N	N	N|SG|ABS	10	 _ 	 _ 	 _
+11-12	گرنگترە
+11	گرنگترە	ADJ	ADJ	ADJ|PST	11	 _ 	 _ 	 _ 
+12	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	12	 _ 	 _ 	 _ 
+
+#trans = For me a house with no library is an incomplete house. 
+#sent_id = 12
+#text: ئەو ماڵەی کتێبخانەی تێدا نەبێت بە ماڵێکی ناتەواوی دەزانم 
+1	ئەو	ئەو	DET	DET	DET|DEM|SG	1	 _ 	 _ 	 _
+2	ماڵەی	ماڵەی	N	N	N|SG|ABS|PX3SG	2	 _ 	 _ 	 _
+3	کتێبخانەی	کتێبخانە	N	N	N|SG|ABS|PX3SG	3	 _ 	 _ 	 _
+4-6	تێدا
+4	تێدا	PR	PR	PR	4	 _ 	 _ 	 _ 
+5	ئەو	PRN	PRN	PRN|PERS|CLT|P3|SG	5	 _ 	 _ 	 _ 
+6	دا	CLT	CLT	CLT	6	 _ 	 _ 	 _ 
+7	نەبێت	نەبێت	VBCOP	VBCOP	VBCOP|PRI|NEG|P3|SG	7	 _ 	 _ 	 _
+8	بە	بە	PR	PR	PR	8	 _ 	 _ 	 _
+9	ماڵێکی	ماڵ	N	N	N|SG|IND|EZALOS	9	 _ 	 _ 	 _
+10	ناتەواوی	ناتەواو	ADJ	ADJ	ADJ|PST	10	 _ 	 _ 	 _
+11	دەزانم	دەزانم	VBLEX	VBLEX	VBLEX|TV|PRS|P1|SG	11	 _ 	 _ 	 _
+
+#trans = We have to assist them in choosing useful and suitable books and newspapers for their library. 
+#sent_id = 13
+#text: هاوکاریان بین لە هەڵبژاردنی کتێب و گۆڤاری بەسوود و لەبار بۆ کتێبخانەکانیان . 
+1	هاوکاریان	هاوکار	N	N	N|SG|ABS|PX3PL	1	 _ 	 _ 	 _
+2	بین	بوون	VBCOP	VBCOP	VBCOP|PRS|P3|PL	2	 _ 	 _ 	 _
+3	لە	لە	PR	PR	PR	3	 _ 	 _ 	 _
+4	هەڵبژاردنی	هەڵبژاردن	N	N	N|SG|ABS|EZALOS	4	 _ 	 _ 	 _
+5	کتێب	کتێب	N	N	N|SG|ABS	5	 _ 	 _ 	 _
+6	و	و	CNJCOO	CNJCOO	CNJCOO	6	 _ 	 _ 	 _
+7	گۆڤاری	گۆڤار	N	N	N|SG|ABS|EZALOS	7	 _ 	 _ 	 _
+8	بەسوود	بەسوود	ADJ	ADJ	ADJ|PST	8	 _ 	 _ 	 _
+9	و	و	CNJCOO	CNJCOO	CNJCOO	9	 _ 	 _ 	 _
+10	لەبار	لەبار	ADJ	ADJ	ADJ	10	 _ 	 _ 	 _
+11	بۆ	بۆ	PR	PR	PR	11	 _ 	 _ 	 _
+12	کتێبخانەکانیان	کتێبخانە	N	N	N|PL|DEF|PX3PL	12	 _ 	 _ 	 _
+13	.	.	SENT	SENT	SENT	13	 _ 	 _ 	 _
+

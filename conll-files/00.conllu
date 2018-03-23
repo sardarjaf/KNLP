@@ -1,0 +1,237 @@
+
+#trans = More than 22 million people in the world have become refugees 
+#sent_id = 1
+#text: زیاتر لە 22 ملیۆن کەس لە جیهاندا بوون بە پەنابەر 
+1	زیاتر	زیاتر	ADV	ADV	ADV	1	 _ 	 _ 	 _
+2	لە	لە	PR	PR	PR	2	 _ 	 _ 	 _
+3	22	22	NUM	NUM	NUM	3	 _ 	 _ 	 _
+4	ملیۆن	ملیۆن	N	N	N|SG|ABS	4	 _ 	 _ 	 _
+5	کەس	کەس	N	N	N|SG|ABS	5	 _ 	 _ 	 _
+6	لە	لە	PR	PR	PR	6	 _ 	 _ 	 _
+7-8	جیهاندا
+7	جیهان	N	N	N|SG|ABS|EZALOS	7	 _ 	 _ 	 _ 
+8	دا	CLT	CLT	CLT	8	 _ 	 _ 	 _ 
+9	بوون	بوون	VBCOP	VBCOP	VBCOP|PAST|P3|PL	9	 _ 	 _ 	 _
+10	بە	بە	PR	PR	PR	10	 _ 	 _ 	 _
+11	پەنابەر	پەنابەر	N	N	N|SG|ABS	11	 _ 	 _ 	 _
+
+#trans = The time has come for our dissatisfactions to be one
+#sent_id = 2
+#text: کاتی ئەوە هاتووە ناڕەزایتیەکانی خۆمان یەک بخەین 
+1	کاتی	کات	N	N	N|SG|ABS|EZALOS	1	 _ 	 _ 	 _
+2	ئەوە	ئەوە	PR	PR	PR	2	 _ 	 _ 	 _
+3-4	هاتووە
+3	هاتن	VBLEX	VBLEX	VBLEX|IV|PRC_PERF	3	 _ 	 _ 	 _ 
+4	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	4	 _ 	 _ 	 _ 
+5	ناڕەزایتیەکانی	ناڕەزایتی	N	N	N|PL|DEF|EZALOS	5	 _ 	 _ 	 _
+6	خۆمان	خۆ	N	N	N|SG|ABS|PX1PL	6	 _ 	 _ 	 _
+7	یەک	یەک	NUM	NUM	NUM|SG	7	 _ 	 _ 	 _
+8	بخەین	خستن	VBLEX	VBLEX	VBLEX|TV|PRS|P1|PL	8	 _ 	 _ 	 _
+
+#translation = Girls have their own way to know and feel what you feel
+#sent_id = 3
+#text: کچان ڕێگای خۆیان هەیە لە زانین و هەستکردن بەوەی کە هەست بە چی دەکەیت . 
+1	کچان	کچ	N	N	N|PL|IND	1	 _ 	 _ 	 _
+2	ڕێگای	ڕێگا	N	N	N|SG|ABS|EZALOS	2	 _ 	 _ 	 _
+3	خۆیان	خۆ	N	N	N|PL|ABS|PX3PL	3	 _ 	 _ 	 _
+4	هەیە	ھەبوون	VBHAVER	VBHAVER	VBHAVER|PRI|P3|SG	4	 _ 	 _ 	 _
+5	لە	لە	PR	PR	PR	5	 _ 	 _ 	 _
+6	زانین	زانین	N	N	N|SG|ABS	6	 _ 	 _ 	 _
+7	و	و	CNJCOO	CNJCOO	CNJCOO	7	 _ 	 _ 	 _
+8	هەستکردن	هەست+کردن			|N|SG	8	 _ 	 _ 	 _
+9-10	بەوەی
+9	بە	PR	PR	PR	9	 _ 	 _ 	 _ 
+10	وەی	PRN	PRN	PRN|CLT|P3|SG	10	 _ 	 _ 	 _ 
+11	کە	کە	CNJSUB	CNJSUB	CNJSUB	11	 _ 	 _ 	 _
+12	هەست	ھەست	N	N	N|SG|ABS	12	 _ 	 _ 	 _
+13	بە	بە	PR	PR	PR	13	 _ 	 _ 	 _
+14	چی	چی	ADV	ADV	ADV	14	 _ 	 _ 	 _
+15	دەکەیت	کردن	VBLEX	VBLEX	VBLEX|TV|PRI|P2|SG	15	 _ 	 _ 	 _
+16	.	.	SENT	SENT	SENT	16	 _ 	 _ 	 _
+	#	TRANS	TRANS	TRANS|=|BUT|THEY|ALWAYS|LIKE|TO|LISTEN|TO|HIM/HER.	17	 _ 	 _ 	 _
+18	بەڵام	بەڵام	CNJCOO	CNJCOO	CNJCOO|@CC|#1->6	18	 _ 	 _ 	 _
+19-20	هەمیشەش
+19	هەمیشە	ADV	ADV	ADV|@ADVMOD|#2->6	19	 _ 	 _ 	 _ 
+20	ش	CLT	CLT	CLT|@X|#3->2	20	 _ 	 _ 	 _ 
+21	حەز	حەز	N	N	N|SG|ABS|@COMPOUND:LVC|#4->5	21	 _ 	 _ 	 _
+22	دەکەن	کردن	VBLEX	VBLEX	VBLEX|TV|PRI|P3|PL|@ROOT|#5->0	22	 _ 	 _ 	 _
+23	گوێ	گوێ	N	N	N|SG|ABS|@CCOMP|#6->5	23	 _ 	 _ 	 _
+24-25	بیستی
+24	بیست	VBLEX	VBLEX	VBLEX|IV|@FLAT|#7->6	24	 _ 	 _ 	 _ 
+25	ئەو	PRN	PRN	PRN|PERS|CLT|P3|SG"|@OBL|#8->6	25	 _ 	 _ 	 _ 
+26	بن	بوون	VBCOP	VBCOP	VBCOP|PRS|P3|PL|@COP|#9->6	26	 _ 	 _ 	 _
+27	.	.	SENT	SENT	SENT|@PUNCT|#10->6	27	 _ 	 _ 	 _
+	#	TRANS	TRANS	TRANS|=|ON|8TH|MARCH|WE|WILL|SUPPORT|THE|LAW|OF|COMPREHENSIVE|EQUALITY|OF|MEN|AND|WOMEN|IN|KURDISTAN.	28	 _ 	 _ 	 _
+29-31	لە
+29	لە	PR	PR	PR	29	 _ 	 _ 	 _ 
+30	<٨>	"<٨>"	"<٨>"	"<٨>"	30	 _ 	 _ 	 _ 
+31	٨	NUM	NUM	NUM	31	 _ 	 _ 	 _ 
+32	مارس	مارس	"مارس"	"مارس"	"مارس"	32	 _ 	 _ 	 _
+33	دا	دا	CLT	CLT	CLT	33	 _ 	 _ 	 _
+34-35	پشتیوانی
+34	پشتیوان	N	N	N|SG|ABS|EZALOS	34	 _ 	 _ 	 _ 
+35	پشتیوانی	N	N	N|SG|ABS	35	 _ 	 _ 	 _ 
+36	لە	لە	PR	PR	PR	36	 _ 	 _ 	 _
+37	یاسای	یاسا	N	N	N|SG|ABS|EZALOS	37	 _ 	 _ 	 _
+38	یەکسانی	یەکسان	N	N	N|SG|ABS|EZALOS	38	 _ 	 _ 	 _
+39	هەمەلایەنی	هەمەلایەن	ADJ	ADJ	ADJ	39	 _ 	 _ 	 _
+40	ژنان	ژن	N	N	N|PL|IND	40	 _ 	 _ 	 _
+41	و	و	CNJCOO	CNJCOO	CNJCOO	41	 _ 	 _ 	 _
+42	پیاوان	پیاوان	N	N	N|PL|IND	42	 _ 	 _ 	 _
+43	لە	لە	PR	PR	PR	43	 _ 	 _ 	 _
+44	كوردستان	کوردستان	NP	NP	NP|TOP|SG|ABS	44	 _ 	 _ 	 _
+45	دەکەین	کردن	VBLEX	VBLEX	VBLEX|TV|PRI|P1|PL	45	 _ 	 _ 	 _
+	#	TRANS	TRANS	TRANS|=|AFTER|A|WHILE|LOVE|IS|UNILATERAL	46	 _ 	 _ 	 _
+47	دوای	دوای	ADV	ADV	ADV	47	 _ 	 _ 	 _
+48	ماوەیەك	ماوه	N	N	N|SG|IND	48	 _ 	 _ 	 _
+49	خۆشەویستی	خۆشەویست	N	N	N|SG|ABS	49	 _ 	 _ 	 _
+50	یەك	یەک	NUM	NUM	NUM|SG	50	 _ 	 _ 	 _
+51-52	لایەنە
+51	لایەن	N	N	N|SG|ABS	51	 _ 	 _ 	 _ 
+52	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	52	 _ 	 _ 	 _ 
+	#	TRANS	TRANS	TRANS|=|AN|ORIGINALLY|ARAB|MAESTRO|SAYS|THAT|KURIDSH|MUSIC|IS|RICHER|THAN|ARAB|MUSIC.	53	 _ 	 _ 	 _
+54	مایسترۆیەکی	مایسترۆ	N	N	N|SG|IND|EZALOS|@NSUBJ|#1->5	54	 _ 	 _ 	 _
+55	بە	بە	PR	PR	PR|@CASE|#2->3	55	 _ 	 _ 	 _
+56	ڕەگەز	ڕەگەز	N	N	N|SG|ABS|@OBL|#3->1	56	 _ 	 _ 	 _
+57	عەرەب	عەرەب	N	N	N|SG|ABS|@NMOD:POSS|#4->3	57	 _ 	 _ 	 _
+58	دەڵێت	وتن	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG|@ROOT|#5->0	58	 _ 	 _ 	 _
+59	کە	کە	CNJSUB	CNJSUB	CNJSUB|@MARK|#6->10	59	 _ 	 _ 	 _
+60	مۆسیقای	مۆسیقا	N	N	N|SG|ABS|EZALOS|@NSUBJ|#7->10	60	 _ 	 _ 	 _
+61	کوردی	کورد	ADJ	ADJ	ADJ|PST|@AMOD|#8->7	61	 _ 	 _ 	 _
+62	زۆر	زۆر	ADV	ADV	ADV|@ADVMOD|#9->10	62	 _ 	 _ 	 _
+63-64	دەوڵەمەندترە
+63	دەوڵەمەند	ADJ	ADJ	ADJ|COMP|@CCOMP|#10->5	63	 _ 	 _ 	 _ 
+64	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG|@COP|#11->10	64	 _ 	 _ 	 _ 
+65	لە	لە	PR	PR	PR|@CASE|#12->13	65	 _ 	 _ 	 _
+66	مۆسیقای	مۆسیقا	N	N	N|SG|ABS|EZALOS|@OBL|#13->10	66	 _ 	 _ 	 _
+67	عەرەبی	عەرەبی	ADJ	ADJ	ADJ|@AMOD|#14->13	67	 _ 	 _ 	 _
+	#	TRANS	TRANS	TRANS|=|HE/SHE|SERVES|THE|KURIDSH|MUSIC|IN|KURDISTAN.	68	 _ 	 _ 	 _
+69	لە	لە	PR	PR	PR|@CASE|#1->2	69	 _ 	 _ 	 _
+70	کوردستان	کوردستان	NP	NP	NP|TOP|SG|ABS|@OBL|#2->6	70	 _ 	 _ 	 _
+71	خزمەتی	خزمەت	N	N	N|SG|ABS|EZALOS|@OBJ|#3->6	71	 _ 	 _ 	 _
+72	مۆسیقای	مۆسیقا	N	N	N|SG|ABS|EZALOS|@NMOD:POSS|#4->3	72	 _ 	 _ 	 _
+73	کوردی	کوردی	ADJ	ADJ	ADJ|PST|@AMOD|#5->4	73	 _ 	 _ 	 _
+74	دەکات	کردن	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG|@ROOT|#6->0	74	 _ 	 _ 	 _
+	#	TRANS	TRANS	TRANS|=|THIS|NUMBER|FORMS|HALF|OF|SYRIA|POPULATION	75	 _ 	 _ 	 _
+76	ئەم	ئەم	DET	DET	DET|DEM|SG|@DET|#1->2	76	 _ 	 _ 	 _
+77	ژمارەیە	ژمارە			|N|SG|ABSN|SG|DEM|@NSUBJ|#2->7	77	 _ 	 _ 	 _
+78	نیوەی	نیو	ADV	ADV	ADV|@OBJ|#3->7	78	 _ 	 _ 	 _
+79	دانیشتوانی	دانیشتوان	N	N	N|SG|ABS|EZALOS|+|PX3SG|@NMOD:POSS|#4->3	79	 _ 	 _ 	 _
+80	سوریا	سوریا	NP	NP	NP|TOP|SG|ABS|@NMOD:POSS|#5->4	80	 _ 	 _ 	 _
+81	پێك	پێک	ADV	ADV	ADV|@COMPOUND:LVC|#6->7	81	 _ 	 _ 	 _
+82	دەهێنێت	هێنان	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG|@ROOT|#7->0	82	 _ 	 _ 	 _
+	#	TRANS	TRANS	TRANS|=|ONE|OF|THEM|IS|NOT|FROM|WHERE|HE|WAS|DURING|WAR.	83	 _ 	 _ 	 _
+84	،	،	CM	CM	CM	84	 _ 	 _ 	 _
+85	یەكێكیان	یەکێک	N	N	N|SG|ABS|PX3PL	85	 _ 	 _ 	 _
+86-87	لەو
+86	لە	PR	PR	PR	86	 _ 	 _ 	 _ 
+87	ئەو	PRN	PRN	PRN|PERS|P3|SG	87	 _ 	 _ 	 _ 
+88-89	شوێنە
+88	شوێن	N	N	N|SG|DEM	88	 _ 	 _ 	 _ 
+89	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	89	 _ 	 _ 	 _ 
+90	نییە	بوون	VBCOP	VBCOP	VBCOP|PRI|NEG|P3|SG	90	 _ 	 _ 	 _
+91	كە	کە			|CNJSUB	91	 _ 	 _ 	 _
+92	پێش	پێش	PR	PR	PR	92	 _ 	 _ 	 _
+93	جەنگ	جەنگ	N	N	N|SG|ABS	93	 _ 	 _ 	 _
+94-95	لێی
+94	لە	PR	PR	PR	94	 _ 	 _ 	 _ 
+95	ی	PRN	PRN	PRN|CLT|P3|SG	95	 _ 	 _ 	 _ 
+96	بووە	بوون	VBCOP	VBCOP	VBCOP|PERF|P3|SG	96	 _ 	 _ 	 _
+97	.	.	SENT	SENT	SENT	97	 _ 	 _ 	 _
+	#	TRANS	TRANS	TRANS|=|AT|9:23|WHEN|I|GO|TO|WORK|AND|RECITE|THEM|THE|STORY,|THEY|DON'T|PROMISE|TO|COVER|UP|MY|LAST|TROUBLING|AND|NOT|TO|DECREASE|MY|SALARAY|AS|A|PUNISHMENT.	98	 _ 	 _ 	 _
+99	كاتژمێر	کاتژمێر	N	N	N|SG|ABS	99	 _ 	 _ 	 _
+100	9	9	NUM	NUM	NUM	100	 _ 	 _ 	 _
+101	و	و	CNJCOO	CNJCOO	CNJCOO	101	 _ 	 _ 	 _
+102	23	23	NUM	NUM	NUM	102	 _ 	 _ 	 _
+103	خولەكە	خولەک	N	N	N|SG|DEF	103	 _ 	 _ 	 _
+104	،	،	CM	CM	CM	104	 _ 	 _ 	 _
+105	كە	کە	CNJSUB	CNJSUB	CNJSUB	105	 _ 	 _ 	 _
+106	دەچمە	چوون	VBLEX	VBLEX	VBLEX|IV|PRI|P1|SG	106	 _ 	 _ 	 _
+107	سەر	سەر	N	N	N|SG|ABS	107	 _ 	 _ 	 _
+108	كار	کار	N	N	N|SG|ABS	108	 _ 	 _ 	 _
+109	و	و	CNJCOO	CNJCOO	CNJCOO	109	 _ 	 _ 	 _
+110	چیرۆكەكەیان	چیرۆک			|||N|SG|DEF|PX3PL	110	 _ 	 _ 	 _
+111	بۆ	بۆ	PR	PR	PR	111	 _ 	 _ 	 _
+112	دەگێڕمەوە	گەڕانەوە	VBLEX	VBLEX	VBLEX|IV|PRI|P1|SG	112	 _ 	 _ 	 _
+113	،	،	CM	CM	CM	113	 _ 	 _ 	 _
+114	بەڵێنم	بەڵێن	N	N	N|SG|ABS|P1|PX1SG	114	 _ 	 _ 	 _
+115	پێ	بە	PR	PR	PR	115	 _ 	 _ 	 _
+116	نادەن	دان	VBLEX	VBLEX	VBLEX|TV|NEG|PRI|P3|PL	116	 _ 	 _ 	 _
+117	كە	کە	CNJSUB	CNJSUB	CNJSUB	117	 _ 	 _ 	 _
+118	چاوپۆشی	چاوپۆشی	N	N	N|SG|ABS	118	 _ 	 _ 	 _
+119	لە	لە	PR	PR	PR	119	 _ 	 _ 	 _
+120	دوا	دوا	N	N	N|SG|ABS	120	 _ 	 _ 	 _
+121	كەتنم	كەتنم	N	N	N|SG|PX1SG	121	 _ 	 _ 	 _
+122	بكەن	کردن	VBLEX	VBLEX	VBLEX|TV|PRS|P3|PL	122	 _ 	 _ 	 _
+123	و	و	CNJCOO	CNJCOO	CNJCOO	123	 _ 	 _ 	 _
+124	،	،	CM	CM	CM	124	 _ 	 _ 	 _
+125	وەك	وەک	PR	PR	PR	125	 _ 	 _ 	 _
+126	سزا	سزا	N	N	N|SG|ABS	126	 _ 	 _ 	 _
+127	بڕێك	بڕێك	N	N	N|SG|ABS	127	 _ 	 _ 	 _
+128	لە	لە	PR	PR	PR	128	 _ 	 _ 	 _
+129	مووچەكەم	مووچە	N	N	N|SG|DEF|PX1SG	129	 _ 	 _ 	 _
+130	كەم	کەم	ADV	ADV	ADV	130	 _ 	 _ 	 _
+131	نەكەنەوە	کردنەوە	VBLEX	VBLEX	VBLEX|TV|NEG|PRS|P3|PL	131	 _ 	 _ 	 _
+132	.	.	SENT	SENT	SENT	132	 _ 	 _ 	 _
+	#	TRANS	TRANS	TRANS|=|ADVANTAGES|AND|PROFITS|OF|MASSIVE|COMPANIES|AND|DIPLOMATIC|RELATIONS|OF|COUNTRIES|AT|NO|TIME|CONSIDER|HUMAN|RIGHTS.	133	 _ 	 _ 	 _
+134	سوود	سوود	N	N	N|SG|ABS|@NSUBJ|#1->	134	 _ 	 _ 	 _
+135	و	<و>	CNJCOO	CNJCOO	CNJCOO|@CC|#2->3	135	 _ 	 _ 	 _
+136	قازانجی	قازانج	N	N	N|SG|ABS|EZALOS|@CONJ|#3->1	136	 _ 	 _ 	 _
+137	کۆمپانیا	کۆمپانیا	N	N	N|SG|ABS	137	 _ 	 _ 	 _
+138	زەبەلاحەکان	زەبەلاح	ADJ	ADJ	ADJ	138	 _ 	 _ 	 _
+139	و	و	CNJCOO	CNJCOO	CNJCOO	139	 _ 	 _ 	 _
+140	پەیوەندی	پەیوەند	N	N	N|SG|ABS|EZALOS	140	 _ 	 _ 	 _
+141	دیبلۆماسیانەی	دیبلۆماسی	N	N	N|IND|PL|EZALOS	141	 _ 	 _ 	 _
+142	دەوڵەتان	دەوڵەت	N	N	N|PL|IND	142	 _ 	 _ 	 _
+143	،	،	CM	CM	CM	143	 _ 	 _ 	 _
+144	هیچ	هیچ	ADV	ADV	ADV	144	 _ 	 _ 	 _
+145	وەخت	وەخت	N	N	N|SG|ABS	145	 _ 	 _ 	 _
+146	باکی	باک	N	N	N|IND|SG|EZALOS	146	 _ 	 _ 	 _
+147	بە	بە	PR	PR	PR	147	 _ 	 _ 	 _
+148	مافی	ماف	N	N	N|SG|ABS|EZALOS	148	 _ 	 _ 	 _
+149	مرۆڤ	مرۆڤ	N	N	N|SG|ABS	149	 _ 	 _ 	 _
+150	نییە	بوون	VBCOP	VBCOP	VBCOP|PRI|NEG|P3|SG	150	 _ 	 _ 	 _
+
+#trans = (loosely) Would Kurdistan thrive under Islamic or secular rule?
+#sent_id = 4
+#text: کوردستان ژینگەی بە ئیسلامی بوون یا سێکولار بوونی دەسەڵاتە ؟ 
+1	کوردستان	کوردستان	NP	NP	NP|TOP|SG|ABS	1	 _ 	 _ 	 _
+2	ژینگەی	ژینگە	N	N	N|SG|ABS|EZALOS	2	 _ 	 _ 	 _
+3	بە	بە	PR	PR	PR	3	 _ 	 _ 	 _
+4	ئیسلامی	ئیسلام	N	N	N|SG|ABS|PX3S	4	 _ 	 _ 	 _
+5	بوون	بوون	VBCOP	VBCOP	VBCOP|PAST|P3|PL	5	 _ 	 _ 	 _
+6	یا	یا	CNJCOO	CNJCOO	CNJCOO	6	 _ 	 _ 	 _
+7	سێکولار	سێکولار	ADJ	ADJ	ADJ	7	 _ 	 _ 	 _
+8	بوونی	بوونی	VBCOP	VBCOP	VBCOP|PAST|P3|PL	8	 _ 	 _ 	 _
+9-10	دەسەڵاتە
+9	دەسەڵات	N	N	N|SG|ABS	9	 _ 	 _ 	 _ 
+10	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	10	 _ 	 _ 	 _ 
+11	؟	؟	SENT	SENT	SENT	11	 _ 	 _ 	 _
+
+#trans = It is for how many decades has it been that cinema is part of modern human's life.	
+#sent_id = 5
+#text: ئەوە بۆ چەند دەیە دەچی کە سینەما بەشێکە لە ژیانی ئینسانی سەردەم . 
+1	ئەوە1	بۆ	بۆ	PR	PR	PR	1	 _ 	 _ 	 _
+2	چەند	چەند	DET	DET	DET|QNT|SP	2	 _ 	 _ 	 _
+3	دەیە	دەیە	N	N	N|SG|ABS	3	 _ 	 _ 	 _
+4	دەچی	چوون	VBLEX	VBLEX	VBLEX|IV|PRI|P3|SG	4	 _ 	 _ 	 _
+5	کە	کە	CNJSUB	CNJSUB	CNJSUB	5	 _ 	 _ 	 _
+6	سینەما	سینەما	N	N	N|SG|ABS	6	 _ 	 _ 	 _
+7-8	بەشێکە
+7	بەش	N	N	N|SG|IND	7	 _ 	 _ 	 _ 
+8	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	8	 _ 	 _ 	 _ 
+9	لە	لە	PR	PR	PR	9	 _ 	 _ 	 _
+10	ژیانی	ژیان	N	N	N|SG|ABS|EZALOS	10	 _ 	 _ 	 _
+11	ئینسانی	ئینسان	N	N	N|SG|ABS|EZALOS	11	 _ 	 _ 	 _
+12	سەردەم	سەردەم	N	N	N|SG|ABS	12	 _ 	 _ 	 _
+13	.	.	SENT	SENT	SENT	13	 _ 	 _ 	 _
+	#	TRANS	TRANS	TRANS|=|THE|CITY|OF|HALABJA|FALLS|TO|THE|NORTH-EAST|OF|SULAYMANIYE|PROVINCE.	14	 _ 	 _ 	 _
+15	شاری	شار	N	N	N|SG|ABS|EZALOS	15	 _ 	 _ 	 _
+16	هەڵەبجە	هەڵەبجە	NP	NP	NP|TOP|SG|ABS	16	 _ 	 _ 	 _
+17	دەکەوێتە	دەکەوێتە	VBLEX	VBLEX	VBLEX|IV|P3|SG	17	 _ 	 _ 	 _
+18	باکووری	باکوور	N	N	N|SG|ABS|EZALOS	18	 _ 	 _ 	 _
+19	رۆژهەڵاتی	رۆژهەڵاتی	N	N	N|SG|ABS|EZALOS	19	 _ 	 _ 	 _
+20	پارێزگای	پارێزگا	N	N	N|SG|ABS|EZALOS	20	 _ 	 _ 	 _
+21	سلێمانی	سلێمانی	NP	NP	NP|TOP|SG|ABS	21	 _ 	 _ 	 _
+22	.	.	SENT	SENT	SENT	22	 _ 	 _ 	 _
+

@@ -1,0 +1,233 @@
+
+#trans = ?
+#sent_id = 1
+#text: کتێبخانەی ماڵەوە ، یارمەتی منداڵ دەدات کە بە زانست و زانیاری هەمەچەشنەی بەسوود زاخاوی بیر و هۆشی بدات و خۆی بە زانستی و زانیاری هەمەچەشنە رۆشنبیر بکات و زمانی پاراوتر دەبێت و ، سامانی وشە و رستەکانی زیاتر دەبن 
+1	کتێبخانەی	کتێبخانە	N	N	N|SG|ABS|EZALOS	1	 _ 	 _ 	 _
+2	ماڵەوە	ماڵ	N	N	N|SG|ABS	2	 _ 	 _ 	 _
+3	،	،	CM	CM	CM	3	 _ 	 _ 	 _
+4	یارمەتی	یارمەتی	N	N	N|SG|ABS	4	 _ 	 _ 	 _
+5	منداڵ	منداڵ	N	N	N|SG|ABS	5	 _ 	 _ 	 _
+6	دەدات	دان	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	6	 _ 	 _ 	 _
+7	کە	کە	CNJSUB	CNJSUB	CNJSUB	7	 _ 	 _ 	 _
+8	بە	بە	PR	PR	PR	8	 _ 	 _ 	 _
+9	زانست	زانست	N	N	N|SG|ABS	9	 _ 	 _ 	 _
+10	و	و	CNJCOO	CNJCOO	CNJCOO	10	 _ 	 _ 	 _
+11	زانیاری	زانیاری	N	N	N|SG|ABS	11	 _ 	 _ 	 _
+12	هەمەچەشنەی	هەمەچەشنە	ADJ	ADJ	ADJ|PST	12	 _ 	 _ 	 _
+13	بەسوود	بەسوود	ADJ	ADJ	ADJ|PST	13	 _ 	 _ 	 _
+14	زاخاوی	زاخاو	N	N	N|SG|ABS	14	 _ 	 _ 	 _
+15	بیر	بیر	N	N	N|SG|ABS	15	 _ 	 _ 	 _
+16	و	و	CNJCOO	CNJCOO	CNJCOO	16	 _ 	 _ 	 _
+17	هۆشی	هۆش	N	N	N|SG|ABS|PX3SG	17	 _ 	 _ 	 _
+18	بدات	دان	VBLEX	VBLEX	VBLEX|TV|PRS|P3|SG	18	 _ 	 _ 	 _
+19	و	و	CNJCOO	CNJCOO	CNJCOO	19	 _ 	 _ 	 _
+20	خۆی	خۆ	N	N	N|SG|ABS|PX3SG	20	 _ 	 _ 	 _
+21	بە	بە	PR	PR	PR	21	 _ 	 _ 	 _
+22	زانستی	زانست	N	N	N|SG|ABS|EZALOS	22	 _ 	 _ 	 _
+23	و	و	CNJCOO	CNJCOO	CNJCOO	23	 _ 	 _ 	 _
+24	زانیاری	زانیاری	N	N	N|SG|ABS	24	 _ 	 _ 	 _
+25	هەمەچەشنە	هەمەچەشن	ADJ	ADJ	ADJ	25	 _ 	 _ 	 _
+26	رۆشنبیر	رۆشنبیر	N	N	N|SG|ABS	26	 _ 	 _ 	 _
+27	بکات	کردن	VBLEX	VBLEX	VBLEX|TV|PRS|P3|SG	27	 _ 	 _ 	 _
+28	و	و	CNJCOO	CNJCOO	CNJCOO	28	 _ 	 _ 	 _
+29	زمانی	زمان	N	N	N|SG|ABS|EZALOS	29	 _ 	 _ 	 _
+30	پاراوتر	پاراو	ADJ	ADJ	ADJ|COMP	30	 _ 	 _ 	 _
+31	دەبێت	دەبێت	N	N	N|SG|ABS	31	 _ 	 _ 	 _
+32	و	و	CNJCOO	CNJCOO	CNJCOO	32	 _ 	 _ 	 _
+33	،	،	CM	CM	CM	33	 _ 	 _ 	 _
+34	سامانی	سامان	N	N	N|SG|ABS|EZALOS	34	 _ 	 _ 	 _
+35	وشە	وشە	N	N	N|SG|ABS	35	 _ 	 _ 	 _
+36	و	و	CNJCOO	CNJCOO	CNJCOO	36	 _ 	 _ 	 _
+37	رستەکانی	رستە	N	N	N|PL|DEF|PX3SG	37	 _ 	 _ 	 _
+38	زیاتر	زیاتر	ADJ	ADJ	ADJ|COMP	38	 _ 	 _ 	 _
+39	دەبن	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|PL	39	 _ 	 _ 	 _
+
+#trans = ? 
+#sent_id = 2
+#text: دەتوانێت بێدامان و رامان ، بە ئاسانی بە قسە و بە نووسین گوزارشت لە هۆش و لە ناخی خۆی بکات 
+1	دەتوانێت	توانین	VBMOD	VBMOD	VBMOD|PRI|P3|SG	1	 _ 	 _ 	 _
+2-3	بێدامان
+2	بێ	PR	PR	PR	2	 _ 	 _ 	 _ 
+3	دامان	NP	NP	NP	3	 _ 	 _ 	 _ 
+4	و	و	CNJCOO	CNJCOO	CNJCOO	4	 _ 	 _ 	 _
+5	رامان	رامان	NP	NP	NP	5	 _ 	 _ 	 _
+6	،	،	CM	CM	CM	6	 _ 	 _ 	 _
+7	بە	بە	PR	PR	PR	7	 _ 	 _ 	 _
+8	ئاسانی	ئاسان	ADJ	ADJ	ADJ|PST	8	 _ 	 _ 	 _
+9	بە	بە	PR	PR	PR	9	 _ 	 _ 	 _
+10	قسە	قسە	N	N	N|SG|ABS	10	 _ 	 _ 	 _
+11	و	و	CNJCOO	CNJCOO	CNJCOO	11	 _ 	 _ 	 _
+12	بە	بە	PR	PR	PR	12	 _ 	 _ 	 _
+13	نووسین	نووسین	N	N	N|SG|ABS	13	 _ 	 _ 	 _
+14	گوزارشت	گوزارشت	N	N	N|SG|ABS	14	 _ 	 _ 	 _
+15	لە	لە	PR	PR	PR	15	 _ 	 _ 	 _
+16	هۆش	هۆش	S	S	S|SG|ABS	16	 _ 	 _ 	 _
+17	و	و	CNJCOO	CNJCOO	CNJCOO	17	 _ 	 _ 	 _
+18	لە	لە	PR	PR	PR	18	 _ 	 _ 	 _
+19	ناخی	ناخ	N	N	N|SG|ABS|EZALOS	19	 _ 	 _ 	 _
+20	خۆی	خۆ	N	N	N|SG|ABS|PX3SG	20	 _ 	 _ 	 _
+21	بکات	کردن	VBLEX	VBLEX	VBLEX|TV|PRS|P3|SG	21	 _ 	 _ 	 _
+
+#trans = ?
+#sent_id = 3
+#text: منداڵ بە هۆی خوێندنەوەی ئەو کتتێبانەی کە لە بەردەستیدان وڵامی بەشێک لەو پرسیارانەی کە لە هزر و خەیاڵیدان بدات 
+1	منداڵ	منداڵ	N	N	N|SG|ABS	1	 _ 	 _ 	 _
+2	بە	بە	PR	PR	PR	2	 _ 	 _ 	 _
+3	هۆی	هۆ	N	N	N|SG|ABS|EZALOS	3	 _ 	 _ 	 _
+4	خوێندنەوەی	خوێندن	N	N	N|SG|ABS|EZALOS	4	 _ 	 _ 	 _
+5	ئەو	ئەو	DET	DET	DET|DEM|SG	5	 _ 	 _ 	 _
+6	کتتێبانەی	کتتێبانە	N	N	N|PL|ABS|PX3PL	6	 _ 	 _ 	 _
+7	کە	کە	CNJSUB	CNJSUB	CNJSUB	7	 _ 	 _ 	 _
+8	لە	لە	PR	PR	PR	8	 _ 	 _ 	 _
+9	بەردەستیدان	بەردەست	N	N	N|SG|ABS|CLT	9	 _ 	 _ 	 _
+10	وڵامی	وڵام	N	N	N|SG|ABS|EZALOS	10	 _ 	 _ 	 _
+11	بەشێک	بەش	N	N	N|SG|IND	11	 _ 	 _ 	 _
+12-13	لەو
+12	لە	PR	PR	PR	12	 _ 	 _ 	 _ 
+13	ئەو	PRN	PRN	PRN|PERS|P3|SG	13	 _ 	 _ 	 _ 
+14	پرسیارانەی	پرسیار	N	N	N|PL|PX3SG	14	 _ 	 _ 	 _
+15	کە	کە	CNJSUB	CNJSUB	CNJSUB	15	 _ 	 _ 	 _
+16	لە	لە	PR	PR	PR	16	 _ 	 _ 	 _
+17	هزر	هزر	N	N	N|SG|ABS	17	 _ 	 _ 	 _
+18	و	و	CNJCOO	CNJCOO	CNJCOO	18	 _ 	 _ 	 _
+19	خەیاڵیدان	خەیاڵ	N	N	N|SG|ABS	19	 _ 	 _ 	 _
+20	بدات	دان	VBLEX	VBLEX	VBLEX|TV|PRS|P3|SG	20	 _ 	 _ 	 _
+
+#trans = ?
+#sent_id = 4
+#text: لە رێی کتێبخانەی ماڵەوە ، ئارەزووی سەردانی کتێبخانەی گشتی دەکات و ، بە دوای کتێب و گۆڤار و سەرچاوەی زیاتردا دەگەڕێ 
+1	لە	لە	PR	PR	PR	1	 _ 	 _ 	 _
+2	رێی	رێ	N	N	N|SG|ABS|EZALOS	2	 _ 	 _ 	 _
+3	کتێبخانەی	کتێبخانە	N	N	N|SG|ABS|EZALOS	3	 _ 	 _ 	 _
+4	ماڵەوە	ماڵ	N	N	N|SG|ABS|CLT	4	 _ 	 _ 	 _
+5	،	،	CM	CM	CM	5	 _ 	 _ 	 _
+6	ئارەزووی	ئارەزوو	N	N	N|SG|ABS|EZALOS	6	 _ 	 _ 	 _
+7	سەردانی	سەردان	N	N	N|SG|ABS|EZALOS	7	 _ 	 _ 	 _
+8	کتێبخانەی	کتێبخانە	N	N	N|SG|ABS|EZALOS	8	 _ 	 _ 	 _
+9	گشتی	گشتی	ADJ	ADJ	ADJ|PST	9	 _ 	 _ 	 _
+10	دەکات	کردن	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	10	 _ 	 _ 	 _
+11	و	و	CNJCOO	CNJCOO	CNJCOO	11	 _ 	 _ 	 _
+12	،	،	CM	CM	CM	12	 _ 	 _ 	 _
+13	بە	بە	PR	PR	PR	13	 _ 	 _ 	 _
+14	دوای	دوای	ADV	ADV	ADV	14	 _ 	 _ 	 _
+15	کتێب	کتێب	N	N	N|SG|ABS	15	 _ 	 _ 	 _
+16	و	و	CNJCOO	CNJCOO	CNJCOO	16	 _ 	 _ 	 _
+17	گۆڤار	گۆڤار	N	N	N|SG|ABS	17	 _ 	 _ 	 _
+18	و	و	CNJCOO	CNJCOO	CNJCOO	18	 _ 	 _ 	 _
+19	سەرچاوەی	سەرچاوە	N	N	N|SG|ABS|EZALOS	19	 _ 	 _ 	 _
+20	زیاتردا	زیاتر	ADJ	ADJ	ADJ|COM|CLT	20	 _ 	 _ 	 _
+21	دەگەڕێ	گەڕان	VBLEX	VBLEX	VBLEX|IV|PRI|P3|SG	21	 _ 	 _ 	 _
+
+#trans = ?
+#sent_id = 5
+#text: لە ئایندەدا دەبێت بە خوێنەرێکی هەمیشە و دانەبڕاوی کتێخانەی گشتی 
+1	لە	لە	PR	PR	PR	1	 _ 	 _ 	 _
+2	ئایندەدا	ئایندە	N	N	N|SG|ABS|CLT	2	 _ 	 _ 	 _
+3	دەبێت	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	3	 _ 	 _ 	 _
+4	بە	بە	PR	PR	PR	4	 _ 	 _ 	 _
+5	خوێنەرێکی	خوێنەر	N	N	N|SG|IND|EZALOS	5	 _ 	 _ 	 _
+6	هەمیشە	هەمیشە	ADV	ADV	ADV	6	 _ 	 _ 	 _
+7	و	و	CNJCOO	CNJCOO	CNJCOO	7	 _ 	 _ 	 _
+8	دانەبڕاوی	دانەبڕاو	ADJ	ADJ	ADJ	8	 _ 	 _ 	 _
+9	کتێخانەی	کتێخانە	N	N	N|SG|ABS|EZALOS	9	 _ 	 _ 	 _
+10	گشتی	گشتی	ADJ	ADJ	ADJ|PST	10	 _ 	 _ 	 _
+
+#trans = ?
+#sent_id = 6
+#text: بەشێکی زۆری کە ڵە شاعیر و نووسەران و رۆشنبیرانی بە ناوبانگی جیهانی ، ئەوانەن کە لە منداڵییەوە لە ماڵەوە ئاشنای کتێب و خوێندنەوە بوونە یا لە خێزانێکی خوێنەر و رۆشنبیردا چاویان هەڵهێناون 
+1	بەشێکی	بەش	N	N	N|SG|IND|EZALOS	1	 _ 	 _ 	 _
+2	زۆری	زۆر	ADJ	ADJ	ADJ	2	 _ 	 _ 	 _
+3	کە	کە	CNJSUB	CNJSUB	CNJSUB	3	 _ 	 _ 	 _
+4	ڵە	ڵە	PR	PR	PR	4	 _ 	 _ 	 _
+5	شاعیر	شاعیر	N	N	N|SG|ABS	5	 _ 	 _ 	 _
+6	و	و	CNJCOO	CNJCOO	CNJCOO	6	 _ 	 _ 	 _
+7	نووسەران	نووسەر	N	N	N|PL|IND	7	 _ 	 _ 	 _
+8	و	و	CNJCOO	CNJCOO	CNJCOO	8	 _ 	 _ 	 _
+9	رۆشنبیرانی	رۆشنبیر	N	N	N|PL|IND	9	 _ 	 _ 	 _
+10	بە	بە	PR	PR	PR	10	 _ 	 _ 	 _
+11	ناوبانگی	ناوبانگ	N	N	N|SG|ABS|EZALOS	11	 _ 	 _ 	 _
+12	جیهانی	جیهانی	ADJ	ADJ	ADJ|PST	12	 _ 	 _ 	 _
+13	،	،	CM	CM	CM	13	 _ 	 _ 	 _
+14	ئەوانەن	ئەوان	PRN	PRN	PRN|PL|PX3PL	14	 _ 	 _ 	 _
+15	کە	کە	CNJSUB	CNJSUB	CNJSUB	15	 _ 	 _ 	 _
+16	لە	لە	PR	PR	PR	16	 _ 	 _ 	 _
+17	منداڵییەوە	منداڵ	N	N	N|SG|ABS|CLT	17	 _ 	 _ 	 _
+18	لە	لە	PR	PR	PR	18	 _ 	 _ 	 _
+19	ماڵەوە	ماڵ	N	N	N|SG|ABS|CLT	19	 _ 	 _ 	 _
+20	ئاشنای	ئاشنا	N	N	N|SG|ABS|EZALOS	20	 _ 	 _ 	 _
+21	کتێب	کتێب	N	N	N|SG|ABS	21	 _ 	 _ 	 _
+22	و	و	CNJCOO	CNJCOO	CNJCOO	22	 _ 	 _ 	 _
+23	خوێندنەوە	خوێندن	N	N	N|SG|ABS	23	 _ 	 _ 	 _
+24	بوونە	بوون	VBCOP	VBCOP	VBCOP|P3|PL	24	 _ 	 _ 	 _
+25	یا	یا	CNJCOO	CNJCOO	CNJCOO	25	 _ 	 _ 	 _
+26	لە	لە	PR	PR	PR	26	 _ 	 _ 	 _
+27	خێزانێکی	خێزان	N	N	N|SG|IND|EZALOS	27	 _ 	 _ 	 _
+28	خوێنەر	خوێنەر	N	N	N|SG|ABS	28	 _ 	 _ 	 _
+29	و	و	CNJCOO	CNJCOO	CNJCOO	29	 _ 	 _ 	 _
+30	رۆشنبیردا	رۆشنبیر	N	N	N|SG|ABS|CLT	30	 _ 	 _ 	 _
+31	چاویان	چاو	N	N	N|SG|ABS|PX3PL	31	 _ 	 _ 	 _
+32	هەڵهێناون	هەڵهێنان	VBLEX	VBLEX	VBLEX|TV|P3|PL	32	 _ 	 _ 	 _
+
+#trans = ?
+#sent_id = 7
+#text: دایک و باوکیان هاندەر و پاڵپشتیان بوونە 
+1	دایک	دایک	N	N	N|SG|ABS	1	 _ 	 _ 	 _
+2	و	و	CNJCOO	CNJCOO	CNJCOO	2	 _ 	 _ 	 _
+3	باوکیان	باوک	N	N	N|SG|ABS|PX3PL	3	 _ 	 _ 	 _
+4	هاندەر	هاندەر	N	N	N|SG	4	 _ 	 _ 	 _
+5	و	و	CNJCOO	CNJCOO	CNJCOO	5	 _ 	 _ 	 _
+6	پاڵپشتیان	پاڵپشت	N	N	N|SG|ABS|PX3PL	6	 _ 	 _ 	 _
+7	بوونە	بوون	VBCOP	VBCOP	VBCOP|P3|PL	7	 _ 	 _ 	 _
+
+#trans = ?
+#sent_id = 8
+#text: بەم وتەیەی دیگۆن لایلی ، کۆتایی بەم نووسینەم دەهێنم کە دەڵێ کتێبخانەکەت پڕبێت لە کتێب باشترە لەوەی کە جزدانەکەت پڕبێت لە پارە 
+1-2	بەم
+1	بە	PR	PR	PR|PRO	1	 _ 	 _ 	 _ 
+2	ئەم	PRN	PRN	PRN|PERS|P1|SG	2	 _ 	 _ 	 _ 
+3	وتەیەی	وتە	N	N	N|SG|ABS|PX3SG	3	 _ 	 _ 	 _
+4	دیگۆن	دیگۆن	NP	NP	NP	4	 _ 	 _ 	 _
+5	لایلی	لالی	NP	NP	NP	5	 _ 	 _ 	 _
+6	،	،	CM	CM	CM	6	 _ 	 _ 	 _
+7	کۆتایی	کۆتایی	N	N	N|SG|ABS	7	 _ 	 _ 	 _
+8-9	بەم
+8	بە	PR	PR	PR|PRO	8	 _ 	 _ 	 _ 
+9	ئەم	PRN	PRN	PRN|PERS|P1|SG	9	 _ 	 _ 	 _ 
+10	نووسینەم	نووسین	N	N	N|SG|ABS|PX1SG	10	 _ 	 _ 	 _
+11	دەهێنم	دەهێنم	VBLEX	VBLEX	VBLEX|TV|PRES|P1|SG	11	 _ 	 _ 	 _
+12	کە	کە	CNJSUB	CNJSUB	CNJSUB	12	 _ 	 _ 	 _
+13	دەڵێ	وتن	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	13	 _ 	 _ 	 _
+14	کتێبخانەکەت	کتێبخانە	N	N	N|SG|DEF|PX2SG	14	 _ 	 _ 	 _
+15	پڕبێت	پڕبێت	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	15	 _ 	 _ 	 _
+16	لە	لە	PR	PR	PR	16	 _ 	 _ 	 _
+17	کتێب	کتێب	N	N	N|SG|ABS	17	 _ 	 _ 	 _
+18	باشترە	باشتر	ADJ	ADJ	ADJ|COMP	18	 _ 	 _ 	 _
+19-20	لەوەی
+19	لە	PR	PR	PR	19	 _ 	 _ 	 _ 
+20	ئەوەی	PRN	PRN	PRN|P3|SG	20	 _ 	 _ 	 _ 
+21	کە	کە	CNJSUB	CNJSUB	CNJSUB	21	 _ 	 _ 	 _
+22	جزدانەکەت	جزدان	N	N	N|SG|DEF|PX2SG	22	 _ 	 _ 	 _
+23	پڕبێت	پڕبێت	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	23	 _ 	 _ 	 _
+24	لە	لە	PR	PR	PR	24	 _ 	 _ 	 _
+25	پارە	پارە	N	N	N|SG|ABS	25	 _ 	 _ 	 _
+
+#trans = ?
+#sent_id = 9
+#text: زەلیها داغلی وەک فێمێنیست خۆی وەسف دەکات و ماوەیەکی زۆریش بۆ پرسی دیموکراتی کاری کردووە . 
+1	زەلیها	زەلیها	NP	NP	NP	1	 _ 	 _ 	 _
+2	داغلی	داغلی	NP	NP	NP	2	 _ 	 _ 	 _
+3	وەک	وەک	PR	PR	PR	3	 _ 	 _ 	 _
+4	فێمێنیست	فێمێنیست	N	N	N|SG|ABS	4	 _ 	 _ 	 _
+5	خۆی	خۆ	N	N	N|SG|ABS|PX3SG	5	 _ 	 _ 	 _
+6	وەسف	وەسف	N	N	N|SG|ABS	6	 _ 	 _ 	 _
+7	دەکات	کردن	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	7	 _ 	 _ 	 _
+8	و	و	CNJCOO	CNJCOO	CNJCOO	8	 _ 	 _ 	 _
+9	ماوەیەکی	ماوە	N	N	N|SG|IND|EZALOS	9	 _ 	 _ 	 _
+10	زۆریش	زۆر	ADV	ADV	ADV	10	 _ 	 _ 	 _
+11	بۆ	بۆ	PR	PR	PR	11	 _ 	 _ 	 _
+12	پرسی	پرسی	N	N	N|SG|ABS|EZALOS	12	 _ 	 _ 	 _
+13	دیموکراتی	دیموکرات	ADJ	ADJ	ADJ	13	 _ 	 _ 	 _
+14	کاری	کار	N	N	N|SG|ABS|PX3SG	14	 _ 	 _ 	 _
+15	کردووە	کردن	VBLEX	VBLEX	VBLEX|TV|PERF|P3|SG	15	 _ 	 _ 	 _
+16	.	.	SENT	SENT	SENT	16	 _ 	 _ 	 _
+

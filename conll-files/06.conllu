@@ -1,0 +1,242 @@
+
+#trans= For Zulaiha Hyosbi district forms a cafeteria and arena where men get together, look at women and control them in a variety of ways. 
+#sent_id = 1
+#text: گەڕەکی هیوسبی لە بەرچاوی زولەیهادا ئێستا بریتییە لەو کافێتریا و گۆڕەپانەی کە پیاوانی تیدا کۆدەبنەوە و چاو دەبڕنە ژنان و بە شێوەی جیاواز کۆنترۆڵیان دەکەن 
+1	گەڕەکی	گەڕەک	N	N	N|SG|ABS|EZALOS	1	 _ 	 _ 	 _
+2	هیوسبی	هیوسبی	NP	NP	NP	2	 _ 	 _ 	 _
+3	لە	لە	PR	PR	PR	3	 _ 	 _ 	 _
+4	بەرچاوی	بەرچاوی	N	N	N|SG|ABS|EZALOS	4	 _ 	 _ 	 _
+5-6	زولەیهادا
+5	زولەیهادا	NP	NP	NP	5	 _ 	 _ 	 _ 
+6	دا	CLT	CLT	CLT	6	 _ 	 _ 	 _ 
+7	ئێستا	ئێستا	ADV	ADV	ADV	7	 _ 	 _ 	 _
+8-9	بریتییە
+8	بریتی	N	N	N|SG|ABS|PX3SG	8	 _ 	 _ 	 _ 
+9	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	9	 _ 	 _ 	 _ 
+10-11	لەو
+10	لە	PR	PR	PR	10	 _ 	 _ 	 _ 
+11	ئەو	PRN	PRN	PRN|PERS|P3|SG	11	 _ 	 _ 	 _ 
+12	کافێتریا	کافێتریا	N	N	N|SG|ABS	12	 _ 	 _ 	 _
+13	و	و	CNJCOO	CNJCOO	CNJCOO	13	 _ 	 _ 	 _
+14	گۆڕەپانەی	گۆڕەپانەی	N	N	N|SG|ABS|PX3SG	14	 _ 	 _ 	 _
+15	کە	کە	CNJSUB	CNJSUB	CNJSUB	15	 _ 	 _ 	 _
+16	پیاوانی	پیاو	N	N	N|PL|IND|PX3SG	16	 _ 	 _ 	 _
+17-18	تیدا
+17	تیدا	PR	PR	PR	17	 _ 	 _ 	 _ 
+18	دا	CLT	CLT	CLT	18	 _ 	 _ 	 _ 
+19	کۆدەبنەوە	کۆدەبنەوە	VBLEX	VBLEX	VBLEX|IV|P3|PL	19	 _ 	 _ 	 _
+20	و	و	CNJCOO	CNJCOO	CNJCOO	20	 _ 	 _ 	 _
+21	چاو	چاو	N	N	N|SG|ABS	21	 _ 	 _ 	 _
+22	دەبڕنە	دەبڕنە	VBLEX	VBLEX	VBLEX|IV|P3|PL	22	 _ 	 _ 	 _
+23	ژنان	ژن	N	N	N|PL|IND	23	 _ 	 _ 	 _
+24	و	و	CNJCOO	CNJCOO	CNJCOO	24	 _ 	 _ 	 _
+25	بە	بە	PR	PR	PR	25	 _ 	 _ 	 _
+26	شێوەی	شێوە	N	N	N|SG|ABS|EZALOS	26	 _ 	 _ 	 _
+27	جیاواز	جیاواز	ADJ	ADJ	ADJ|PST	27	 _ 	 _ 	 _
+28	کۆنترۆڵیان	کۆنترۆڵیان	N	N	N|SG|ABS|PX3PL	28	 _ 	 _ 	 _
+29	دەکەن	کردن	VBLEX	VBLEX	VBLEX|TV|PRI|P3|PL	29	 _ 	 _ 	 _
+
+#trans= Not only do men take control of the cafeterias, but they do so over swimming pools and cultural centres as well. 
+#sent_id = 2
+#text: هەر کەفێتریاکان نییە بەڵکە پیاوان مەلەوانگە و کۆمەڵە کلتورییەکانیشیان داگیر کردووە 
+1	هەر	هەر	DET	DET	DET|IND|SG	1	 _ 	 _ 	 _
+2	کەفێتریاکان	کەفێتریاکان	N	N	N|PL|DEF	2	 _ 	 _ 	 _
+3	نییە	بوون	VBCOP	VBCOP	VBCOP|PRI|NEG|P3|SG	3	 _ 	 _ 	 _
+4	بەڵکە	بەڵکە	CNJCOO	CNJCOO	CNJCOO	4	 _ 	 _ 	 _
+5	پیاوان	پیاو	N	N	N|PL|IND	5	 _ 	 _ 	 _
+6	مەلەوانگە	مەلەوانگە	N	N	N|SG|ABS	6	 _ 	 _ 	 _
+7	و	و	CNJCOO	CNJCOO	CNJCOO	7	 _ 	 _ 	 _
+8	کۆمەڵە	کۆمەڵە	N	N	N|SG|ABS	8	 _ 	 _ 	 _
+9	کلتورییەکانیشیان	کلتورییەکانیشیان	N	N	N|PL|DEF|PX3PL	9	 _ 	 _ 	 _
+10	داگیر	داگیر	N	N	N|SG|ABS	10	 _ 	 _ 	 _
+11	کردووە	کردن	VBLEX	VBLEX	VBLEX|TV|PERF|P3|SG	11	 _ 	 _ 	 _
+
+#trans= Women feel restricted and deprived of their freedom.  
+#sent_id = 3
+#text: ژنان هەست بە سنورداری دەکەن و هەست دەکەن ئازادییان لێ زەوت کراوە 
+1	ژنان	ژن	N	N	N|PL|IND	1	 _ 	 _ 	 _
+2	هەست	ھەست	N	N	N|SG|ABS	2	 _ 	 _ 	 _
+3	بە	بە	PR	PR	PR	3	 _ 	 _ 	 _
+4	سنورداری	سنورداری	N	N	N|SG|ABS|PX3SG	4	 _ 	 _ 	 _
+5	دەکەن	کردن	VBLEX	VBLEX	VBLEX|TV|PRI|P3|PL	5	 _ 	 _ 	 _
+6	و	و	CNJCOO	CNJCOO	CNJCOO	6	 _ 	 _ 	 _
+7	هەست	ھەست	N	N	N|SG|ABS	7	 _ 	 _ 	 _
+8	دەکەن	کردن	VBLEX	VBLEX	VBLEX|TV|PRI|P3|PL	8	 _ 	 _ 	 _
+9	ئازادییان	ئازادی	N	N	N|SG|ABS|PX3PL	9	 _ 	 _ 	 _
+10-11	لێ
+10	لە	PR	PR	PR	10	 _ 	 _ 	 _ 
+11	ئەو	PRN	PRN	PRN|PERS|P3|PL	11	 _ 	 _ 	 _ 
+12	زەوت	زەوت	N	N	N|SG|ABS	12	 _ 	 _ 	 _
+13	کراوە	کردن	VBLEX	VBLEX	VBLEX|TV|PERF|P3|SG	13	 _ 	 _ 	 _
+
+#trans= This sense and description of Zulaiha is on Alawi federation issue and Naveen Kamil Ordosh is a witness. 
+#sent_id = 4
+#text: ئەم هەست و وەسفەی زولەیها بە پرسی فیدراسیۆنی عەلەوییەکانیش نەڤین کامیل ئوردوش شایەتحاڵییەتی 
+1	ئەم	ئەم	DET	DET	DET|DEM|SG	1	 _ 	 _ 	 _
+2	هەست	ھەست	N	N	N|SG|ABS	2	 _ 	 _ 	 _
+3	و	و	CNJCOO	CNJCOO	CNJCOO	3	 _ 	 _ 	 _
+4	وەسفەی	وەسفەی	N	N	N|SG|ABS|EZALOS	4	 _ 	 _ 	 _
+5	زولەیها	زولەیها	NP	NP	NP	5	 _ 	 _ 	 _
+6	بە	بە	PR	PR	PR	6	 _ 	 _ 	 _
+7	پرسی	پرسی	N	N	N|SG|ABS|EZALOS	7	 _ 	 _ 	 _
+8	فیدراسیۆنی	فیدراسیۆنی	N	N	N|SG|ABS|EZALOS	8	 _ 	 _ 	 _
+9	عەلەوییەکانیش	عەلەوییەکانیش	N	N	N|PL|DEF|EZALOS	9	 _ 	 _ 	 _
+10	نەڤین	نەڤین	NP	NP	NP	10	 _ 	 _ 	 _
+11	کامیل	کامیل	NP	NP	NP	11	 _ 	 _ 	 _
+12	ئوردوش	ئوردوش	NP	NP	NP	12	 _ 	 _ 	 _
+13-14	شایەتحاڵییەتی
+13	شایەتحاڵییەتی	N	N	N|SG|ABS	13	 _ 	 _ 	 _ 
+14	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	14	 _ 	 _ 	 _ 
+
+#trans= There is no place left for women; we don't have a place where we can see each other. 
+#sent_id = 5
+#text: جێ بۆ ژنان نەماوەتەوە ، شوێنێکمان نییە یەکتری تێدا ببینین ، 
+1	جێ	جێ	N	N	N|SG|ABS	1	 _ 	 _ 	 _
+2	بۆ	بۆ	PR	PR	PR	2	 _ 	 _ 	 _
+3	ژنان	ژن	N	N	N|PL|IND	3	 _ 	 _ 	 _
+4	نەماوەتەوە	نەماوەتەوە	VBLEX	VBLEX	VBLEX|TV|P3|SG	4	 _ 	 _ 	 _
+5	،	،	CM	CM	CM	5	 _ 	 _ 	 _
+6	شوێنێکمان	شوێن	N	N	N|SG|IND|PX1PL	6	 _ 	 _ 	 _
+7	نییە	بوون	VBCOP	VBCOP	VBCOP|PRI|NEG|P3|SG	7	 _ 	 _ 	 _
+8	یەکتری	یەکتری	N	N	N|SG|ABS|PX3SG	8	 _ 	 _ 	 _
+9-10	تێدا
+9	تێدا	PR	PR	PR	9	 _ 	 _ 	 _ 
+10	دا	CLT	CLT	CLT	10	 _ 	 _ 	 _ 
+11	ببینین	ببینین	VBLEX	VBLEX	VBLEX|TV|PRI|P1|PL	11	 _ 	 _ 	 _
+12	،	،	CM	CM	CM	12	 _ 	 _ 	 _
+
+#trans= Naveen Kamil says: here at Hyosbi there are many assemblies but all ot their members are men.
+#sent_id = 6
+#text: نێڤین کامیل دەڵێت لێرە لە هیوسبی کۆمەڵەی زۆر لێیە بەڵام هەموو ئەندامانی پیاون 
+1	نێڤین	نێڤین	NP	NP	NP	1	 _ 	 _ 	 _
+2	کامیل	کامیل	NP	NP	NP	2	 _ 	 _ 	 _
+3	دەڵێت	وتن	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	3	 _ 	 _ 	 _
+4	لێرە	لێرە	ADV	ADV	ADV	4	 _ 	 _ 	 _
+5	لە	لە	PR	PR	PR	5	 _ 	 _ 	 _
+6	هیوسبی	هیوسبی	NP	NP	NP|TOP|SG|ABS	6	 _ 	 _ 	 _
+7	کۆمەڵەی	کۆمەڵە	N	N	N|SG|ABS|EZALOS	7	 _ 	 _ 	 _
+8	زۆر	زۆر	ADV	ADV	ADV	8	 _ 	 _ 	 _
+9-11	لێیە
+9	لێیە	PR	PR	PR	9	 _ 	 _ 	 _ 
+10	ێ	PRN	PRN	PRN|CLT|P3|SG	10	 _ 	 _ 	 _ 
+11	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	11	 _ 	 _ 	 _ 
+12	بەڵام	بەڵام	CNJCOO	CNJCOO	CNJCOO	12	 _ 	 _ 	 _
+13	هەموو	ھەموو	DET	DET	DET|QNT|PL	13	 _ 	 _ 	 _
+14	ئەندامانی	ئەندام	N	N	N|PL|IND|EZALOS	14	 _ 	 _ 	 _
+15-16	پیاون
+15	پیاو	N	N	N|SG|ABS	15	 _ 	 _ 	 _ 
+16	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|PL	16	 _ 	 _ 	 _ 
+
+#trans= There are no women in the presidency of these assemblies. 
+#sent_id = 7
+#text: هیچ ژنێک لە سەرۆکایەتیی ئەو کۆمەڵانەدا نین 
+1	هیچ	هیچ	ADV	ADV	ADV	1	 _ 	 _ 	 _
+2	ژنێک	ژن	N	N	N|SG|IND	2	 _ 	 _ 	 _
+3	لە	لە	PR	PR	PR	3	 _ 	 _ 	 _
+4	سەرۆکایەتیی	سەرۆکایەتی	N	N	N|SG|ABS|EZALOS	4	 _ 	 _ 	 _
+5	ئەو	ئەو	DET	DET	DET|DEM|SG	5	 _ 	 _ 	 _
+6-7	کۆمەڵانەدا
+6	کۆمەڵانەدا	N	N	N|PL|ABS	6	 _ 	 _ 	 _ 
+7	دا	CLT	CLT	CLT	7	 _ 	 _ 	 _ 
+8	نین	بوون	VBCOP	VBCOP	VBCOP|PRI|NEG|P3|PL	8	 _ 	 _ 	 _
+
+#trans= This is a problem for women, Naveen states.  
+#sent_id = 8
+#text: ئەمە کێشەیە بۆ ژنان نڤین دەڵێت 
+1	ئەمە	ئە	DET	DET	DET|DEM|SG	1	 _ 	 _ 	 _
+2-3	کێشەیە
+2	کێشەیە	N	N	N|SG|ABS	2	 _ 	 _ 	 _ 
+3	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	3	 _ 	 _ 	 _ 
+4	بۆ	بۆ	PR	PR	PR	4	 _ 	 _ 	 _
+5	ژنان	ژن	N	N	N|PL|IND	5	 _ 	 _ 	 _
+6	نڤین	نڤین	NP	NP	NP	6	 _ 	 _ 	 _
+7	دەڵێت	وتن	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	7	 _ 	 _ 	 _
+
+#trans= Benjamin Dousa of the Moderate party says: at present politicians investigate this issue, but they don't have a quick solution for it. 
+#sent_id = 9
+#text: بێنیامین دوسای مۆدێرات دەڵێت لە حاڵی حازردا سیاسەتمەداران لەو پرسە دەکۆڵنەوە بەڵام هیچ چارەسەرێکی خێرایان نییە بۆ ئەو کێشەیە 
+1	بێنیامین	بێنیامین	NP	NP	NP	1	 _ 	 _ 	 _
+2	دوسای	دوسای	NP	NP	NP|EZALOS	2	 _ 	 _ 	 _
+3	مۆدێرات	مۆدێرات	N	N	N|SG|ABS	3	 _ 	 _ 	 _
+4	دەڵێت	وتن	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	4	 _ 	 _ 	 _
+5	لە	لە	PR	PR	PR	5	 _ 	 _ 	 _
+6	حاڵی	حاڵی	N	N	N|SG|ABS|EZALOS	6	 _ 	 _ 	 _
+7-8	حازردا
+7	حازر	ADV	ADV	ADV	7	 _ 	 _ 	 _ 
+8	دا	CLT	CLT	CLT	8	 _ 	 _ 	 _ 
+9	سیاسەتمەداران	سیاسەتمەدار	N	N	N|PL|IND	9	 _ 	 _ 	 _
+10-11	لەو
+10	لە	PR	PR	PR	10	 _ 	 _ 	 _ 
+11	ئەو	PRN	PRN	PRN|PERS|P3|SG	11	 _ 	 _ 	 _ 
+12	پرسە	پرسە	N	N	N|SG|ABS	12	 _ 	 _ 	 _
+13	دەکۆڵنەوە	دەکۆڵنەوە	VBLEX	VBLEX	VBLEX|IV|P3|PL	13	 _ 	 _ 	 _
+14	بەڵام	بەڵام	CNJCOO|PR	CNJCOO|PR	CNJCOO|PR	14	 _ 	 _ 	 _
+15	هیچ	هیچ	ADV	ADV	ADV	15	 _ 	 _ 	 _
+16	چارەسەرێکی	چارەسەر	N	N	N|SG|IND|EZALOS	16	 _ 	 _ 	 _
+17	خێرایان	خێرایان	ADJ	ADJ	ADJ|PX3PL	17	 _ 	 _ 	 _
+18	نییە	بوون	VBCOP	VBCOP	VBCOP|PRI|NEG|P3|SG	18	 _ 	 _ 	 _
+19	بۆ	بۆ	PR	PR	PR	19	 _ 	 _ 	 _
+20	ئەو	ئەو	DET	DET	DET|DEM|SG	20	 _ 	 _ 	 _
+21	کێشەیە	کێشەیە	N	N	N|SG|ABS	21	 _ 	 _ 	 _
+
+#trans= The representatives of the political parties in these districts have now allocated two people to encourage girls to get involved in the activities of the assemblies and clubs. 
+#sent_id = 10
+#text: هەر ئێستاش نوێنەرایەتی پارتە سیاسییەکان لەو گەڕەکانە دوو کەسیان تەرخان کردووە بۆ هاندانی کچان بۆ چالاکی لەو کۆمەڵە و یاندانەدا 
+1	هەر	هەر	PRN	PRN	PRN|SG	1	 _ 	 _ 	 _
+2	ئێستاش	ئێستاش	ADV	ADV	ADV	2	 _ 	 _ 	 _
+3	نوێنەرایەتی	نوێنەرایەتی	N	N	N|SG|ABS|EZALOS	3	 _ 	 _ 	 _
+4	پارتە	پارت	N	N	N|SG|ABS|EZACLO	4	 _ 	 _ 	 _
+5	سیاسییەکان	سیاسییەکان	N	N	N|PL|DEF	5	 _ 	 _ 	 _
+6-7	لەو
+6	لە	PR	PR	PR	6	 _ 	 _ 	 _ 
+7	ئەو	PRN	PRN	PRN|PERS|P3|SG	7	 _ 	 _ 	 _ 
+8	گەڕەکانە	گەڕەک	N	N	N|PL|DEF	8	 _ 	 _ 	 _
+9	دوو	دوو	NUM	NUM	NUM|PL	9	 _ 	 _ 	 _
+10	کەسیان	کەس	N	N	N|SG|ABS|PX3PL	10	 _ 	 _ 	 _
+11	تەرخان	تەرخان	N	N	N|SG|ABS	11	 _ 	 _ 	 _
+12	کردووە	کردن	VBLEX	VBLEX	VBLEX|TV|PERF|P3|SG	12	 _ 	 _ 	 _
+13	بۆ	بۆ	PR	PR	PR	13	 _ 	 _ 	 _
+14	هاندانی	هاندانی	N	N	N|SG|ABS|EZALOS	14	 _ 	 _ 	 _
+15	کچان	کچ	N	N	N|PL|IND	15	 _ 	 _ 	 _
+16	بۆ	بۆ	PR	PR	PR	16	 _ 	 _ 	 _
+17	چالاکی	چالاکی	N	N	N|SG|ABS	17	 _ 	 _ 	 _
+18-19	لەو
+18	لە	PR	PR	PR	18	 _ 	 _ 	 _ 
+19	ئەو	PRN	PRN	PRN|PERS|P3|SG	19	 _ 	 _ 	 _ 
+20	کۆمەڵە	کۆمەڵە	N	N	N|SG|ABS	20	 _ 	 _ 	 _
+21	و	و	CNJCOO	CNJCOO	CNJCOO	21	 _ 	 _ 	 _
+22-23	یاندانەدا
+22	یاندانەدا	N	N	N|SG|ABS	22	 _ 	 _ 	 _ 
+23	دا	CLT	CLT	CLT	23	 _ 	 _ 	 _ 
+
+#trans= It is necessary that those who gave up Shangal to terrorists should be sentenced and punished. 
+#sent_id = 11
+#text: پێویسته‌ ئه‌وانه‌ی شه‌نگالیان ته‌سلیمی مه‌رحه‌مه‌تی تیرۆریست كرد دادگای بكرێن و بە ‌سزایی خۆیان بگه‌یه‌نرێن 
+1	پێویسته‌	پێویستە	N	N	N|SG|ABS	1	 _ 	 _ 	 _
+2	ئه‌وانه‌ی	ئه‌وانه‌ی	PRN	PRN	PRN|PERS|P3|PL	2	 _ 	 _ 	 _
+3	شه‌نگالیان	شه‌نگالیان	NP	NP	NP|TOP|SG|ABS|PX3PL	3	 _ 	 _ 	 _
+4	ته‌سلیمی	ته‌سلیمی	N	N	N|SG|ABS	4	 _ 	 _ 	 _
+5	مه‌رحه‌مه‌تی	مه‌رحه‌مه‌تی	N	N	N|SG|ABS|EZALOS	5	 _ 	 _ 	 _
+6	تیرۆریست	تیرۆریست	N	N	N|SG|ABS	6	 _ 	 _ 	 _
+7	كرد	کردن	VBLEX	VBLEX	VBLEX|TV|PAST|P3|SG	7	 _ 	 _ 	 _
+8	دادگای	دادگا	N	N	N|SG|ABS	8	 _ 	 _ 	 _
+9	بكرێن	کردن	VBLEX	VBLEX	VBLEX|TV|PAST|P3|PL	9	 _ 	 _ 	 _
+10	و	و	CNJCOO	CNJCOO	CNJCOO	10	 _ 	 _ 	 _
+11	بە	بە	PR	PR	PR	11	 _ 	 _ 	 _
+12	‌سزایی	‌سزایی	N	N	N|SG|ABS|EZALOS	12	 _ 	 _ 	 _
+13	خۆیان	خۆ	N	N	N|SG|ABS|PX3PL	13	 _ 	 _ 	 _
+14	بگه‌یه‌نرێن	بگه‌یه‌نرێن	VBLEX	VBLEX	VBLEX|TV|P3|PL	14	 _ 	 _ 	 _
+
+#trans= Ministry of Higher Education and Scientific Research announces it. 
+#sent_id = 12
+#text: وتەبێژی وەزارەتی خوێندنی باڵا و توێژینەوەی زانستی ڕایدەگەنێت . 
+1	وتەبێژی	وتەبێژی	N	N	N|SG|ABS|EZALOS	1	 _ 	 _ 	 _
+2	وەزارەتی	وەزارەت	N	N	N|SG|ABS|EZALOS	2	 _ 	 _ 	 _
+3	خوێندنی	خوێندن	N	N	N|SG|ABS|EZALOS	3	 _ 	 _ 	 _
+4	باڵا	باڵا	N	N	N|SG|ABS	4	 _ 	 _ 	 _
+5	و	و	CNJCOO	CNJCOO	CNJCOO	5	 _ 	 _ 	 _
+6	توێژینەوەی	توێژینەوە	N	N	N|SG|ABS|EZALOS	6	 _ 	 _ 	 _
+7	زانستی	زانستی	ADJ	ADJ	ADJ|PST	7	 _ 	 _ 	 _
+8	ڕایدەگەنێت	ڕایدەگەنێت	VBLEX	VBLEX	VBLEX|TV|P3|SG	8	 _ 	 _ 	 _
+9	.	.	SENT	SENT	SENT	9	 _ 	 _ 	 _
+
