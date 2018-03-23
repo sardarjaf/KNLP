@@ -1,0 +1,160 @@
+#trans = ?
+"<بۆ>"
+	"بۆ" pr
+"<كێشه‌>"
+	"کێش" n sg abs
+"<ناوخۆیه‌كانی>"
+	"ناوخۆ" n pl def ezalos
+"<خۆشیان>"
+	"خۆش" n sg abs px3pl
+"<پێیان>"
+	"پێیان" pr prn clt p3 pl
+"<باشه‌>"
+	"باش" adj pst 
+	"بوون" vbcop pri p3 sg
+"<به‌رپرسانی>"
+	"به‌رپرسانی" n pl abs azalos
+"<هه‌رێم>"
+	"هەرێم" n sg abs
+"<رۆڵی>"
+	"رۆڵی" n sg abs ezalos
+"<ناوبژیوانی>"
+	"ناوبژیوانی" n pl azalos
+"<بگێڕن>"
+	"بگێڕن" vblex tv p3 sg 
+
+#trans = ?
+"<ئه‌وه‌>"
+	"ئه‌وه‌" det dem sg
+"<پاره‌یه‌>"
+	"پارە" n sg abs
+	"بوون" vbcop pri p3 sg
+"<وایکردوە>"
+	"وایکردوە" vblex tv p3 sg
+"<،>"
+	"،" cm
+"<كه‌سێك>"
+	"کەس" n sg ind
+"<توانای>"
+	"توانا" n sg abs ezalos
+"<كاركردنی>"
+	"کارکردن" n sg abs px3sg
+"<نه‌بێ>"
+	"نه‌بێ" vbcop neg p3 sg
+"<و>"
+	"و" cnjcoo
+"<ئه‌وه‌نده‌>"
+	"ئه‌وه‌نده‌" adv
+"<خاوه‌ن>"
+	"خاوەن" n sg abs
+"<ئیراده‌ی>"
+	"ئیراده‌ی" n sg abs ezalos
+"<خۆی>"
+	"خۆ" n sg abs px3sg
+"<نه‌بێ>"
+	"نه‌بێ" vbcop neg p3 sg
+"<نه‌توانێ>"
+	"نه‌توانێ" vbmod neg p3 sg 
+"<به‌رگه‌ی>"
+	"بەرگە" n sg abs ezalos
+"<ماندوێتی>"
+	"ماندوێتی" n sg abs ezalos
+"<ژیانی>"
+	"ژیان" n sg abs ezalos
+"<رۆژانه‌ی>"
+	"رۆژ" n pl dem ezalos
+"<كاركردن>"
+	"کارکردن" n sg abs
+"<بگرێ>"
+	"گرتن" vblex tv prs p3 sg
+"<ناچار>"
+	"ناچار" adj pst
+"<ده‌بێت>"
+	"دەبێت" vbcop pri p3 sg
+
+#trans = ?
+"<دراو>"
+	"دراو" n sg abs
+"<پاره‌>"
+	"پارە" n sg abs 
+"<كارێكی>"
+	"کار" n sg ind px3sg 
+"<وا>"
+	"وا" adv
+"<ده‌كات>"
+	"کردن" vblex tv pri p3 sg
+
+#trans = ?
+"<ره‌نگه‌>"
+	"رەنگ" n sg abs 
+"<ئێمه‌>"
+	"ئێمە" prn pers p1 pl
+"<بتوانین>"
+	"بتوانین" vbmod p1 pl 
+"<خۆمان>"
+	"خۆ" n sg abs px1pl
+"<له‌گه‌ڵ>"
+	"لەگەڵ" pr
+"<مه‌رگ>"
+	"مەرگ" n sg abs
+"<یه‌ک>"
+	"یەک" n qnt
+"<لای>"
+	"لا" n sg abs px3sg
+"<بكه‌ینه‌وه‌>"
+	"کردنەوە" vblex tv prs p1 pl
+
+#trans = ?
+"<قه‌ناعه‌تمان>"
+	"قه‌ناعه‌تمان" n sg abs px1pl 
+"<وابێ>"
+	"وابێ" adv
+	"بوون" vbcop pri p1 sg 
+"<هه‌ر>"
+	"هەر" adv
+"<یه‌كه‌مان>"
+	"یەکە" n sg abs px1pl
+"<بە>"
+	"بە" pr
+"<‌جۆرێک>"
+	"‌جۆرێک" n sg ind
+"<بۆ>"
+	"بۆ" pr
+"<نموونه‌>"
+	"نموونه‌" n sg abs 
+"<بە>"
+	"بە" pr
+"<‌لای>"
+	"‌لای" n sg abs ezalos
+"<منه‌وه‌>"
+	"من‌" prn pers p1 sg clt 
+"<مه‌رگ>"
+	"مەرگ" n sg abs
+"<گرنگیه‌کی>"
+	"گرنگ" n sg ind px3sg 
+"<ئه‌وتۆ>"
+	"ئەوتۆ" adj pst
+"<لە>"
+	"لە" pr
+"<‌ژیانمدا>"
+	"‌ژیانم" n sg abs px1sg clt
+"<نیه‌>"
+	"بوون" vbcop pri neg p3 sg
+"<که‌چی>"
+	"که‌چی" adv
+"<بە>"
+	"بە" pr
+"<‌لای>"
+	"‌لای" n sg abs ezalos
+"<که‌سانێکی>"
+	"که‌سانێکی" n sg ind ezalos
+"<تر>"
+	"تر" prn
+"<مه‌رگ>"
+	"مەرگ" n sg abs
+"<گرنگه‌>"
+	"گرنگ" adj pst
+		"بوون" vbcop pri p3 sg
+"<!.>"
+	"!." sent
+

@@ -1,0 +1,276 @@
+#trans= Receiving from the front and back camera of the smart equipments requires two months for them and by increasing this they would not do an action at the social apps.
+"<وەرگرتن>"
+	"وەرگرتن" n sg abs
+"<لە>"
+	"لە" pr
+"<کامێرای>"
+	"کامێرای" n sg abs ezalos
+"<پێشەوە>"
+	"پێشەوە" adv 
+"<و>"
+	"و" cnjcoo
+"<پشتەوەی>"
+	"پشتەوەی" adv ezalos
+"<ئامێرە>"
+	"ئامێر" n sg abs 
+"<زیرەکەکان>"
+	"زیرەکەکان" n pl def 
+"<،>"
+	"،" cm
+"<بۆ>"
+	"بۆ" pr
+"<ئەو>"
+	"ئەو" det dem sg
+"<کارەشیان>"
+	"کارەشیان" n sg abs px3pl
+"<نزیکەی>"
+	"نزیکەی" pr
+"<دوو>"
+	"دوو" num pl
+"<مانگیان>"
+	"مانگیان" n sg abs px3pl
+"<پێویست>"
+	"پێویست" n sg abs 
+"<دەبێت>"
+	"دەبێت" vbcop pri p3 sg 
+"<،>"
+	"،" cm
+"<بە>"	
+	"بە"
+"<زیادکردنیشی>"
+	"زیادکردنیشی" n sg abs px3sg 
+"<کارێکی>"
+	"کار" n sg ind ezalos
+"<نەکراو>"
+	"نەکراو" vblex tv past neg p3 sg
+"<دەکەن>"
+	"کردن" vblex tv pri p3 pl
+"<لە>"
+	"لە" pr
+"<ئاپە>"
+	"ئاپە" n sg abs
+"<کۆمەڵایەتییەکاندا>"
+	"کۆمەڵایەتییەکان" n pl def
+	"دا" clt
+
+#trans= In today's world currency or money, money and currency give us no choice/ worry us.
+"<له‌>"
+	"لە" pr
+"<دونیای>"
+	"دونیای" n sg abs ezalos
+"<ئه‌مڕۆماندا>"
+	"ئه‌مڕۆماندا" n sg px1pl
+	"دا" clt
+"<دراو>"
+	"دراو" n sg abs
+"<یاخوود>"
+	"یاخوود" adv|cnjcoo
+"<پاره‌>"
+	"پارە" n sg abs
+"<،>"
+	"،" cm
+"<پاره‌>"
+	"پارە" n sg abs
+"<و>"
+	"و" cnjcoo
+"<دراو>"
+	"دراو" n sg abs
+"<ناچاری>"
+	"ناچاری" n sg abs
+"<کردوین>"
+	"کردوین" vblex tv prs p1 pl 
+
+#trans= ?
+"<زوو>"
+	"زوو" adv
+"<له‌>"
+	"لە" pr
+"<خه‌و>"
+	"خەو" n sg abs
+"<راپه‌ڕین>"
+	"راپه‌ڕین" n sg abs 
+"<و>"
+	"و" cnjcoo
+"<دره‌نگ>"
+	"درەنگ" adj pst
+"<بخه‌وین>"
+	"بخه‌وین" vblex iv p1 pl 
+"<،>"
+	"،" cm
+"<ماندوبین>"
+	"ماندوبین" adj px1pl 
+"<عاره‌قه‌>"
+	"عاره‌قه‌" n sg abs 
+"<بكه‌ین>"
+	"کردن" vblex tv prs p1 pl
+"<،>"
+	"،" cm
+"<ته‌نانه‌ت>"
+	"تەنانەت" adv
+"<له‌>"
+	"لە" pr
+"<پێناویشیدا>"
+	"پێناویشیدا" n sg abs px3sg
+	"دا" clt
+"<مرۆڤ>"
+	"مرۆڤ" n sg abs
+"<بۆی>"
+	"بۆ" pr
+		"ی" prn pers p3 sg
+"<بجه‌نگێ>"
+	"بجه‌نگێ" vblex pri p3 sg 
+
+#trans= ?
+"<یاخوود>"
+	"یاخوود" adv|cnjcoo
+"<پێشانگای>"
+	"پێشانگای" n sg abs ezalos
+"<ئۆتۆمۆبێل>"
+	"ئۆتۆمۆبێل" n sg abs 
+"<سه‌رمایه‌دارانی>"
+	"سه‌رمایه‌دارانی" n pl abs ezalos
+"<پیاو>"
+	"پیاو" n sg abs
+"<چه‌ند>"
+	"چەند" det qnt sp
+"<كچێكی>"
+	"کچ" n sg ind ezalos 
+"<گه‌نج>"
+	"گەنج" n sg abs
+"<له‌>"
+	"لە" pr
+"<ولاتانی>"
+	"ولاتانی" n pl abs ezalos
+"<ده‌ره‌وه‌>"
+	"دەرەوە" n sg abs
+"<دێنن>"
+	"دێنن" vblex tv p3 pl 
+"<،>"
+	"،" cm
+"<بۆ>"
+	"بۆ" pr
+"<ئه‌وه‌ی>"
+	"ئه‌وه‌ی" det dem sg  
+"<سه‌رنجی>"
+	"سەرنج" n sg abs ezalos
+"<کڕیار>"
+	"کڕیار" n sg abs 
+"<رابکێشن>"
+	"رابکێشن" vblex pri p3 pl 
+"<،>"
+	"،" cm
+"<ره‌ونه‌ق>"
+	"ره‌ونه‌ق" n sg abs 
+"<و>"
+	"و" cnjcoo
+"<جوانی>"
+	"جوانی" n sg abs
+"<ده‌ده‌نه‌>"
+	"ده‌ده‌نه‌" vblex tv p3 pl
+"<ئوتۆمبێله‌کان>"
+	"ئوتۆمبێله‌کان" n pl def 
+
+#trans= ?
+"<بۆ>"
+	"بۆ" pr
+"<ئه‌وه‌ی>"
+	"ئه‌وه‌ی" det dem sg 
+"<حه‌ز>"
+	"حه‌ز" n sg abs
+"<و>"
+	"و" cnjcoo
+"<ئاره‌زووی>"
+	"ئارەزوو" n sg abs ezalos 
+"<پیاوان>"
+	"پیاو" n pl ind
+"<و>"
+	"و" cnjcoo
+"<کڕیار>"
+	"کڕیار"
+"<بۆ>"
+	"بۆ" pr
+"<کاڵا>"
+	"کاڵا" n sg abs ?
+"<و>"
+	"و" cnjcoo
+"<شت>"
+	"شت" n sg abs ?
+"<و>"
+	"و" cnjcoo
+"<مه‌کرابکێشن>"
+	"مه‌کرابکێشن‌" n sg abs 
+	"بوون" vbcop pri p3 pl
+"<!>"
+	"!" sent
+
+#trans= It is just for money that countries fight each other.
+"<هه‌ر>"
+	"هەر" adv
+"<بۆ>"
+	"بۆ" pr
+"<پاره‌یه‌>"
+	"پارە" n sg abs
+		"بوون" vbcop pri p3 sg
+"<ده‌وڵه‌ته‌كان>"
+	"دەوڵەت" n pl def
+"<دژی>"
+	"دژ" pr
+"<یه‌ك>"
+	"یەک" num sg
+"<ده‌جه‌نگن>"
+	"ده‌جه‌نگن" vblex tv pri p3 pl 
+
+#trans= Thousands of women to be widow and men be without women. 
+"<هه‌زاران>"
+	"ھەزار" n pl ind
+"<ژن>"
+	"ژن" n sg abs
+"<بێوه‌ژن>"
+	"بێوەژن" n sg abs
+"<بكه‌ون>"
+	"بكه‌ون" vbcop pri p3 pl
+"<و>"
+	"و" cnjcoo
+"<پیاوانیش>"
+	"پیاو" n pl ind emph
+"<بێ>"
+	"بێ" pr
+"<ژن>"
+	"ژن" n sg abs
+"<بمێننه‌وه‌>"
+	"بمێننه‌وه‌" vblex iv pri p3 pl 
+
+#trans= As for the dangers of Iran and the current regime of Asad in Syria USA has chosen silence. 
+"<که‌چی>"
+	"که‌چی" adv 
+"<له‌به‌رامبه‌ر>"
+	"له‌به‌رامبه‌ر" pr 
+"<مه‌ترسیه‌كانی>"
+	"مەترسی" n pl def ezalos 
+"<ئێران>"
+	"ئێران" np top sg abs
+"<و>"
+	"و" cnjcoo
+"<رژێمی>"
+	"رژێم" n sg abs ezalos 
+"<ئێستای>"
+	"ئێستا" n sg abs ezalos
+"<ئه‌سه‌د>"
+	"ئه‌سه‌د" np
+"<لە>"
+	"لە" pr
+"<‌سوریا>"
+	"‌سوریا" np top seg abs 
+"<هه‌ر>"
+	"هەر" adv
+"<ئه‌مریكایه‌>"
+	"ئەمریکا" np top sg abs
+"<بێ>"
+	"بێ" pr
+"<ده‌نگی>"
+	"دەنگ" n sg abs px3sg
+"<هه‌ڵبژاردوه‌>"
+	"هه‌ڵبژاردوه‌" vblex tv past p3 sg 
+"<!.>"
+	"!." sent
+

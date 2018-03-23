@@ -1,0 +1,418 @@
+#trans = home children library is an educational factor to promote children's mind and develop and educate them.  
+"<کتێبخانەی>"
+	"کتێبخانە" n sg abs ezalos
+"<ماڵەوەی>"
+	"ماڵەوەی" n sg abs ezalos
+"<منداڵ>"
+	"منداڵ" n sg abs
+"<،>"
+	"،" cm
+"<هۆکارێکی>"
+	"هۆکار" n sg ind ezalos 
+"<پەروەردەییە>"
+	"پەروەردە" n sg abs 
+	"بوون" vbcop pri p3 sg
+"<،>"
+	"،" cm
+"<بۆ>"
+	"بۆ" pr
+"<زاخاودانی>"
+	"زاخاودانی" n sg abs 
+	"بوون" vbcop pri p3 sg
+"<هزری>"
+	"هزری" n sg abs ezalos
+"<منداڵ>"
+	"منداڵ" n sg abs
+"<و>"
+	"و" cnjcoo
+"<گەشەکردن>"
+	"گەشەکردن" n sg abs 
+"<و>"
+	"و" cnjcoo
+"<پێشکەوتن>"
+	"پێشکەوتن" n sg abs
+"<و>"
+	"و" cnjcoo
+"<زۆرزانینی>"
+	"زۆرزانینی" n sg abs px3sg
+
+#trans = It is like carving on stone.  
+"<وەکو>"
+	"وەکو" pr
+"<نەقشی>"
+	"نەقشی" n sg abs ezalos
+"<سەر>"
+	"سەر" n sg abs
+	"سەر" pr 
+"<بەرد>"
+	"بەرد" n sg abs
+"<وایە>"
+	"وا" n sg abs
+		"بوون" vbcop pri p3 sg
+
+#trans =  It is fine that a child do not make use of their parents' library, however its existence in the house will strengthen and enhance his love for science and creativity.  
+"<دەشێ>"
+	"دەشێ" adj 
+"<منداڵ>"
+	"منداڵ" n sg abs
+"<سوود>"
+	"سوود" n sg abs
+"<لە>"
+	"لە" pr
+"<کتێبخانەکەی>"
+	"کتێبخانە" n sg def ezalos 
+"<باوک>"
+	"باوک" n sg abs
+"<و>"
+	"و" cnjcoo
+"<دایکی>"
+	"دایک" n sg abs px3sg
+"<وەرنەگرێت>"
+	"وەرنەگرێت" vb neg tv p3 sg 
+"<،>"
+	"،" cm
+"<بەڵام>"
+	"بەڵام" cnjcoo
+"<تەنها>"
+	"تەنها" adv
+"<بوونی>"
+	"بوونی" vbcop pri p3 sg
+"<لە>"
+	"لە" pr
+"<ماڵەوەدا>"
+	"ماڵەوەدا" n sg abs 
+	"دا" clt
+"<،>"
+	"،" cm
+"<خۆشەویستی>"
+	"خۆشەویست" n sg abs ezalos 
+"<زانست>"
+	"زانست" n sg abs
+"<و>"
+	"و" cnjcoo
+"<داهێنانی>"
+	"داهێنانی" n sg abs px3sg
+"<لا>"
+	"لا" n sg abs
+"<بەهێز>"
+	"بەهێز" adj pst 
+"<و>"
+	"و" cnjcoo
+"<شیرین>"
+	"شیر" adj pst 
+"<دەکات>"
+	"کردن" vblex tv pri p3 sg
+
+#trans =  Syrians also should have their own libraries. [?]
+"<سووریش>"
+	"سووریش" np top sg abs 
+"<دەبێت>"
+	"دەبێت" vbcop pri p3 sg 
+"<لەسەر>"
+	"لەسەر" pr
+"<ئەوەی>"
+	"ئەوەی" det dem sg px3sg 
+"<،>"
+	"،" cm
+"<کە>"
+	"کە" cnjsub 
+"<پێویستە>"
+	"پێویستە" n sg abs
+"<ئەمیش>"
+	"ئەمیش" det dem sg  
+"<کتێبخانەی>"
+	"کتێبخانە" n sg abs ezalos
+"<تایبەتی>"
+	"تایبەتی" adj pst
+"<خۆی>"
+	"خۆ" n sg abs px3sg
+"<هەبێت>"
+	"هەبێت" vbhaver pri p3 sg 
+
+#trans = Reading books and journals is an important educational element and forms a positive role in promoting children.
+"<خوێندنەوەی>"
+	"خوێندنەوەی" n sg abs ezalos
+"<کتێب>"
+	"کتێب" n sg abs
+"<و>"
+	"و" cnjcoo
+"<گۆڤار>"
+	"گۆڤار" n sg abs
+"<کەرەستەیەکی>"
+	"کەرەستەیەکی" n sg abs ezalos
+"<گرنگی>"
+	"گرنگ" adj pst  
+"<پەروەردەییە>"
+	"پەروەردە" n sg abs px3sg
+	"بوون" vbcop pri p3 sg
+"<و>"
+	"و" cnjcoo
+"<رۆڵێکی>"
+	"رۆڵێکی" n sg abs ezalos 
+"<ئەرێنی>"
+	"ئەرێنی" adj pst 
+"<هەیە>"
+	"ھەبوون" vbhaver pri p3 sg
+"<لە>"
+	"لە" pr
+"<گەشەکردنی>"
+	"گەشەکردنی" n sg abs ezalos
+"<دروستی>"
+	"دروست" adj pst
+"<منداڵان>"
+	"منداڵ" n pl ind
+
+#trans = In every city, town, district and village in Norway there is a big public library.  
+"<لە>"
+	"لە" pr
+"<هەر>"
+	"هەر"  adv
+"<شارێک>"
+	"شار" n sg ind
+"<و>"
+	"و" cnjcoo
+"<قەزا>"
+	"قەزا" n sg abs
+"<و>"
+	"و" cnjcoo
+"<ناحیە>"
+	"ناحیە" n sg abs
+"<و>"
+	"و" cnjcoo
+"<گەڕەک>"
+	"گەڕەک" n sg abs
+"<و>"
+	"و" cnjcoo
+"<گوندێکی>"
+	"گوند" n sg ind ezalos 
+"<وڵاتی>"
+	"وڵات" n sg abs ezalos
+"<نەرویج>"
+	"نەرویج" np top sg abs
+"<دا>"
+	"دا" clt
+"<،>"
+	"،" cm
+"<کتێبخانەیەکی>"
+	"کتێبخانە" n sg ind ezalos
+"<گشتی>"
+	"گشتی" adj pst
+"<گەورە>"
+	"گەورە" adj pst
+"<هەیە>"
+	"ھەبوون" vbhaver pri p3 sg
+
+#trans =  In every house there is a library, in every child's room there is a small library.
+"<لە>"
+	"لە" pr
+"<هەر>"
+	"هەر" det ind sg | adv
+"<ماڵێکیشدا>"
+	"ماڵێکیشدا" n sg ind 
+	"دا" clt
+"<کتێبخانەیەک>"
+	"کتێبخان" n sg ind
+"<هەیە>"
+	"ھەبوون" vbhaver pri p3 sg
+"<،>"
+	"،" cm
+"<لە>"
+	"لە" pr
+"<ژووری>"
+	"ژوور" n sg abs ezalos
+"<هەر>"
+	"هەر" det ind sg | adv
+"<منداڵیکیشدا>"
+	"منداڵیکیشدا" n sg ind 
+	"دا" clt
+"<کتێبخانەیەکی>"
+	"کتێبخانە" n sg ind ezalos
+"<قنج>"
+	"قنج" adj
+"<هەیە>"
+	"ھەبوون" vbhaver pri p3 sg
+
+#trans =  In every street and centre there is a bookstore for books, magazines and newspapers. 
+"<لە>"
+	"لە" pr
+"<هەر>"
+	"هەر" det ind sg | adv
+"<شەقام>"
+	"شەقام" n sg abs
+"<و>"
+	"و" cnjcoo
+"<سەنتەرێکدا>"
+	"سەنتەرێکدا" n sg ind 
+	"دا" clt 
+"<کتێبخانەی>"
+	"کتێبخانە" n sg abs ezalos
+"<فرۆشتنی>"
+	"فرۆشتنی" n sg ezalos
+"<کتێب>"
+	"کتێب" n sg abs
+"<و>"
+	"و" cnjcoo
+"<گۆڤار>"
+	"گۆڤار" n sg abs
+"<و>"
+	"و" cnjcoo
+"<رۆژنامەکان>"
+	"رۆژنامە" n pl def
+"<هەن>"
+	"هەن" vbcop pri p3 sg
+
+#trans = Even in these supermarkets that sell food, drinks and fruits, they also have sections where they sell books, children books in particular. 
+"<تەنانەت>"
+	"تەنانەت" adv
+"<لەو>"
+	"لە" pr
+		"ئەو" prn pers p3 sg
+"<مارکێتانەی>"
+	"مارکێت" n pl dem px3sg
+"<کە>"
+	"کە" cnjsub 
+"<خواردەمەنی>"
+	"خواردەمەنی" n sg abs
+"<و>"
+	"و" cnjcoo
+"<خواردنەەوە>"
+	"خواردنەەوە" n sg abs 
+"<و>"
+	"و" cnjcoo
+"<میوەهاتیش>"
+	"میوەهاتیش" n sg 
+"<دەفرۆشن>"
+	"دەفرۆشن" vblex prs tv p3 pl
+"<،>"
+	"،" cm
+"<لە>"
+	"لە" pr
+"<بەشێکیاندا>"
+	"بەشێکیان" n pl def 
+	"دا" clt
+"<کتێبان>"
+	"کتێب" n pl ind
+"<بۆ>"
+	"بۆ" pr
+"<فرۆشتن>"
+	"فرۆشتن" n sg abs 
+"<داناون>"
+	"داناون" vblex tv p3 pl 
+"<بە>"
+	"بە" pr
+"<تایبەتیش>"
+	"تایبەتیش" n sg 
+"<کتێبیی>"
+	"کتێب" n sg abs ezalos
+"<منداڵان>"
+	"منداڵ" n pl ind
+
+#trans = In reality there are many other European countries that are more advanced in this field than Norway. 
+"<لە>"
+	"لە" pr
+"<راستیشدا>"
+	"راستیشدا" n sg abs 
+	"دا" clt
+"<زۆر>"
+	"زۆر" adv
+"<دەوڵەتی>"
+	"دەوڵەت" n sg abs ezalos
+"<تری>"
+	"تر" adj  
+"<ئەوروپی>"
+	"ئەوروپی" n sg 
+"<هەن>"
+	"هەن" vbcop pri p3 sg 
+"<،>"
+	"،" cm
+"<کە>"
+	"کە" cnjsub
+"<لەم>"
+	"لە" pr
+		"ئەم" prn clt p2 sg
+"<بوارەدا>"
+	"بوارەدا" n sg  
+	"دا" clt
+"<لە>"
+	"لە" pr
+"<پێش>"
+	"پێش" pr  
+"<نەرویجن>"
+	"نەرویجن" np top sg abs
+	"بوون" vbcop pri p3 sg 
+
+#trans = Also for us home library is more important than the kitchen. 
+"<بە>"
+	"بە" pr
+"<لای>"
+	"لا" n sg abs ezalos
+"<ئێمەشەوە>"
+	"ئێمەشەوە" prn p1 pl 
+"<،>"
+	"،" cm
+"<کتێبخانەی>"
+	"کتێبخانەی" n sg abs ezalos 
+"<ماڵەوە>"
+	"ماڵەوە" n sg abs 
+"<،>"
+	"،" cm
+"<لە>"
+	"لە" pr
+"<چێشتخانەی>"	
+	"چێشتخانەی" n sg abs ezalos
+"<ماڵەوە>"
+	"ماڵەوە" n sg abs 
+"<گرنگترە>"
+	"گرنگترە" adj pst 
+	"بوون" vbcop pri p3 sg
+
+#trans = For me a house with no library is an incomplete house. 
+"<ئەو>"
+	"ئەو" det dem sg
+"<ماڵەی>"
+	"ماڵەی" n sg abs px3sg
+"<کتێبخانەی>"
+	"کتێبخانە" n sg abs px3sg
+"<تێدا>"
+	"تێدا" pr  
+	"ئەو" prn pers clt p3 sg
+	"دا" clt
+"<نەبێت>"
+	"نەبێت" vbcop pri neg p3 sg
+"<بە>"
+	"بە" pr
+"<ماڵێکی>"
+	"ماڵ" n sg ind ezalos
+"<ناتەواوی>"
+	"ناتەواو" adj pst 
+"<دەزانم>"
+	"دەزانم" vblex tv prs p1 sg 
+
+#trans = We have to assist them in choosing useful and suitable books and newspapers for their library. 
+"<هاوکاریان>"
+	"هاوکار" n sg abs px3pl
+"<بین>"
+	"بوون" vbcop prs p3 pl
+"<لە>"
+	"لە" pr
+"<هەڵبژاردنی>"
+	"هەڵبژاردن" n sg abs ezalos 
+"<کتێب>"
+	"کتێب" n sg abs
+"<و>"
+	"و" cnjcoo
+"<گۆڤاری>"
+	"گۆڤار" n sg abs ezalos
+"<بەسوود>"
+	"بەسوود" adj pst
+"<و>"
+	"و" cnjcoo
+"<لەبار>"
+	"لەبار" adj 
+"<بۆ>"
+	"بۆ" pr
+"<کتێبخانەکانیان>"
+	"کتێبخانە" n pl def px3pl
+"<.>"
+	"." sent
+

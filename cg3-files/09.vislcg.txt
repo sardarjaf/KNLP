@@ -1,0 +1,372 @@
+#trans= The spokesman of Ministry of Higher Education and Scientific Research states.
+"<وتەبێژی>"
+	"وتەبێژی" n sg abs ezalos
+"<وەزارەتی>"
+	"وەزارەت" n sg abs ezalos 
+"<خوێندنی>"
+	"خوێندن" n sg abs ezalos 
+"<باڵا>"
+	"باڵا" adj pst
+"<و>"
+	"و" cnjcoo
+"<توێژینەوەی>"
+	"توێژینەوە" n sg abs ezalos 
+"<زانستی>"
+	"زانستی" adj pst
+"<ڕایدەگەنێت>"
+	"ڕایدەگەنێت" vblex tv prs p3 sg 
+
+#trans= As of today 15/8 requests for acceptance at public universities and institutes through a direct system in 377 departments and colleges ... 
+"<لە>"
+	"لە" pr
+"<ئەمڕۆوە>"
+	"ئەمڕۆوە" n sg abs 
+"<(>"
+	"(" lpar
+"<١٥>"
+   "١٥" num
+"</>"
+   "/" punc
+"<٨>"
+   "٨" num
+"<)>"
+	")" rpar
+"<داواکاری>"
+	"داواکاری" n sg abs 
+"<بۆ>"
+	"بۆ" pr
+"<وەرگرتن>"
+	"وەرگرتن" n sg abs
+"<لە>"
+	"لە" pr
+"<زانکۆ>"
+	"زانکۆ" n sg abs
+"<و>"
+	"و" cnjcoo
+"<پەیمانگە>"
+	"پەیمانگە" n sg abs 
+"<حکومییەکان>"
+	"حکومییەکان" n pl def 
+"<بە>"
+	"بە" pr
+"<سیستمی>"
+	"سیستمی" n sg abs ezalos 
+"<ڕاستەوخۆی>"
+	"ڕاستەوخۆ" n sg abs ezalos 
+"<زانکۆی>"
+	"زانکۆ" n sg abs 
+"<لە>"
+	"لە" pr
+"<(>"
+	"(" lpar
+"<٣٧٧>"
+   "٣٧٧" num
+"<)>"
+	")" rpar
+"<بەش>"
+	"بەش" n sg abs
+"<و>"
+	"و" cnjcoo
+"<کۆلێژی>"
+	"کۆلێژی" n sg abs ezalos
+"<زانکۆ>"
+	"زانکۆ" n sg abs
+"<و>"
+	"و" cnjcoo
+"<پەیمانگەکانی>"
+	"پەیمانگەکانی" n def pl px3sg
+
+#trans= Last week a member of Kurdistan Democratic Party was executed by the Republican of Iran.
+"<حەفتەی>"
+	"حەفتە" n sg abs ezalos 
+"<ڕابردوو>"
+	"ڕابردوو" n sg abs
+"<،>"
+	"،" cm
+"<ئەندامێکی>"
+	"ئەندام" n sg ind ezalos 
+"<حیزبی>"
+	"حیزب" n sg abs ezalos 
+"<دیموکراتی>"
+	"دیموکرات" n sg abs ezalos 
+"<کوردستان>"
+	"کوردستان" np top sg abs
+"<لە>"
+	"لە" pr
+"<لایەن>"
+	"لایەن" n sg abs
+"<کۆماری>"
+	"کۆمار" n sg abs ezalos
+"<سێدارەی>"
+	"سێدارەی" n sg abs ezalos
+"<ئێرانەوە>"
+	"*ئێرانەوە" np top sg abs 
+"<ئێعدام>"
+	"ئێعدام" n sg abs
+"<کرا>"
+	"کرا" vbcop past p3 sg 
+
+#trans= Kurdistan Democratic Party of Iran was either not aware of this execution or did not want to condemn this act of the Republican of Iran. 
+"<حیزبی>"
+	"حیزب" n sg abs ezalos 
+"<دیموکراتی>"
+	"دیموکرات" n sg abs ezalos 
+"<کوردستانی>"
+	"کوردستان" np top sg abs ezalos 
+"<ئێران>"
+	"ئێران" np top sg abs
+"<یان>"
+	"یان" cnjcoo
+"<ئاگاداری>"
+	"ئاگادری" n sg abs 
+"<ئەو>"
+	"ئەو" det dem sg
+"<ئیعدامە>"
+	"ئیعدامە"
+"<نەبوو>"
+	"بوون" vbcop past neg p3 sg
+"<یان>"
+	"یان" cnjcoo
+"<حەزی>"
+	"حەز" n sg abs px3sg
+"<نەکرد>"
+	"نەکرد" vblex past tv neg p3 sg 
+"<ئەو>"
+	"ئەو" det dem sg
+"<کردەوەیەی>"
+	"کردەوە" n sg abs ezalos
+"<کۆماری>"
+	"کۆمار" n sg abs ezalos
+"<سێدارەی>"
+	"سێدارەی" n sg abs ezalos
+"<ئێران>"
+	"ئێران" np top sg abs
+"<مەحکوم>"
+	"مەحکوم" n sg abs 
+"<بکات>"
+	"کردن" vblex tv prs p3 sg
+
+#trans= Unfortunately this shows the very narrow perspective of this party.  
+"<ئەمەش>"
+	"ئەمەش" det dem sg 
+"<بەداخەوە>"
+	"بەداخەوە" adv 
+"<ئەوپەڕی>"
+	"ئەوپەڕ" n sg abs ezalos
+"<بەرچاوتەسکیی>"
+	"بەرچاوتەسکیی" n sg abs ezalos
+"<ئەو>"
+	"ئەو" det dem sg
+"<حیزبە>"
+	"حیزب" n sg abs ezaclo 
+"<نیشاندەدات>"
+	"نیشاندەدات" vblex tv pri p3 sg 
+
+#trans= Removing or establishing the word Iran as a Kurdish party which aims at liberating Kurds and promoting democracy does not in itself add  any privilege to this party.  
+"<لابردن>"
+	"لابردن" n sg abs
+"<یان>"
+	"یان" cnjcoo
+"<چەسپاندنی>"
+	"چەسپاندنی" n sg abs ezalos
+"<وشەی>"
+	"وشە" n sg abs ezalos 
+"<ئێران>"
+	"ئێران" np top sg abs
+"<بە>"
+	"بە" pr
+"<حیزبێکی>"
+	"حیزب" n sg ind ezalos
+"<کوردیەوە>"
+	"کوردیەوە" n sg abs
+"<،>"
+	"،" cm
+"<کە>"
+	"کە" cnjsub 
+"<ئامانجی>"
+	"ئامانج" n sg abs ezalos 
+"<رزگاری>"
+	"رزگاری" n sg abs
+"<کورد>"
+	"کورد" n sg abs
+"<و>"
+	"و" cnjcoo
+"<پێشخستنی>"
+	"پێشخستنی" n sg abs ezalos
+"<دیموکراسی>"
+	"دیموکراسی" n sg abs
+"<بێت>"
+	"بوون" vbcop prs p3 sg
+"<،>"
+	"،" cm
+"<خۆی>"
+	"خۆ" n sg abs px3sg
+"<لە>"
+	"لە" pr
+"<خۆیدا>"
+	"خۆی" n sg abs px3sg
+	"دا" clt 
+"<نابێتە>"
+	"نابێتە" vbcop prs neg p3 sg 
+"<هیچ>"
+	"هیچ" adv
+"<ئیمتیازێک>"
+	"ئیمتیازێک" n sg ind 
+"<بۆ>"
+	"بۆ" pr
+"<ئەو>"
+	"ئەو" det dem sg
+"<حیزبە>"
+	"حیزب" n sg abs 
+	"بوون" vbcop pri p3 sg
+
+#trans= Ok, what has happened to kak Awlay Muhtadi's armed forces?
+"<ئەی>"
+	"ئەی" ij 
+"<باشە>"
+	"باش" adj pst
+		"بوون" vbcop pri p3 sg
+"<هێزە>"
+	"هێز" n sg abs ezaclo
+"<چەکدارەکانی>"
+	"چەکدارەکانی" n pl def ezalos
+"<کاک>"
+	"کاک" n sg abs
+"<عەوڵای>"
+	"عەوڵای" np 
+"<موهتەدی>"
+	"موهتەدی" np
+"<چیێان>"
+	"چیێان" prn p3 pl 
+"<لێهات>"
+	"لێهات" vblex p3 sg
+"<؟>"
+	"؟" sent
+
+#trans= Ok, what has happened to you the Kurds of Europe? 
+"<ئەی>"
+	"ئەی" ij
+"<باشە>"
+	"باش" adj pst
+	"بوون" vbcop pri p3 sg
+"<ئێوە>"
+	"ئێوە" prn pers p2 pl
+"<کوردەکانی>"
+	"کورد" n pl def ezalos
+"<ئەوروپا>"
+	"ئەوروپا" n top sg abs 
+"<،>"
+	"،" cm
+"<ئێوە>"
+	"ئێوە" prn pers p2 pl
+"<چیتان>"
+	"چیتان" prn p2 pl
+"<لێهات>"
+	"لێهات" vblex p2 sg 
+"<؟>"
+	"؟" sent
+
+#trans= MY suggestion for those people is not to go back to their country now because they will stuck in Ordoga. 
+"<پێشنیاری>"
+	"پێشنیاری" n sg abs ezalos 
+"<من>"
+	"من" prn pers p1 sg
+"<بۆ>"
+	"بۆ" pr
+"<ئەو>"
+	"ئەو" det dem sg
+"<کەسانە>"
+	"کەس" n pl dem 
+"<ئەوەیە>"
+	"ئەوەیە" det dem sg 
+	"بوون" vbcop pri p3 sg 
+"<کە>"
+	"کە" cnjsub 
+"<ئێستە>"
+	"ئێستە" adv
+"<مەگەڕینەوە>"
+	"مەگەڕینەوە" vblex iv pri p2 pl 
+"<بۆ>"
+	"بۆ" pr
+"<وەڵات>"
+	"وەڵات" n sg abs 
+"<چونکە>"
+	"چونکە" cnjsub
+"<لە>"
+	"لە" pr
+"<ئوردوگا>"
+	"ئوردوگا" n top sg abs
+"<دا>"
+	"دا" clt
+"<ئەچەقن>"
+	"ئەچەقن" vblex iv pri p3 pl 
+
+#trans= This is a bad and condemned act that actually creates a question to every eastern one.
+"<کردەوەیەکی>"
+	"کردەوە" n sg ind ezalos
+"<نزم>"
+	"نزم" adj pst
+"<و>"
+	"و" cnjcoo
+"<مەحکووم>"
+	"مەحکووم" n sg abs 
+"<کە>"
+	"کە" cnjsub
+"<بە>"
+	"بە" pr 
+"<ڕاستی>"
+	"ڕاستی" n sg abs 
+"<پرسیار>"
+	"پرسیار" n sg abs
+"<لای>"
+	"لا" n sg abs ezalos
+"<هەر>"
+	"هەر" adv
+"<رۆژهەڵاتیەک>"
+	"رۆژهەڵاتیەک" n sg ind 
+"<دروست>"
+	"دروست" n sg abs 
+"<دەکات>"
+	"کردن" vblex tv pri p3 sg
+
+#trans= Just because the names of your previous friends are the same as theirs. [Samira: not sure of this trans] 
+"<هەر>"
+	"هەر" adv
+"<لەبەر>"
+	"لەبەر" pr
+"<ئەوەی>"
+	"ئەوەی" det dem sg ezalos
+"<ناوی>"
+	"ناو" n sg abs ezalos
+"<“>"
+	"“" lquot
+"<هاوڕیانی>"
+	"هاوڕیانی" n pl ezalos
+"<پێشوتان>"
+	"پێشوتان" n sg abs px2pl 
+"<”>"
+	"”" rquot
+"<وەک>"
+	"وەک" pr
+"<ئەوەی>"
+	"ئەوەی" det dem sg ezalos
+"<خۆیان>"
+	"خۆ" n sg abs px3pl
+"<هەن>"
+	"هەن" vbcop 
+"<نەبەن>"
+	"بردن" vblex tv neg prs p3 pl
+
+#trans= What a big disaster it is. 
+"<ئای>"
+	"ئای" ij
+"<چ>"
+	"چ" prn 
+"<کارەساتێکی>"
+	"کارەسات" n sg ind ezalos
+"<گەورەیە>"
+	"گەورە" adj pst
+		"بوون" vbcop pri p3 sg
+"<.>"
+	"." sent
+

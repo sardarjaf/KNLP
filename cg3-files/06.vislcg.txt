@@ -1,0 +1,361 @@
+#trans= For Zulaiha Hyosbi district forms a cafeteria and arena where men get together, look at women and control them in a variety of ways. 
+"<گەڕەکی>"
+	"گەڕەک" n sg abs ezalos
+"<هیوسبی>"
+	"هیوسبی" np
+"<لە>"
+	"لە" pr
+"<بەرچاوی>"
+	"بەرچاوی" n sg abs ezalos
+"<زولەیهادا>"
+	"زولەیهادا" np
+		"دا" clt 
+"<ئێستا>"
+	"ئێستا" adv
+"<بریتییە>"
+	"بریتی" n sg abs px3sg
+	"بوون" vbcop pri p3 sg
+"<لەو>"
+	"لە" pr
+	"ئەو" prn pers p3 sg
+"<کافێتریا>"
+	"کافێتریا" n sg abs 
+"<و>"
+	"و" cnjcoo
+"<گۆڕەپانەی>"
+	"گۆڕەپانەی" n sg abs px3sg
+"<کە>"
+	"کە" cnjsub 
+"<پیاوانی>"
+	"پیاو" n pl ind px3sg
+"<تیدا>"
+	"تیدا" pr
+		"دا" clt 
+"<کۆدەبنەوە>"
+	"کۆدەبنەوە" vblex iv p3 pl 
+"<و>"
+	"و" cnjcoo
+"<چاو>"
+	"چاو" n sg abs
+"<دەبڕنە>"
+	"دەبڕنە" vblex iv p3 pl 
+"<ژنان>"
+	"ژن" n pl ind
+"<و>"
+	"و" cnjcoo
+"<بە>"
+	"بە" pr
+"<شێوەی>"
+	"شێوە" n sg abs ezalos
+"<جیاواز>"
+	"جیاواز" adj pst
+"<کۆنترۆڵیان>"
+	"کۆنترۆڵیان" n sg abs px3pl 
+"<دەکەن>"
+	"کردن" vblex tv pri p3 pl
+
+#trans= Not only do men take control of the cafeterias, but they do so over swimming pools and cultural centres as well. 
+"<هەر>"
+	"هەر" det ind sg
+"<کەفێتریاکان>"
+	"کەفێتریاکان" n pl def 
+"<نییە>"
+	"بوون" vbcop pri neg p3 sg
+"<بەڵکە>"
+	"بەڵکە" cnjcoo
+"<پیاوان>"
+	"پیاو" n pl ind
+"<مەلەوانگە>"
+	"مەلەوانگە" n sg abs 
+"<و>"
+	"و" cnjcoo
+"<کۆمەڵە>"
+	"کۆمەڵە" n sg abs
+"<کلتورییەکانیشیان>"
+	"کلتورییەکانیشیان" n pl def px3pl
+"<داگیر>"
+	"داگیر" n sg abs 
+"<کردووە>"
+	"کردن" vblex tv perf p3 sg
+
+#trans= Women feel restricted and deprived of their freedom.  
+"<ژنان>"
+	"ژن" n pl ind
+"<هەست>"
+	"ھەست" n sg abs
+"<بە>"
+	"بە" pr
+"<سنورداری>"
+	"سنورداری" n sg abs px3sg
+"<دەکەن>"
+	"کردن" vblex tv pri p3 pl
+"<و>"
+	"و" cnjcoo
+"<هەست>"
+	"ھەست" n sg abs
+"<دەکەن>"
+	"کردن" vblex tv pri p3 pl
+"<ئازادییان>"
+	"ئازادی" n sg abs px3pl
+"<لێ>"
+	"لە" pr
+	"ئەو" prn pers p3 pl
+"<زەوت>"
+	"زەوت" n sg abs 
+"<کراوە>"
+	"کردن" vblex tv perf p3 sg
+
+#trans= This sense and description of Zulaiha is on Alawi federation issue and Naveen Kamil Ordosh is a witness. 
+"<ئەم>"
+	"ئەم" det dem sg
+"<هەست>"
+	"ھەست" n sg abs
+"<و>"
+	"و" cnjcoo
+"<وەسفەی>"
+	"وەسفەی" n sg abs ezalos
+"<زولەیها>"
+	"زولەیها" np 
+"<بە>"
+	"بە" pr
+"<پرسی>"
+	"پرسی" n sg abs ezalos
+"<فیدراسیۆنی>"
+	"فیدراسیۆنی" n sg abs ezalos
+"<عەلەوییەکانیش>"
+	"عەلەوییەکانیش" n pl def ezalos
+"<نەڤین>"
+	"نەڤین" np 
+"<کامیل>"
+	"کامیل" np 
+"<ئوردوش>"
+	"ئوردوش" np 
+"<شایەتحاڵییەتی>"
+	"شایەتحاڵییەتی" n sg abs 
+	"بوون" vbcop pri p3 sg
+
+#trans= There is no place left for women; we don't have a place where we can see each other. 
+"<جێ>"
+	"جێ" n sg abs
+"<بۆ>"
+	"بۆ" pr
+"<ژنان>"
+	"ژن" n pl ind
+"<نەماوەتەوە>"
+	"نەماوەتەوە" vblex tv p3 sg 
+"<،>"
+	"،" cm
+"<شوێنێکمان>"
+	"شوێن" n sg ind px1pl
+"<نییە>"
+	"بوون" vbcop pri neg p3 sg
+"<یەکتری>"
+	"یەکتری" n sg abs px3sg
+"<تێدا>"
+	"تێدا" pr
+		"دا" clt 
+"<ببینین>"
+	"ببینین" vblex tv pri p1 pl  
+"<،>"
+	"،" cm
+
+#trans= Naveen Kamil says: here at Hyosbi there are many assemblies but all ot their members are men.
+"<نێڤین>"
+	"نێڤین" np 
+"<کامیل>"
+	"کامیل" np 
+"<دەڵێت>"
+	"وتن" vblex tv pri p3 sg
+"<لێرە>"
+	"لێرە" adv
+"<لە>"
+	"لە" pr
+"<هیوسبی>"
+	"هیوسبی" np top sg abs
+"<کۆمەڵەی>"
+	"کۆمەڵە" n sg abs ezalos 
+"<زۆر>"
+	"زۆر" adv
+"<لێیە>"
+	"لێیە" pr
+	"ێ" prn clt p3 sg
+	"بوون" vbcop pri p3 sg 
+"<بەڵام>"
+	"بەڵام" cnjcoo  
+"<هەموو>"
+	"ھەموو" det qnt pl
+"<ئەندامانی>"
+	"ئەندام" n pl ind ezalos 
+"<پیاون>"
+	"پیاو" n sg abs
+	"بوون" vbcop pri p3 pl
+
+#trans= There are no women in the presidency of these assemblies. 
+"<هیچ>"
+	"هیچ" adv
+"<ژنێک>"
+	"ژن" n sg ind
+"<لە>"
+	"لە" pr
+"<سەرۆکایەتیی>"
+	"سەرۆکایەتی" n sg abs ezalos 
+"<ئەو>"
+	"ئەو" det dem sg
+"<کۆمەڵانەدا>"
+	"کۆمەڵانەدا" n pl abs
+	"دا" clt
+"<نین>"
+	"بوون" vbcop pri neg p3 pl
+
+#trans= This is a problem for women, Naveen states.  
+"<ئەمە>"
+	"ئە" det dem sg 
+"<کێشەیە>"
+	"کێشەیە" n sg abs 
+	"بوون" vbcop pri p3 sg
+"<بۆ>"
+	"بۆ" pr
+"<ژنان>"
+	"ژن" n pl ind
+"<نڤین>"
+	"نڤین" np 
+"<دەڵێت>"
+	"وتن" vblex tv pri p3 sg
+
+#trans= Benjamin Dousa of the Moderate party says: at present politicians investigate this issue, but they don't have a quick solution for it. 
+"<بێنیامین>"
+	"بێنیامین" np
+"<دوسای>"
+	"دوسای" np ezalos
+"<مۆدێرات>"
+	"مۆدێرات" n sg abs
+"<دەڵێت>"
+	"وتن" vblex tv pri p3 sg
+"<لە>"
+	"لە" pr	
+"<حاڵی>"
+	"حاڵی" n sg abs ezalos
+"<حازردا>"
+	"حازر" adv 
+	"دا" clt 
+"<سیاسەتمەداران>"
+	"سیاسەتمەدار" n pl ind
+"<لەو>"
+	"لە" pr
+		"ئەو" prn pers p3 sg
+"<پرسە>"
+	"پرسە" n sg abs
+"<دەکۆڵنەوە>"
+	"دەکۆڵنەوە" vblex iv p3 pl  
+"<بەڵام>"
+	"بەڵام" cnjcoo|pr
+"<هیچ>"
+	"هیچ" adv 
+"<چارەسەرێکی>"
+	"چارەسەر" n sg ind ezalos
+"<خێرایان>"
+	"خێرایان" adj px3pl 
+"<نییە>"
+	"بوون" vbcop pri neg p3 sg
+"<بۆ>"
+	"بۆ" pr
+"<ئەو>"
+	"ئەو" det dem sg
+"<کێشەیە>"
+	"کێشەیە" n sg abs
+
+#trans= The representatives of the political parties in these districts have now allocated two people to encourage girls to get involved in the activities of the assemblies and clubs. 
+"<هەر>"
+	"هەر" prn sg 
+"<ئێستاش>"
+	"ئێستاش" adv 
+"<نوێنەرایەتی>"
+	"نوێنەرایەتی" n sg abs ezalos
+"<پارتە>"
+	"پارت" n sg abs ezaclo
+"<سیاسییەکان>"
+	"سیاسییەکان" n pl def 
+"<لەو>"
+	"لە" pr
+	"ئەو" prn pers p3 sg
+"<گەڕەکانە>"
+	"گەڕەک" n pl def 
+"<دوو>"
+	"دوو" num pl
+"<کەسیان>"
+	"کەس" n sg abs px3pl
+"<تەرخان>"
+	"تەرخان" n sg abs
+"<کردووە>"
+	"کردن" vblex tv perf p3 sg
+"<بۆ>"
+	"بۆ" pr
+"<هاندانی>"
+	"هاندانی" n sg abs ezalos
+"<کچان>"
+	"کچ" n pl ind
+"<بۆ>"
+	"بۆ" pr
+"<چالاکی>"
+	"چالاکی" n sg abs 
+"<لەو>"
+	"لە" pr
+	"ئەو" prn pers p3 sg
+"<کۆمەڵە>"
+	"کۆمەڵە" n sg abs
+"<و>"
+	"و" cnjcoo
+"<یاندانەدا>"
+	"یاندانەدا" n sg abs 
+	"دا" clt 
+
+#trans= It is necessary that those who gave up Shangal to terrorists should be sentenced and punished. 
+"<پێویسته‌>"
+	"پێویستە" n sg abs
+"<ئه‌وانه‌ی>"
+	"ئه‌وانه‌ی" prn pers p3 pl
+"<شه‌نگالیان>"
+	"شه‌نگالیان" np top sg abs px3pl 
+"<ته‌سلیمی>"
+	"ته‌سلیمی" n sg abs 
+"<مه‌رحه‌مه‌تی>"
+	"مه‌رحه‌مه‌تی" n sg abs ezalos 
+"<تیرۆریست>"
+	"تیرۆریست" n sg abs 
+"<كرد>"
+	"کردن" vblex tv past p3 sg
+"<دادگای>"
+	"دادگا" n sg abs 
+"<بكرێن>"
+	"کردن" vblex tv past p3 pl
+"<و>"
+	"و" cnjcoo
+"<بە>"
+	"بە" pr	
+"<‌سزایی>"
+	"‌سزایی" n sg abs ezalos
+"<خۆیان>"
+	"خۆ" n sg abs px3pl
+"<بگه‌یه‌نرێن>"
+	"بگه‌یه‌نرێن" vblex tv p3 pl 
+
+#trans= Ministry of Higher Education and Scientific Research announces it. 
+"<وتەبێژی>"
+	"وتەبێژی" n sg abs ezalos
+"<وەزارەتی>"
+	"وەزارەت" n sg abs ezalos 
+"<خوێندنی>"
+	"خوێندن" n sg abs ezalos 
+"<باڵا>"
+	"باڵا" n sg abs
+"<و>"
+	"و" cnjcoo
+"<توێژینەوەی>"
+	"توێژینەوە" n sg abs ezalos 
+"<زانستی>"
+	"زانستی" adj pst
+"<ڕایدەگەنێت>"
+	"ڕایدەگەنێت" vblex tv p3 sg 
+"<.>"
+	"." sent
+

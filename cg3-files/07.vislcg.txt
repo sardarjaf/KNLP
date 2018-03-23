@@ -1,0 +1,399 @@
+#trans= As of today 15/8 requests for acceptance at public universities and institutes through a direct system in 377 departments and colleges
+"<لە>"
+	"لە" pr
+"<ئەمڕۆوە>"
+	"ئەمڕۆوە" n sg abs
+"<(>"
+	"(" lpar
+"<١٥>"
+   "١٥" num
+"</>"
+   "/" punc
+"<٨>"
+   "٨" num
+"<)>"
+	")" rpar
+"<داواکاری>"
+	"داواکاری" n sg abs
+"<بۆ>"
+	"بۆ" pr
+"<وەرگرتن>"
+	"وەرگرتن" n sg abs
+"<لە>"
+	"لە" pr
+"<زانکۆ>"
+	"زانکۆ" n sg abs
+"<و>"
+	"و" cnjcoo
+"<پەیمانگە>"
+	"پەیمانگە" n sg abs 
+"<حکومییەکان>"
+	"حکومییەکان" n def pl 
+"<بە>"
+	"بە" pr
+"<سیستمی>"
+	"سیستمی" n sg abs ezalos 
+"<ڕاستەوخۆی>"
+	"ڕاستەوخۆ" n sg abs ezalos 
+"<زانکۆی>"
+	"زانکۆ" n sg abs 
+"<لە>"
+	"لە" pr
+"<(>"
+	"(" lpar
+"<٣٧٧>"
+   "٣٧٧" num
+"<)>"
+	")" rpar
+"<بەش>"
+	"بەش" n sg abs
+"<و>"
+	"و" cnjcoo
+"<کۆلێژی>"
+	"کۆلێژی" n sg abs ezalos
+"<زانکۆ>"
+	"زانکۆ" n sg abs
+"<و>"
+	"و" cnjcoo
+"<پەیمانگەکانی>"
+	"پەیمانگەکانی" n def pl px3sg 
+
+#trans= In Switzerland number of population is
+"<لە>"
+	"لە" pr
+"<ولاتی>"
+	"ولاتی" n sg abs ezalos
+"<سویسرا>"
+	"سویسرا" np top sg abs
+"<ژمارەی>"
+	"ژمارە" n sg abs ezalos 
+"<دانیشتوانی>"
+	"دانیشتوان" n sg abs ezalos
+"<٧>"
+   "٧" num
+"<،>"
+	"،" cm
+"<٩٥٠>"
+   "٩٥٠"  num
+"<٢٠١>"
+   "٢٠١" num
+"<٦>"
+	"٦" num
+	
+#trans= A public vote was conducted on a few issues. 	
+"<دەنگدانێکی>"
+	"دەنگدانێکی" n sg ind ezalos
+"<گشتی>"
+	"گشتی" adj pst
+"<لەسەر>"
+	"لەسەر" pr
+"<چەند>"
+	"چەند" det qnt sp
+"<پرس>"
+	"پرس" n sg abs 
+"<ئەنجامدرا>"
+	"ئەنجامدرا" vblex tv p3 sg 
+
+#trans= This questionnaire exposes around a quarter of the current population to doubt and uncertainty as to legal 
+"<ئەم>"
+	"ئەم" det dem sg
+"<ڕاپرسیە>"
+	"ڕاپرسیە" n sg 
+"<نزیکەی>"
+	"نزیکەی" pr
+"<یەک>"
+	"یەک" num sg
+"<لەسەر>"
+	"لەسەر" pr
+"<چواری>"
+	"چواری" num sg 
+"<دانیشتوانی>"
+	"دانیشتوان" n sg abs ezalos 
+"<ئێستای>"
+	"ئێستا" adv
+"<دەخستە>"
+	"دەخستە" vblex pri p3 sg 
+"<نێو>"
+	"نێو" pr 
+"<گومان>"
+	"گومان" n sg abs
+"<و>"
+	"و" cnjcoo
+"<دڵەڕاوکەو>"
+	"دڵەڕاوکەو" n sg abs 
+"<بەردەم>"
+	"بەردەم" pr 
+"<ئاپارتایدێکی>"
+	"ئاپارتایدێکی" n sg ind 
+"<یاساییەوە>"
+	"یاساییەوە" n sg abs 
+	"ەوە" clt 
+
+#trans= This legend was broken which was consistently  anti-foreign policy and anti-refugee
+"<ئەو>"
+	"ئەو" det dem sg
+"<ئەفسانەیەش>"
+	"ئەفسانە" n sg dem emph
+"<شکێنرا>"
+	"شکێنرا" vblex tv past p3 sg 
+"<،>"
+	"،" cm
+"<کە>"
+	"کە" cnjsub
+"<بە>"
+	"بە" pr
+"<بەردەوامی>"
+	"بەردەوامی" n sg abs 
+"<لە>"
+	"لە" pr
+"<سیاسەتی>"
+	"سیاسەت" n sg abs ezalos
+"<دژە>"
+	"دژ" pr | adv
+"<بێگانەیی>"
+	"بێگانە" n sg abs px3sg
+"<و>"
+	"و" cnjcoo
+"<دژی>"
+	"دژی" pr 
+"<پەنابەری>"
+	"پەنابەر" n sg abs ezalos
+"<داکەبەری>"
+	"داکەبەری" adv 
+"<بە>"
+	"بە" pr
+"<سەرکەوتنەکانی>"
+	"سەرکەوتن" n pl def ezalos 
+"<پارتی>"
+	"پارت" n sg abs 
+"<گەلی>"
+	"گەل" n sg abs ezalos
+"<سویسرا>"
+	"سویسرا" np top sg abs
+"<(>"
+	"(" lpar
+SVP
+"<)>"
+	")" rpar
+"<پێنەدەگیرا>"
+	"پێ" pr 
+	"ئەو" prn clt p3 sg 
+	"نەدەگیرا" vblex tv neg p3 sg 
+
+#trans= But in a short time the ... army could stop this attack and achieve victory.  
+"<بەڵام>"
+	"بەڵام" cnjcoo
+"<لە>"
+	"لە" pr	
+"<ماوەیەکی>"
+	"ماوەیەکی" n sg ind ezalos
+"<کەمدا>"
+	"کەمدا" adj pst 
+	"دا" clt 
+"<توانرا>"
+	"توانرا" vblex tv pri p3 sg 
+"<هێزی>"
+	"هێز" n sg abs ezalos
+"<بەرپەچدانەوەو>"
+	"بەرپەچدانەوەو" n sg abs 
+"<ڕاگرتنی>"
+	"ڕاگرتنی" n sg abs 
+"<ئەو>"
+	"ئەو" det dem sg
+"<هێرشە>"
+	"هێرش" n sg abs 
+	"بوون" vbcop pri p3 sg
+"<و>"
+	"و" cnjcoo
+"<سەرکەوتن>"
+	"سەرکەوتن" n sg abs 
+"<بەسەریدا>"
+	"بەسەر" pr
+	"ی" prn clt p3 sg 
+	"دا" clt
+"<مسۆگەر>"
+	"مسۆگەر" n sg abs
+"<بکەن>"
+	"کردن" vblex tv prs p3 pl
+
+#trans= 300 top international officials submitted a request to people of Switzerland asking them to vote 'No' for this issue. 	
+"<٣٠٠>"
+   "٣٠٠" num
+"<کەس>"
+	"کەس" n sg abs
+"<لە>"
+	"لە" pr
+"<گەورەکاربەدەستانی>"
+	"گەورەکاربەدەستانی" n pl ezalos
+"<دەوڵەتی>"
+	"دەوڵەت" n sg abs px3sg
+"<،>"
+	"،" cm
+"<داوایەکیان>"
+	"داوا" n sg ind px3pl
+"<ئاراستەی>"
+	"ئاراستەی" n sg abs ezalos
+"<هاوڵاتیانی>"
+	"هاوڵاتیانی" n pl ezalos
+"<سویسرا>"
+	"سویسرا" np top sg abs
+"<کرد>"
+	"کردن" vblex tv past p3 sg
+"<،>"
+	"،" cm
+"<کە>"
+	"کە" cnjsub 
+"<دەنگی>"
+	"دەنگ" n sg abs px3sg
+"<نا>"
+	"نا" n sg 
+"<بۆ>"
+	"بۆ" pr
+"<ئەو>"
+	"ئەو" det dem sg
+"<پرسە>"
+	"پرسە" n sg abs 
+"<بدەن>"
+	"دان" vblex tv imp p2 pl
+
+#trans= 150 lawyers and legal professors and several well-known writers and singers deliver the 'No' message for this voting.  	
+"<١٥٠>"
+    "١٥٠" num
+"<پارێزەر>"
+	"پارێزەر" n sg abs
+"<و>"
+	"و" cnjcoo
+"<پرۆفیسۆری>"
+	"پرۆفیسۆری" n sg abs ezalos 
+"<یاسایی>"
+	"یاسایی" adj pst
+"<و>"
+	"و" cnjcoo
+"<چەندین>"
+	"چەندین" det qnt pl 
+"<نوسەری>"
+	"نوسەری" n sg abs ezalos
+"<ناودار>"
+	"ناودار" adj pst 
+"<و>"
+	"و" cnjcoo
+"<گۆرانیبێژ>"
+	"گۆرانیبێژ" n sg abs
+"<پەیامی>"
+	"پەیام" n sg abs ezalos
+"<نایان>"
+	"نا" n sg px3pl 
+"<دەوت>"
+	"دەوت" vblex tv past p3 sg 
+"<بەم>"
+	"بە" pr pro
+	"ئەم" prn pers p3 sg
+"<دەنگدانە>"
+	"دەنگدانە" n sg abs 
+
+#trans= 
+"<ئەو>"
+	"ئەو" det dem sg
+"<شکۆ>"
+	"شکۆ" n sg abs 
+"<گەورەیەی>"
+	"گەورە" adj pst px3sg 
+"<کە>"
+	"کە" cnjsub 
+"<بەردەوام>"
+	"بەردەوام" n sg abs
+"<سەرکەوتنی>"
+	"سەرکەوتن" n sg abs px3sg
+"<تۆماردەکرد>"
+	"تۆماردەکرد" vblex tv pri p3 sg 
+"<و>"
+	"و" cnjcoo
+"<هێشتا>"
+	"هێشتا" adv 
+"<سەرمەستی>"
+	"سەرمەستی" n sg abs ezalos
+"<سەرکەوتنە>"
+	"سەرکەوتن" n sg abs
+	"بوون" vbcop pri p3 sg
+"<پەرلەمانیەکەی>"
+	"پەرلەمانیەکەی" n sg def px3sg 
+"<بوو>"
+	"بوون" vbcop past p3 sg
+"<(>"
+	"(" lpar
+"<%>"
+   "%"  punc
+"<٢٩ ٣٠>"
+   "٢٩ ٣٠" num
+"<)>"
+	")" rpar
+"<کە>"
+	"کە" cnjsub
+"<بەهیزترین>"
+	"بەهیزترین" adj pst 
+"<حزبی>"
+	"حزب" n sg abs ezalos
+"<سویسرایە>"
+	"سویسرایە" np top sg abs
+	"بوون" vbcop past p3 sg
+"<،>"
+	"،" cm
+"<ڕێک>"
+	"ڕێک" adj pst
+"<بە>"
+	"بە" pr
+"<پێچەوانەوەی>"
+	"پێچەوانەوەی" n sg abs ezalos
+"<پێشبینیەکانی>"
+	"پێشبینیەکانی" n pl def ezalos
+"<خۆیان>"
+	"خۆ" n sg abs px3pl
+"<هاوڵاتیانی>"
+	"هاوڵاتیانی" n pl ezalos 
+"<سویسرا>"
+	"سویسرا" np top sg abs
+"<کە>"
+	"کە" cnjsub
+"<بە>"
+	"بە" pr
+"<%>"
+"%" sent
+"<٦>"
+	"٦" num
+"<٣>"
+   "٣" num
+"<بەشداریان>"
+	"بەشدار" vblex iv p3 pl 
+"<لەم>"
+	"لە" pr
+		"ئەم" det dem sg
+"<ڕاپرسیە>"
+	"ڕاپرسیە" n sg abs 
+"<گشتیەدا>"
+	"گشتیەدا" n sg abs 
+	"دا" clt
+"<بوو>"
+	"بوون" vbcop past p3 sg
+"<،>"
+	"،" cm
+
+#trans= This voting war has been named the mother of all wars.  
+"<ئەم>"
+	"ئەم" det dem sg
+"<جەنگی>"
+	"جەنگ" n sg abs ezalos
+"<دەنگدانە>"
+	"دەنگدانە" n
+"<بە>"
+	"بە" pr
+"<دایکی>"
+	"دایک" n sg abs ezalos
+"<هەموو>"
+	"ھەموو" det qnt pl
+"<جەنگەکان>"
+	"جەنگ" n pl def
+"<نێونێرا>"
+	"نێونێرا" vblex tv pri p3 sg 
+"<.>"
+	"." sent
+

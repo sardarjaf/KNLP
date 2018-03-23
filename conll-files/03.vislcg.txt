@@ -1,0 +1,189 @@
+
+#trans = ?
+#sent_id = 1
+#text: برای دڵسۆز و خۆشەویستم ، ئەندازیار کاک محەمەد بەرزی کە نووسەرێکی بە توانا و شاعیر و چیرۆکنووسێکی ناسراوی بۆاری ئەدەبی منداڵانە خاوەن چەند کتێبێکی هۆنراوە و چیرۆکی چاپکراوە بۆ منداڵان 
+1	برای	برا	N	N	N|SG|ABS|EZALOS	1	 _ 	 _ 	 _
+---382	دڵسۆز	دڵسۆز	ADJ	ADJ	ADJ|PST	2	 _ 	 _ 	 _
+---363	و	و	CNJCOO	CNJCOO	CNJCOO	3	 _ 	 _ 	 _
+---374	خۆشەویستم	خۆشەویست	N	N	N|SG|ABS|PX1SG	4	 _ 	 _ 	 _
+---425	،	،	CM	CM	CM	5	 _ 	 _ 	 _
+---256	ئەندازیار	ئەندازیار	N	N	N|SG|ABS	6	 _ 	 _ 	 _
+---377	کاک	کاک	N	N	N|SG|ABS	7	 _ 	 _ 	 _
+---318	محەمەد	محەمەد	NP	NP	NP	8	 _ 	 _ 	 _
+---309	بەرزی	بەرزی	NP	NP	NP	9	 _ 	 _ 	 _
+---2910	کە	کە	CNJSUB	CNJSUB	CNJSUB	10	 _ 	 _ 	 _
+---3911	نووسەرێکی	نووسەر	N	N	N|SG|IND|EZALOS	11	 _ 	 _ 	 _
+---4212	بە	بە	PR	PR	PR	12	 _ 	 _ 	 _
+---2713	توانا	توانا	N	N	N|SG|ABS	13	 _ 	 _ 	 _
+---3414	و	و	CNJCOO	CNJCOO	CNJCOO	14	 _ 	 _ 	 _
+---3815	شاعیر	شاعیر	N	N	N|SG|ABS	15	 _ 	 _ 	 _
+---3416	و	و	CNJCOO	CNJCOO	CNJCOO	16	 _ 	 _ 	 _
+---3817	چیرۆکنووسێکی	چیرۆکنووس	N	N	N|SG|IND|EZALOS	17	 _ 	 _ 	 _
+---4518	ناسراوی	ناسراو	ADJ	ADJ	ADJ	18	 _ 	 _ 	 _
+---3419	بۆاری	بۆار	N	N	N|SG|ABS|EZALOS	19	 _ 	 _ 	 _
+---4020	ئەدەبی	ئەدەب	N	N	N|SG|ABS|EZALOS	20	 _ 	 _ 	 _
+---4121-22	منداڵانە
+21	منداڵ	N	N	N|PL	21	 _ 	 _ 	 _ 
+22	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	22	 _ 	 _ 	 _ 
+23	خاوەن	خاوەن	N	N	N|SG|ABS	23	 _ 	 _ 	 _
+---3424	چەند	چەند	DET	DET	DET|QNT|SP	24	 _ 	 _ 	 _
+---3925	کتێبێکی	کتێب	N	N	N|SG|IND|EZALOS	25	 _ 	 _ 	 _
+---4026	هۆنراوە	هۆنراوە	N	N	N|SG|ABS	26	 _ 	 _ 	 _
+---3627	و	و	CNJCOO	CNJCOO	CNJCOO	27	 _ 	 _ 	 _
+---3828	چیرۆکی	چیرۆک	N	N	N|SG|ABS|EZALOS	28	 _ 	 _ 	 _
+---4129	چاپکراوە	چاپ	VB	VB	VB|PAST	29	 _ 	 _ 	 _
+---3330	بۆ	بۆ	PR	PR	PR	30	 _ 	 _ 	 _
+---2731	منداڵان	منداڵ	N	N	N|PL|ABS	31	 _ 	 _ 	 _
+---3432	
+#trans = ?	
+#sent_id = 2
+#text: ئەو لە ئێستادا لە ئەمریکادا دەژی 
+1	ئەو	ئەو	PRN	PRN	PRN|PERS|P3|SG	1	 _ 	 _ 	 _
+---412	لە	لە	PR	PR	PR	2	 _ 	 _ 	 _
+---263	ئێستادا	ئێستا	ADV	ADV	ADV|CLT	3	 _ 	 _ 	 _
+---364	لە	لە	PR	PR	PR	4	 _ 	 _ 	 _
+---265	ئەمریکادا	ئەمریکا	NP	NP	NP|CLT	5	 _ 	 _ 	 _
+---356	دەژی	ژیان	VBLEX	VBLEX	VBLEX|IV|P3|SG	6	 _ 	 _ 	 _
+---467	
+#trans = ?
+#sent_id = 3
+#text: جارێکی وەکو بیرەوەرییەکی منداڵیی خۆی بۆمی نووسیبوو ” کە منداڵ بووم باوکم خەنجەرێکی دەبانی بە دیاری بۆ کڕیم و پێی وتم ، ئەمە لەژێر سەەرینەکەتدا دابنێ 
+1	جارێکی	جار	N	N	N|SG|IND|EZALOS	1	 _ 	 _ 	 _
+---382	وەکو	وەکو	PR	PR	PR	2	 _ 	 _ 	 _
+---283	بیرەوەرییەکی	بیرەوەری	N	N	N|SG|IND|ABS|EZALOS	3	 _ 	 _ 	 _
+---474	منداڵیی	منداڵی	N	N	N|SG|ABS|EZALOS	4	 _ 	 _ 	 _
+---415	خۆی	خۆ	N	N	N|SG|ABS|PX3SG	5	 _ 	 _ 	 _
+---366-7	بۆمی
+6	بۆ	PR	PR	PR	6	 _ 	 _ 	 _ 
+7	من	PRN	PRN	PRN|P1|SG	7	 _ 	 _ 	 _ 
+8	نووسیبوو	نووسین	VBLEX	VBLEX	VBLEX|TV|P3|SG	8	 _ 	 _ 	 _
+---489	”	”	RQUOT	RQUOT	RQUOT	9	 _ 	 _ 	 _
+---3410	کە	کە	CNJSUB	CNJSUB	CNJSUB	10	 _ 	 _ 	 _
+---3911	منداڵ	منداڵ	N	N	N|SG|ABS	11	 _ 	 _ 	 _
+---3412	بووم	بوون	VBCOP	VBCOP	VBCOP|P1|SG	12	 _ 	 _ 	 _
+---4413	باوکم	باوک	N	N	N|SG|ABS|PX1SG	13	 _ 	 _ 	 _
+---3914	خەنجەرێکی	خەنجەر	N	N	N|SG|IND|EZALOS	14	 _ 	 _ 	 _
+---4215	دەبانی	دەبە	ADJ	ADJ	ADJ	15	 _ 	 _ 	 _
+---3216	بە	بە	PR	PR	PR	16	 _ 	 _ 	 _
+---2717	دیاری	دیاری	N	N	N|SG|ABS	17	 _ 	 _ 	 _
+---3418	بۆ	بۆ	PR	PR	PR	18	 _ 	 _ 	 _
+---2719-20	کڕیم
+19	کڕین	VBLEX	VBLEX	VBLEX|TV|P3|SG	19	 _ 	 _ 	 _ 
+20	م	PRN	PRN	PRN|CLT|P1|SG	20	 _ 	 _ 	 _ 
+21	و	و	CNJCOO	CNJCOO	CNJCOO	21	 _ 	 _ 	 _
+---3822-23	پێی
+22	بە	PR	PR	PR	22	 _ 	 _ 	 _ 
+23	ی	PRN	PRN	PRN|CLT|P3|SG	23	 _ 	 _ 	 _ 
+24-25	وتم
+24	وتن	VBLEX	VBLEX	VBLEX|IV|P3|SG	24	 _ 	 _ 	 _ 
+25	م	PRN	PRN	PRN|CLT|P1|SG	25	 _ 	 _ 	 _ 
+26	،	،	CM	CM	CM	26	 _ 	 _ 	 _
+---2627	ئەمە	ئەمە	DET	DET	DET|DEM|SG	27	 _ 	 _ 	 _
+---3928-29	لەژێر
+28	لە	PR	PR	PR	28	 _ 	 _ 	 _ 
+29	ژێر	N	N	N	29	 _ 	 _ 	 _ 
+30	سەەرینەکەتدا	سەەرین	N	N	N|SG|DEF|ABS|CLT	30	 _ 	 _ 	 _
+---4331	دابنێ	دانان	VBLEX	VBLEX	VBLEX|IV|P2|SG	31	 _ 	 _ 	 _
+---4832	
+#trans = ? 
+#sent_id = 4
+#text: خۆ ئەگەر باوکم کتێبێک یا گۆڤارێکی منداڵانی لە جێی ئەو خەنجەرە بۆ بکڕیمایە 
+1	خۆ	خۆ	N	N	N|SG|ABS	1	 _ 	 _ 	 _
+---302	ئەگەر	ئەگەر	CNJSUB	CNJSUB	CNJSUB	2	 _ 	 _ 	 _
+---413	باوکم	باوک	N	N	N|SG|ABS|PX1SG	3	 _ 	 _ 	 _
+---384	کتێبێک	کتێب	N	N	N|SG|IND	4	 _ 	 _ 	 _
+---325	یا	یا	CONJCOO	CONJCOO	CONJCOO	5	 _ 	 _ 	 _
+---416	گۆڤارێکی	گۆڤار	N	N	N|SG|IND|EZALOS	6	 _ 	 _ 	 _
+---407	منداڵانی	منداڵ	N	N	N|PL|IND|PX3SG	7	 _ 	 _ 	 _
+---398	لە	لە	PR	PR	PR	8	 _ 	 _ 	 _
+---269	جێی	جێ	N	N	N|SG|ABS|EZALOS	9	 _ 	 _ 	 _
+---3710	ئەو	ئەو	DET	DET	DET|DEM|SG	10	 _ 	 _ 	 _
+---3811	خەنجەرە	خەنجەر	N	N	N|SG|DEM	11	 _ 	 _ 	 _
+---3512	بۆ	بۆ	PR	PR	PR	12	 _ 	 _ 	 _
+---2713	بکڕیمایە	کڕین	VBLEX	VBLEX	VBLEX|TV|P3|SG	13	 _ 	 _ 	 _
+---4714	
+#trans = ?
+#sent_id = 5
+#text: ئێستا لە ئاستێکی تردا دەبووم ” 
+1	ئێستا	ئێستا	ADV	ADV	ADV	1	 _ 	 _ 	 _
+---322	لە	لە	PR	PR	PR	2	 _ 	 _ 	 _
+---263	ئاستێکی	ئاست	N	N	N|SG|IND|EZALOS	3	 _ 	 _ 	 _
+---394	تردا	تر	PRN	PRN	PRN|CLT	4	 _ 	 _ 	 _
+---335	دەبووم	بوون	VBCOP	VBCOP	VBCOP|PRI|P1|SG	5	 _ 	 _ 	 _
+---476	”	”	RQUOT	RQUOT	RQUOT	6	 _ 	 _ 	 _
+---347	
+#trans = ?
+#sent_id = 6
+#text: دێینە سەر باسەکەمان کە گرنگی کتێبخانەی ماڵەوەیە لە رۆشنبیریکردنی منداڵدا 
+1	دێینە	هاتن	VBLEX	VBLEX	VBLEX|IV|P3|PL	1	 _ 	 _ 	 _
+---462	سەر	سەر	N	N	N|SG|ABS	2	 _ 	 _ 	 _
+---313	باسەکەمان	باس	N	N	N|SG|DEF|PX1PL	3	 _ 	 _ 	 _
+---374	کە	کە	CNJSUB	CNJSUB	CNJSUB	4	 _ 	 _ 	 _
+---385	گرنگی	گرنگ	N	N	N|SG|ABS|EZALOS	5	 _ 	 _ 	 _
+---396	کتێبخانەی	کتێبخانە	N	N	N|SG|ABS|EZALOS	6	 _ 	 _ 	 _
+---437-8	ماڵەوەیە
+7	ماڵ	N	N	N|SG|ABS	7	 _ 	 _ 	 _ 
+8	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	8	 _ 	 _ 	 _ 
+9	لە	لە	PR	PR	PR	9	 _ 	 _ 	 _
+---2610	رۆشنبیریکردنی	رۆشنبیریکردن	N	N	N|SG|ABS|EZALOS	10	 _ 	 _ 	 _
+---4811	منداڵدا	منداڵ	N	N	N|SG|ABS|CLT	11	 _ 	 _ 	 _
+---3812	12	بایەخی	بایەخ	N	N	N|SG|ABS|EZALOS	12	 _ 	 _ 	 _
+---4113	خوێندنەوە	خوێندن	N	N	N|SG|ABS	13	 _ 	 _ 	 _
+---3514	لە	لە	PR	PR	PR	14	 _ 	 _ 	 _
+---2715	دەرەوەی	دەرەوە	N	N	N|SG|ABS|EZALOS	15	 _ 	 _ 	 _
+---4216	قوتابخانەدا	قوتابخانە	N	N	N|SG|ABS|CLT	16	 _ 	 _ 	 _
+---4217	،	،	CM	CM	CM	17	 _ 	 _ 	 _
+---2618	لە	لە	PR	PR	PR	18	 _ 	 _ 	 _
+---2719	بایەخی	بایەخ	N	N	N|SG|ABS|EZALOS	19	 _ 	 _ 	 _
+---4120	بەرنامەکانی	بەرنامە	N	N	N|PL|DEF|EZALOS	20	 _ 	 _ 	 _
+---4321	خوێندن	خوێندن	N	N	N|SG|ABS	21	 _ 	 _ 	 _
+---3522-23	لەناو
+22	لە	PR	PR	PR	22	 _ 	 _ 	 _ 
+23	ناو	N	N	N	23	 _ 	 _ 	 _ 
+24	قوتابخانەدا	قوتابخانە	N	N	N|SG|ABS|CLT	24	 _ 	 _ 	 _
+---4225	کەمتر	کەم	ADJ	ADJ	ADJ|COMP	25	 _ 	 _ 	 _
+---3626	نییە	بوون	VBCOP	VBCOP	VBCOP|PRI|NEG|P3|SG	26	 _ 	 _ 	 _
+---5227	بۆیە	بۆیە	CNJSUB	CNJSUB	CNJSUB	27	 _ 	 _ 	 _
+---4128	کتێخانەی	کتێبخانە	N	N	N|SG|ABS|EZALOS	28	 _ 	 _ 	 _
+---4429	ماڵەوە	ماڵ	N	N	N|SG|ABS	29	 _ 	 _ 	 _
+---3230	بە	بە	PR	PR	PR	30	 _ 	 _ 	 _
+---2731	پێویستێکی	پێویست	N	N	N|SG|IND|ABS|EZALOS	31	 _ 	 _ 	 _
+---4632	پەروەردەیی	پەروەردە	N	N	N|SG|ABS|PX3SG	32	 _ 	 _ 	 _
+---4333	دەزانین	زانن	VBLEX	VBLEX	VBLEX|TV|PRI|P1|PL	33	 _ 	 _ 	 _
+---5134	
+#trans = ?
+#sent_id = 7
+#text: چونکە درێژەدەر و تەواوکەری بەرنامە و پرۆگرامی خوێندنە 
+1	چونکە	چونکە	CNJSUB	CNJSUB	CNJSUB	1	 _ 	 _ 	 _
+---412	درێژەدەر	درێژەدەر	N	N	N|SG|ABS	2	 _ 	 _ 	 _
+---363	و	و	CNJCOO	CNJCOO	CNJCOO	3	 _ 	 _ 	 _
+---374	تەواوکەری	تەواوکەر	N	N	N|SG|ABS|EZALOS	4	 _ 	 _ 	 _
+---435	بەرنامە	بەرنامە	N	N	N|SG|ABS	5	 _ 	 _ 	 _
+---356	و	و	CNJCOO	CNJCOO	CNJCOO	6	 _ 	 _ 	 _
+---377	پرۆگرامی	پرۆگرام	N	N	N|SG|ABS|EZALOS	7	 _ 	 _ 	 _
+---428-9	خوێندنە
+8	خوێندن	N	N	N|SG|ABS	8	 _ 	 _ 	 _ 
+9	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	9	 _ 	 _ 	 _ 
+10	
+#trans = ?
+#sent_id = 8
+#text: توێژینەوە زانیارییەکان ئەوەیان سەلماندووە ، کە پەیوەندییەکی بەهێز هەیە لە نێوان توانای خوێندنەوە و پێشکەوتن لە خوێندندا . 
+1	توێژینەوە	توێژینەوە	N	N	N|SG|ABS	1	 _ 	 _ 	 _
+---372	زانیارییەکان	زانیاری	N	N	N|PL|DEF	2	 _ 	 _ 	 _
+---353	ئەوەیان	ئەوە	PRN	PRN	PRN|P3|PL	3	 _ 	 _ 	 _
+---374	سەلماندووە	سەلماندن	VBLEX	VBLEX	VBLEX|TV|P3|SG	4	 _ 	 _ 	 _
+---505	،	،	CM	CM	CM	5	 _ 	 _ 	 _
+---256	کە	کە	CNJSUB	CNJSUB	CNJSUB	6	 _ 	 _ 	 _
+---387	پەیوەندییەکی	پەیوەندی	N	N	N|SG|IND|EZALOS	7	 _ 	 _ 	 _
+---438	بەهێز	هێز	ADJ	ADJ	ADJ	8	 _ 	 _ 	 _
+---309	هەیە	ھەبوون	VBHAVER	VBHAVER	VBHAVER|PRI|P3|SG	9	 _ 	 _ 	 _
+---5510	لە	لە	PR	PR	PR	10	 _ 	 _ 	 _
+---2711	نێوان	نێوان	N	N	N	11	 _ 	 _ 	 _
+---2712	توانای	توانا	N	N	N|SG|ABS|EZALOS	12	 _ 	 _ 	 _
+---4113	خوێندنەوە	خوێندن	N	N	N|SG|ABS	13	 _ 	 _ 	 _
+---3514	و	و	CNJCOO	CNJCOO	CNJCOO	14	 _ 	 _ 	 _
+---3815	پێشکەوتن	پێشکەوتن	N	N	N|SG|ABS	15	 _ 	 _ 	 _
+---3716	لە	لە	PR	PR	PR	16	 _ 	 _ 	 _
+---2717	خوێندندا	خوێندن	N	N	N|SG|ABS|CLT	17	 _ 	 _ 	 _
+---3918	.	.	SENT	SENT	SENT	18	 _ 	 _ 	 _
+---3219	

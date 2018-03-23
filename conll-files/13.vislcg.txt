@@ -1,0 +1,287 @@
+
+#trans = ?
+#sent_id = 1
+#text: من کاتێک دێمە سەر شەقام ، کە وەک ئەوان منیش چەکێکم پێبێت 
+1	من	من	PRN	PRN	PRN|PERS|P1|SG	1	 _ 	 _ 	 _
+---402	کاتێک	کات	N	N	N|SG|IND	2	 _ 	 _ 	 _
+---313	دێمە	هاتن	VBLEX	VBLEX	VBLEX|PRS|P1|SG	3	 _ 	 _ 	 _
+---474	سەر	سەر	PR	PR	PR	4	 _ 	 _ 	 _
+---275	شەقام	شەقام	N	N	N|SG|ABS	5	 _ 	 _ 	 _
+---336	،	،	CM	CM	CM	6	 _ 	 _ 	 _
+---257	کە	کە	CNJSUB	CNJSUB	CNJSUB	7	 _ 	 _ 	 _
+---388	وەک	وەک	PR	PR	PR	8	 _ 	 _ 	 _
+---279	ئەوان	ئەوان	PRN	PRN	PRN|PERS|P3|PL	9	 _ 	 _ 	 _
+---4310	منیش	منیش	PRN	PRN	PRN|PERS|P1|SG	10	 _ 	 _ 	 _
+---4311	چەکێکم	چەک	N	N	N|SG|IND|PX1SG	11	 _ 	 _ 	 _
+---3812	پێبێت	پێبێت	VBLEX	VBLEX	VBLEX|PRS|P1|SG	12	 _ 	 _ 	 _
+---4913	
+#trans = ?
+#sent_id = 2
+#text: بۆ ئه‌وانه‌ی زۆر بێده‌سه‌لاتن و بۆ خۆ ڕزگارکردن هه‌میشه‌ له‌ به‌رپرسیاره‌تی ، په‌نا بۆ خودایه‌ک ئه‌به‌ن تۆڵه‌ بکاته‌وه‌ ، یان حه‌ق بسێنێته‌وه‌ ! 
+1	بۆ	بۆ	PR	PR	PR	1	 _ 	 _ 	 _
+---262	ئه‌وانه‌ی	ئه‌وانه‌ی	PRON	PRON	PRON|PL|P3	2	 _ 	 _ 	 _
+---453	زۆر	زۆر	ADV	ADV	ADV	3	 _ 	 _ 	 _
+---304	بێده‌سه‌لاتن	بێده‌سه‌لاتن	ADJ	ADJ	ADJ|PL|P3	4	 _ 	 _ 	 _
+---455	و	و	CNJCOO	CNJCOO	CNJCOO	5	 _ 	 _ 	 _
+---376	بۆ	بۆ	PR	PR	PR	6	 _ 	 _ 	 _
+---267	خۆ	خۆ	N	N	N|SG|ABS	7	 _ 	 _ 	 _
+---308	ڕزگارکردن	ڕزگارکردن	N	N	N|SG	8	 _ 	 _ 	 _
+---339	هه‌میشه‌	هەمیشە	ADV	ADV	ADV	9	 _ 	 _ 	 _
+---3310	له‌	لە	PR	PR	PR	10	 _ 	 _ 	 _
+---2711	به‌رپرسیاره‌تی	به‌رپرسیاره‌تی	N	N	N|SG|ABS	11	 _ 	 _ 	 _
+---4312	،	،	CM	CM	CM	12	 _ 	 _ 	 _
+---2613	په‌نا	پەنا	N	N	N|SG|ABS	13	 _ 	 _ 	 _
+---3314	بۆ	بۆ	PR	PR	PR	14	 _ 	 _ 	 _
+---2715	خودایه‌ک	خودا	N	N	N|SG|IND	15	 _ 	 _ 	 _
+---3316	ئه‌به‌ن	ئه‌به‌ن	VBLEX	VBLEX	VBLEX|TV|PL|P3	16	 _ 	 _ 	 _
+---5017	تۆڵه‌	تۆڵە	N	N	N|SG|ABS	17	 _ 	 _ 	 _
+---3318	بکاته‌وه‌	کردنەوە	VBLEX	VBLEX	VBLEX|TV|PRS|SG|P3	18	 _ 	 _ 	 _
+---5419	،	،	CM	CM	CM	19	 _ 	 _ 	 _
+---2620	یان	یان	CNJCOO	CNJCOO	CNJCOO	20	 _ 	 _ 	 _
+---4021	حه‌ق	حه‌ق	N	N	N|SG|ABS	21	 _ 	 _ 	 _
+---3322	بسێنێته‌وه‌	بسێنێته‌وه‌	VBLEX	VBLEX	VBLEX|PRS|SG|P3	22	 _ 	 _ 	 _
+---5523	!	!	SENT	SENT	SENT	23	 _ 	 _ 	 _
+---3224	
+#trans = ?
+#sent_id = 3
+#text: ئه‌و خوایه‌ی تۆ ، نه‌ هۆکاری هیچ کاره‌ساتێکه‌ و نه‌ فرایادڕه‌سی هیچ شتێکیشه‌ 
+1	ئه‌و	ئەو	PRN	PRN	PRN|PERS|P3|SG	1	 _ 	 _ 	 _
+---412	خوایه‌ی	خوایه‌ی	N	N	N|SG|ABS|PX3SG	2	 _ 	 _ 	 _
+---413	تۆ	تۆ	PRN	PRN	PRN|PERS|P2|SG	3	 _ 	 _ 	 _
+---404	،	،	CM	CM	CM	4	 _ 	 _ 	 _
+---255	نه‌	نه‌	ADV	ADV	ADV|NEG	5	 _ 	 _ 	 _
+---346	هۆکاری	هۆکار	N	N	N|SG|ABS|EZALOS	6	 _ 	 _ 	 _
+---407	هیچ	هیچ	ADV	ADV	ADV	7	 _ 	 _ 	 _
+---308	کاره‌ساتێکه‌	کارەسات	N	N	N|SG|IND	8	 _ 	 _ 	 _
+---359	و	و	CNJCOO	CNJCOO	CNJCOO	9	 _ 	 _ 	 _
+---3710	نه‌	نه‌	ADV	ADV	ADV	10	 _ 	 _ 	 _
+---3111	فرایادڕه‌سی	فرایادڕه‌س	N	N	N|SG	11	 _ 	 _ 	 _
+---3512	هیچ	هیچ	ADV	ADV	ADV	12	 _ 	 _ 	 _
+---3113-14	شتێکیشه‌
+13	شت	N	N	N|SG|IND|EMPH	13	 _ 	 _ 	 _ 
+14	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	14	 _ 	 _ 	 _ 
+15	
+#trans = ?
+#sent_id = 4
+#text: خۆت هۆکاریی و خۆشت ده‌بێت ببیته‌ فریادڕه‌سی خۆت 
+1	خۆت	خۆ	N	N	N|SG|ABS|PX2SG	1	 _ 	 _ 	 _
+---362	هۆکاریی	هۆکار	N	N	N|SG|ABS|PX3SG	2	 _ 	 _ 	 _
+---393	و	و	CNJCOO	CNJCOO	CNJCOO	3	 _ 	 _ 	 _
+---374	خۆشت	خۆش	N	N	N|SG|ABS|PX2SG	4	 _ 	 _ 	 _
+---375	ده‌بێت	دەبێت	VBMOD	VBMOD	VBMOD|P3|SG	5	 _ 	 _ 	 _
+---446	ببیته‌	ببیته‌	VBLEX	VBLEX	VBLEX|P3|SG	6	 _ 	 _ 	 _
+---457	فریادڕه‌سی	فریادڕه‌س	N	N	N|SG	7	 _ 	 _ 	 _
+---338	خۆت	خۆ	N	N	N|SG|ABS|PX2SG	8	 _ 	 _ 	 _
+---369	
+#trans = ?
+#sent_id = 5
+#text: رەزا شوان لای هەموو کوردێکی کوردستان پەروەر و دڵسۆز و بە ئەمەک و شیرپاک 
+1	رەزا	رەزا	NP	NP	NP	1	 _ 	 _ 	 _
+---282	شوان	شوان	NP	NP	NP	2	 _ 	 _ 	 _
+---283	لای	لا	N	N	N|SG|ABS|EZALOS	3	 _ 	 _ 	 _
+---374	هەموو	ھەموو	DET	DET	DET|QNT|PL	4	 _ 	 _ 	 _
+---395	کوردێکی	کورد	N	N	N|SG|IND|EZALOS	5	 _ 	 _ 	 _
+---396	کوردستان	کوردستان	NP	NP	NP|TOP|SG|ABS	6	 _ 	 _ 	 _
+---437	پەروەر	پەروەر	ADJ	ADJ	ADJ	7	 _ 	 _ 	 _
+---338	و	و	CNJCOO	CNJCOO	CNJCOO	8	 _ 	 _ 	 _
+---379	دڵسۆز	دڵسۆز	ADJ	ADJ	ADJ|PST	9	 _ 	 _ 	 _
+---3610	و	و	CNJCOO	CNJCOO	CNJCOO	10	 _ 	 _ 	 _
+---3811	بە	بە	PR	PR	PR	11	 _ 	 _ 	 _
+---2712	ئەمەک	ئەمەک	ADJ	ADJ	ADJ	12	 _ 	 _ 	 _
+---3313	و	و	CNJCOO	CNJCOO	CNJCOO	13	 _ 	 _ 	 _
+---3814	شیرپاک	شیرپاک	ADJ	ADJ	ADJ	14	 _ 	 _ 	 _
+---3415	
+#trans = ?
+#sent_id = 6
+#text: کوردستان پیرۆزترین و خۆشەویسترین و جوانترین و شیرینترین و دڵگیرترین شوێنە 
+1	کوردستان	کوردستان	NP	NP	NP|TOP|SG|ABS	1	 _ 	 _ 	 _
+---432	پیرۆزترین	پیرۆزترین	ADJ	ADJ	ADJ|SUP	2	 _ 	 _ 	 _
+---403	و	و	CNJCOO	CNJCOO	CNJCOO	3	 _ 	 _ 	 _
+---374	خۆشەویسترین	خۆشەویسترین	ADJ	ADJ	ADJ|SUP	4	 _ 	 _ 	 _
+---425	و	و	CNJCOO	CNJCOO	CNJCOO	5	 _ 	 _ 	 _
+---376	جوانترین	جوانترین	ADJ	ADJ	ADJ|SUP	6	 _ 	 _ 	 _
+---397	و	و	CNJCOO	CNJCOO	CNJCOO	7	 _ 	 _ 	 _
+---378	شیرینترین	شیرینترین	ADJ	ADJ	ADJ|SUP	8	 _ 	 _ 	 _
+---409	و	و	CNJCOO	CNJCOO	CNJCOO	9	 _ 	 _ 	 _
+---3710	دڵگیرترین	دڵگیرترین	ADJ	ADJ	ADJ|SUP	10	 _ 	 _ 	 _
+---4111-12	شوێنە
+11	شوێن	N	N	N|SG|ABS	11	 _ 	 _ 	 _ 
+12	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	12	 _ 	 _ 	 _ 
+13	
+#trans = ?
+#sent_id = 7
+#text: هییچ سۆز و پەرۆش و خۆشەویستییەک ، ناگەنە سۆز و پەرۆش و خۆشەویستیمان بۆ کوردستان 
+1	هییچ	هییچ	ADV	ADV	ADV	1	 _ 	 _ 	 _
+---312	سۆز	سۆز	N	N	N|SG	2	 _ 	 _ 	 _
+---273	و	و	CNJCOO	CNJCOO	CNJCOO	3	 _ 	 _ 	 _
+---374	پەرۆش	پەرۆش	N	N	N|SG	4	 _ 	 _ 	 _
+---295	و	و	CNJCOO	CNJCOO	CNJCOO	5	 _ 	 _ 	 _
+---376	خۆشەویستییەک	خۆشەویستی	N	N	N|SG|IND	6	 _ 	 _ 	 _
+---377	،	،	CM	CM	CM	7	 _ 	 _ 	 _
+---258	ناگەنە	گەیشتن	VBLEX	VBLEX	VBLEX|TV|NEG|P3|PL	8	 _ 	 _ 	 _
+---529	سۆز	سۆز	N	N	N|SG	9	 _ 	 _ 	 _
+---2710	و	و	CNJCOO	CNJCOO	CNJCOO	10	 _ 	 _ 	 _
+---3811	پەرۆش	پەرۆش	S	S	S|NG	11	 _ 	 _ 	 _
+---3012	و	و	CNJCOO	CNJCOO	CNJCOO	12	 _ 	 _ 	 _
+---3813	خۆشەویستیمان	خۆشەویستی	N	N	N|SG|ABS|PX1PL	13	 _ 	 _ 	 _
+---4414	بۆ	بۆ	PR	PR	PR	14	 _ 	 _ 	 _
+---2715	کوردستان	کوردستان	NP	NP	NP|TOP|SG|ABS	15	 _ 	 _ 	 _
+---4416	
+#trans = ?
+#sent_id = 8
+#text: کوردستان نیشتمانی شیرینمانە ، دایکی دڵسوزمانە ، ناسنامەمانە ، مێژوومانە ، شکۆداری و شانازیمانە ، ئابڕوومانە ، دۆێنێ و ئەمڕۆ و داهاتوومانە ، کوردستان 
+1	کوردستان	کوردستان	NP	NP	NP|TOP|SG|ABS	1	 _ 	 _ 	 _
+---432	نیشتمانی	نیشتمان	N	N	N|SG|ABS|EZALOS	2	 _ 	 _ 	 _
+---423-4	شیرینمانە
+3	شیرینمانە	ADJ	ADJ	ADJ|ATTR|PX1PL	3	 _ 	 _ 	 _ 
+4	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	4	 _ 	 _ 	 _ 
+5	،	،	CM	CM	CM	5	 _ 	 _ 	 _
+---256	دایکی	دایک	N	N	N|SG|ABS|EZALOS	6	 _ 	 _ 	 _
+---397-8	دڵسوزمانە
+7	دڵسوزمانە	ADJ	ADJ	ADJ|ATTR|PX1PL	7	 _ 	 _ 	 _ 
+8	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	8	 _ 	 _ 	 _ 
+9	،	،	CM	CM	CM	9	 _ 	 _ 	 _
+---2510-11	ناسنامەمانە
+10	ناسنامە	N	N	N|SG|ABS|PX1PL	10	 _ 	 _ 	 _ 
+11	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	11	 _ 	 _ 	 _ 
+12	،	،	CM	CM	CM	12	 _ 	 _ 	 _
+---2613-14	مێژوومانە
+13	مێژوو	N	N	N|SG|ABS|PX1PL	13	 _ 	 _ 	 _ 
+14	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	14	 _ 	 _ 	 _ 
+15	،	،	CM	CM	CM	15	 _ 	 _ 	 _
+---2616	شکۆداری	شکۆداری	ADJ	ADJ	ADJ|ATTR	16	 _ 	 _ 	 _
+---4017	و	و	CNJCOO	CNJCOO	CNJCOO	17	 _ 	 _ 	 _
+---3818-19	شانازیمانە
+18	شانازیمانە	ADJ	ADJ	ADJ|ATTR|PX1PL	18	 _ 	 _ 	 _ 
+19	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	19	 _ 	 _ 	 _ 
+20	،	،	CM	CM	CM	20	 _ 	 _ 	 _
+---2621-22	ئابڕوومانە
+21	ئابڕوو	N	N	N|SG|ABS|PX1PL	21	 _ 	 _ 	 _ 
+22	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	22	 _ 	 _ 	 _ 
+23	،	،	CM	CM	CM	23	 _ 	 _ 	 _
+---2624	دۆێنێ	دۆێنێ	N	N	N|SG|ABS	24	 _ 	 _ 	 _
+---3425	و	و	CNJCOO	CNJCOO	CNJCOO	25	 _ 	 _ 	 _
+---3826	ئەمڕۆ	ئەمڕۆ	N	N	N|SG|ABS	26	 _ 	 _ 	 _
+---3427	و	و	CNJCOO	CNJCOO	CNJCOO	27	 _ 	 _ 	 _
+---3828-29	داهاتوومانە
+28	داهاتوو	N	N	N|SG|ABS|PX1PL	28	 _ 	 _ 	 _ 
+29	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	29	 _ 	 _ 	 _ 
+30	،	،	CM	CM	CM	30	 _ 	 _ 	 _
+---2631	کوردستان	کوردستان	NP	NP	NP|TOP|SG|ABS	31	 _ 	 _ 	 _
+---4432	
+#trans = ?
+#sent_id = 9
+#text: لەو خەیاڵ و ئەقڵییەت و وەهمە پووچەشدا بوون کە ئەمان جیاوازن 
+1-2	لەو
+1	لە	PR	PR	PR	1	 _ 	 _ 	 _ 
+2	ئەو	PRN	PRN	PRN|PERS|P3|SG	2	 _ 	 _ 	 _ 
+3	خەیاڵ	خەیاڵ	N	N	N|SG|ABS	3	 _ 	 _ 	 _
+---334	و	و	CNJCOO	CNJCOO	CNJCOO	4	 _ 	 _ 	 _
+---375	ئەقڵییەت	ئەقڵییەت	N	N	N|SG|ABS	5	 _ 	 _ 	 _
+---366	و	و	CNJCOO	CNJCOO	CNJCOO	6	 _ 	 _ 	 _
+---377	وەهمە	وەهمە	N	N	N|SG|ABS	7	 _ 	 _ 	 _
+---338	پووچەشدا	پووچەشدا	ADJ	ADJ	ADJ|CLT	8	 _ 	 _ 	 _
+---399	بوون	بوون	VBCOP	VBCOP	VBCOP|PAST|P3|PL	9	 _ 	 _ 	 _
+---4810	کە	کە	CNJSUB	CNJSUB	CNJSUB	10	 _ 	 _ 	 _
+---3911	ئەمان	ئەمان	PRN	PRN	PRN|PERS|PL|P2	11	 _ 	 _ 	 _
+---4412	جیاوازن	جیاواز	ADJ	ADJ	ADJ|PST|PX3PL	12	 _ 	 _ 	 _
+---4413	
+#trans = ?
+#sent_id = 10
+#text: ساڵ لە دوای ساڵیش لە سایەی بیرکردنەوە و کۆششی داهێنەراندا ، شتی تازەتر و سەیر و سەمەرەتر دێنە ئاراوە ، چونکە 
+1	ساڵ	ساڵ	N	N	N|SG|ABS	1	 _ 	 _ 	 _
+---312	لە	لە	PR	PR	PR	2	 _ 	 _ 	 _
+---263	دوای	دوای	ADV	ADV	ADV	3	 _ 	 _ 	 _
+---314	ساڵیش	ساڵیش	N	N	N|SG	4	 _ 	 _ 	 _
+---295	لە	لە	PR	PR	PR	5	 _ 	 _ 	 _
+---266	سایەی	سایە	N	N	N|SG|ABS|EZALOS	6	 _ 	 _ 	 _
+---397	بیرکردنەوە	بیرکردنەوە	N	N	N|SG|CLT	7	 _ 	 _ 	 _
+---388	و	و	CNJCOO	CNJCOO	CNJCOO	8	 _ 	 _ 	 _
+---379	کۆششی	کۆششی	N	N	N|SG|EZALOS	9	 _ 	 _ 	 _
+---3610	داهێنەراندا	داهێنەر	N	N	N|PL|CLT	10	 _ 	 _ 	 _
+---3611	،	،	CM	CM	CM	11	 _ 	 _ 	 _
+---2612	شتی	شت	N	N	N|SG|ABS|EZALOS	12	 _ 	 _ 	 _
+---3813	تازەتر	تازەتر	ADJ	ADJ	ADJ|COMP	13	 _ 	 _ 	 _
+---3914	و	و	CNJCOO	CNJCOO	CNJCOO	14	 _ 	 _ 	 _
+---3815	سەیر	سەیر	ADJ	ADJ	ADJ|PST	15	 _ 	 _ 	 _
+---3616	و	و	CNJCOO	CNJCOO	CNJCOO	16	 _ 	 _ 	 _
+---3817	سەمەرەتر	سەمەرەتر	ADJ	ADJ	ADJ|COMP	17	 _ 	 _ 	 _
+---4118	دێنە	دێنە	VBLEX	VBLEX	VBLEX|TV|P3|PL	18	 _ 	 _ 	 _
+---4719	ئاراوە	ئاراوە	N	N	N|SG	19	 _ 	 _ 	 _
+---3120	،	،	CM	CM	CM	20	 _ 	 _ 	 _
+---2621	چونکە	چونکە	CNJSUB	CNJSUB	CNJSUB	21	 _ 	 _ 	 _
+---4222	
+#trans = ?
+#sent_id = 11
+#text: رۆژی شەممە ( ٧/٧/٢٠١٧ ) لەو کۆنگرە رۆژنامەییەی کە دیکتاتۆرە رەگەزپەرست و لەخۆباییەکی تورکیا ، لە پەراوێزی کۆنگرەی لووتکەی وڵاتانی بیست لە هامبۆرگ لە ئەڵمانیا بەڕێوەچوو 
+1	رۆژی	رۆژ	N	N	N|SG|ABS|EZALOS	1	 _ 	 _ 	 _
+---382	شەممە	شەممە	N	N	N|SG|ABS	2	 _ 	 _ 	 _
+---333	(	(	LPAR	LPAR	LPAR	3	 _ 	 _ 	 _
+---314	٧/٧/٢٠١٧	٧/٧/٢٠١٧	DATE	DATE	DATE	4	 _ 	 _ 	 _
+---385	)	)	RPAR	RPAR	RPAR	5	 _ 	 _ 	 _
+---316-7	لەو
+6	لە	PR	PR	PR	6	 _ 	 _ 	 _ 
+7	ئەو	PRN	PRN	PRN|PERS|P3|SG	7	 _ 	 _ 	 _ 
+8	کۆنگرە	کۆنگرە	N	N	N|SG|ABS	8	 _ 	 _ 	 _
+---349	رۆژنامەییەی	رۆژنامەییەی	N	N	N|SG|EZALOS	9	 _ 	 _ 	 _
+---4210	کە	کە	CNJSUB	CNJSUB	CNJSUB	10	 _ 	 _ 	 _
+---3911-12	دیکتاتۆرە
+11	دیکتاتۆر	N	N	N|SG|ABS	11	 _ 	 _ 	 _ 
+12	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	12	 _ 	 _ 	 _ 
+13	رەگەزپەرست	رەگەزپەرست	N	N	N|SG	13	 _ 	 _ 	 _
+---3514	و	و	CNJCOO	CNJCOO	CNJCOO	14	 _ 	 _ 	 _
+---3815	لەخۆباییەکی	لەخۆباییەکی	N	N	N|SG|EZALOS	15	 _ 	 _ 	 _
+---4316	تورکیا	تورکیا	NP	NP	NP|TOP|SG|ABS	16	 _ 	 _ 	 _
+---4217	،	،	CM	CM	CM	17	 _ 	 _ 	 _
+---2618	لە	لە	PR	PR	PR	18	 _ 	 _ 	 _
+---2719	پەراوێزی	پەراوێز	N	N	N|SG|ABS|EZALOS	19	 _ 	 _ 	 _
+---4320	کۆنگرەی	کۆنگرە	N	N	N|SG|ABS|EZALOS	20	 _ 	 _ 	 _
+---4221	لووتکەی	لووتکە	N	N	N|SG|ABS|EZALOS	21	 _ 	 _ 	 _
+---4222	وڵاتانی	وڵات	N	N	N|PL|IND|EZALOS	22	 _ 	 _ 	 _
+---4023	بیست	بیست	NUM	NUM	NUM|PL	23	 _ 	 _ 	 _
+---3524	لە	لە	PR	PR	PR	24	 _ 	 _ 	 _
+---2725	هامبۆرگ	هامبۆرگ	NP	NP	NP|TOP|SG|ABS	25	 _ 	 _ 	 _
+---4326	لە	لە	PR	PR	PR	26	 _ 	 _ 	 _
+---2727	ئەڵمانیا	ئەڵمانیا	NP	NP	NP|TOP|SG|ABS	27	 _ 	 _ 	 _
+---4428	بەڕێوەچوو	بەڕێوەچوو	VBLEX	VBLEX	VBLEX|TV|PAST|P3|SG	28	 _ 	 _ 	 _
+---5729	
+#trans = ?
+#sent_id = 12
+#text: من هەمووتانم خۆشدەوێت بەڵام لە دڵی خۆیدا ، تەنها قوتابییەکی لێدەرکردن ، کە ناوی ( تی ستۆدارد ) بوو ، لە ریزی 
+1	من	من	PRN	PRN	PRN|PERS|P1|SG	1	 _ 	 _ 	 _
+---402	هەمووتانم	هەمووتانم	PRN	PRN	PRN|P2|PL|PX1SG	2	 _ 	 _ 	 _
+---483	خۆشدەوێت	خۆشدەوێت	VBLEX	VBLEX	VBLEX|TV|P1|SG	3	 _ 	 _ 	 _
+---504	بەڵام	بەڵام	CNJCOO	CNJCOO	CNJCOO	4	 _ 	 _ 	 _
+---415	لە	لە	PR	PR	PR	5	 _ 	 _ 	 _
+---266	دڵی	دڵ	N	N	N|SG|ABS|EZALOS	6	 _ 	 _ 	 _
+---377	خۆیدا	خۆیدا	N	N	N|SG|CLT	7	 _ 	 _ 	 _
+---338	،	،	CM	CM	CM	8	 _ 	 _ 	 _
+---259	تەنها	تەنها	ADV	ADV	ADV	9	 _ 	 _ 	 _
+---3210	قوتابییەکی	قوتابی	N	N	N|SG|IND|EZALOS	10	 _ 	 _ 	 _
+---4211	لێدەرکردن	لێدەرکردن	VBLEX	VBLEX	VBLEX|TV|P3|SG	11	 _ 	 _ 	 _
+---5212	،	،	CM	CM	CM	12	 _ 	 _ 	 _
+---2613	کە	کە	CNJSUB	CNJSUB	CNJSUB	13	 _ 	 _ 	 _
+---3914	ناوی	ناو	N	N	N|SG|ABS|EZALOS	14	 _ 	 _ 	 _
+---3915	(	(	LPAR	LPAR	LPAR	15	 _ 	 _ 	 _
+---3216	تی	تیدی	NP	NP	NP	16	 _ 	 _ 	 _
+---2917	ستۆدارد	ستۆدارد	NP	NP	NP	17	 _ 	 _ 	 _
+---3218	)	)	RPAR	RPAR	RPAR	18	 _ 	 _ 	 _
+---3219	بوو	بوون	VBCOP	VBCOP	VBCOP|PAST|P3|SG	19	 _ 	 _ 	 _
+---4920	،	،	CM	CM	CM	20	 _ 	 _ 	 _
+---2621	لە	لە	PR	PR	PR	21	 _ 	 _ 	 _
+---2722	ریزی	ریزی	N	N	N|SG|EZALOS	22	 _ 	 _ 	 _
+---3623	
+#trans = ?
+#sent_id = 13
+#text: لەگەڵ بوونی مرۆڤ لەسەر زەویدا خەیاڵ هاودەمی مرۆڤ بووە . 
+1	لەگەڵ	لەگەڵ	PR	PR	PR	1	 _ 	 _ 	 _
+---292	بوونی	بوونی	N	N	N|SG	2	 _ 	 _ 	 _
+---293	مرۆڤ	مرۆڤ	N	N	N|SG|ABS	3	 _ 	 _ 	 _
+---324	لەسەر	لەسەر	PR	PR	PR	4	 _ 	 _ 	 _
+---295	زەویدا	زەویدا	N	N	N|SG|CLT	5	 _ 	 _ 	 _
+---346	خەیاڵ	خەیاڵ	N	N	N|SG|ABS	6	 _ 	 _ 	 _
+---337	هاودەمی	هاودەم	N	N	N|SG|ABS|EZALOS	7	 _ 	 _ 	 _
+---418	مرۆڤ	مرۆڤ	N	N	N|SG|ABS	8	 _ 	 _ 	 _
+---329	بووە	بوون	VBCOP	VBCOP	VBCOP|PERF|P3|SG	9	 _ 	 _ 	 _
+---4810	.	.	SENT	SENT	SENT	10	 _ 	 _ 	 _
+---3211	

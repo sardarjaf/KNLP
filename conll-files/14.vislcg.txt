@@ -1,0 +1,152 @@
+
+#trans = ?
+#sent_id = 1
+#text: رەزا شوان لە باشووری کوردستاندا ، لە نزیک دێیەکی قەشەنگ و جواندا ، کانییەکی گەورە هەیە 
+1	رەزا	رەزا	NP	NP	NP	1	 _ 	 _ 	 _
+---282	شوان	شوان	NP	NP	NP	2	 _ 	 _ 	 _
+---283	لە	لە	PR	PR	PR	3	 _ 	 _ 	 _
+---264	باشووری	باشوور	N	N	N|SG|ABS|EZALOS	4	 _ 	 _ 	 _
+---415	کوردستاندا	کوردستاندا	N	N	N|SG|ABS|CLT	5	 _ 	 _ 	 _
+---426	،	،	CM	CM	CM	6	 _ 	 _ 	 _
+---257	لە	لە	PR	PR	PR	7	 _ 	 _ 	 _
+---268	نزیک	نزیک	ADJ	ADJ	ADJ|PST	8	 _ 	 _ 	 _
+---359	دێیەکی	دێ	N	N	N|SG|IND|EZALOS	9	 _ 	 _ 	 _
+---3710	قەشەنگ	قەشەنگ	ADJ	ADJ	ADJ	10	 _ 	 _ 	 _
+---3411	و	و	CNJCOO	CNJCOO	CNJCOO	11	 _ 	 _ 	 _
+---3812	جواندا	جواندا	ADJ	ADJ	ADJ|CLT	12	 _ 	 _ 	 _
+---3813	،	،	CM	CM	CM	13	 _ 	 _ 	 _
+---2614	کانییەکی	کانی	N	N	N|SG|IND|EZALOS	14	 _ 	 _ 	 _
+---4015	گەورە	گەورە	ADJ	ADJ	ADJ|PST	15	 _ 	 _ 	 _
+---3716	هەیە	ھەبوون	VBHAVER	VBHAVER	VBHAVER|PRI|P3|SG	16	 _ 	 _ 	 _
+---5617	
+#trans = ? 
+#sent_id = 2
+#text: ئاوێکی زۆری روون و سارد و شیرینی لەبەر دەڕوات 
+1	ئاوێکی	ئاو	N	N	N|SG|IND|EZALOS	1	 _ 	 _ 	 _
+---382	زۆری	زۆر	N	N	N|SG|ABS|EZALOS	2	 _ 	 _ 	 _
+---383	روون	روو	ADJ	ADJ	ADJ|PST	3	 _ 	 _ 	 _
+---344	و	و	CNJCOO	CNJCOO	CNJCOO	4	 _ 	 _ 	 _
+---375	سارد	سارد	ADJ	ADJ	ADJ|PST	5	 _ 	 _ 	 _
+---356	و	و	CNJCOO	CNJCOO	CNJCOO	6	 _ 	 _ 	 _
+---377	شیرینی	شیرینی	ADJ	ADJ	ADJ|PST	7	 _ 	 _ 	 _
+---378-9	لەبەر
+8	لە	PR	PR	PR	8	 _ 	 _ 	 _ 
+9	بەر	PRN	PRN	PRN|NT|P3|SG	9	 _ 	 _ 	 _ 
+10	دەڕوات	دەڕوات	VBLEX	VBLEX	VBLEX|IV|P3|SG	10	 _ 	 _ 	 _
+---4911	
+#trans = ?
+#sent_id = 3
+#text: هەموو خەڵکی دێیەکە بە ئاوی شیرینی ئەو کانییە حەسانەتەوە 
+1	هەموو	ھەموو	DET	DET	DET|QNT|PL	1	 _ 	 _ 	 _
+---392	خەڵکی	خەڵک	N	N	N|SG|ABS|EZALOS	2	 _ 	 _ 	 _
+---393	دێیەکە	دێ	N	N	N|SG|DEF	3	 _ 	 _ 	 _
+---304	بە	بە	PR	PR	PR	4	 _ 	 _ 	 _
+---265	ئاوی	ئاو	N	N	N|SG|ABS|EZALOS	5	 _ 	 _ 	 _
+---386	شیرینی	شیرینی	ADJ	ADJ	ADJ|PST	6	 _ 	 _ 	 _
+---377	ئەو	ئەو	DET	DET	DET|DEM|SG	7	 _ 	 _ 	 _
+---378	کانییە	کانی	N	N	N|SG|DEM	8	 _ 	 _ 	 _
+---329	حەسانەتەوە	حەسانەتەوە	VBLEX	VBLEX	VBLEX|IV|P3|SG	9	 _ 	 _ 	 _
+---5210	
+#trans = ?
+#sent_id = 4
+#text: مام هۆمەر پیاوێکی بەتەمەن و دانای دێیەکەیە ، خەڵکی دێیەکە زۆر خۆشیان دەوێت 
+1	مام	مام	N	N	N|SG|ABS	1	 _ 	 _ 	 _
+---312	هۆمەر	هۆمەر	NP	NP	NP	2	 _ 	 _ 	 _
+---293	پیاوێکی	پیاو	N	N	N|SG|IND|EZALOS	3	 _ 	 _ 	 _
+---394	بەتەمەن	بەتەمەن	ADJ	ADJ	ADJ	4	 _ 	 _ 	 _
+---345	و	و	CNJCOO	CNJCOO	CNJCOO	5	 _ 	 _ 	 _
+---376	دانای	دانا	N	N	N|SG|ABS|EZALOS	6	 _ 	 _ 	 _
+---397	دێیەکەیە	دێ	N	N	N|SG|DEF	7	 _ 	 _ 	 _
+---308	،	،	CM	CM	CM	8	 _ 	 _ 	 _
+---259	خەڵکی	خەڵک	N	N	N|SG|ABS|EZALOS	9	 _ 	 _ 	 _
+---3910-11	دێیەکە
+10	دێ	N	N	N|SG|DEF	10	 _ 	 _ 	 _ 
+11	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	11	 _ 	 _ 	 _ 
+12	زۆر	زۆر	ADV	ADV	ADV	12	 _ 	 _ 	 _
+---3113	خۆشیان	خۆش	N	N	N|SG|ABS|PX3PL	13	 _ 	 _ 	 _
+---3814	دەوێت	دەوێت	VBLEX	VBLEX	VBLEX|PRES|P3|SG	14	 _ 	 _ 	 _
+---5015	
+#trans = ? 
+#sent_id = 5
+#text: مام هۆمەر هەر لە منداڵییەوە حەزی لە سەوزایی و لە داری 
+1	مام	مام	N	N	N|SG|ABS	1	 _ 	 _ 	 _
+---312	هۆمەر	هۆمەر	NP	NP	NP	2	 _ 	 _ 	 _
+---293	هەر	هەر	ADV	ADV	ADV	3	 _ 	 _ 	 _
+---304	لە	لە	PR	PR	PR	4	 _ 	 _ 	 _
+---265	منداڵییەوە	منداڵییەوە	N	N	N|SG|CLT	5	 _ 	 _ 	 _
+---386	حەزی	حەز	VBLEX	VBLEX	VBLEX|IV|P3|SG	6	 _ 	 _ 	 _
+---457	لە	لە	PR	PR	PR	7	 _ 	 _ 	 _
+---268	سەوزایی	سەوزایی	N	N	N|SG|ABS|EZALOS	8	 _ 	 _ 	 _
+---429	و	و	CNJCOO	CNJCOO	CNJCOO	9	 _ 	 _ 	 _
+---3710	لە	لە	PR	PR	PR	10	 _ 	 _ 	 _
+---2711	داری	دار	N	N	N|SG|ABS|EZALOS	11	 _ 	 _ 	 _
+---3912	
+#trans = ?
+#sent_id = 6
+#text: رەزا شوان خوێندنەوە زۆر گرنگ و پێویستە ، لەم سەردەمەدا بووە بە یەکێک لە پێویستییەکانی مرۆڤ 
+1	رەزا	رەزا	NP	NP	NP	1	 _ 	 _ 	 _
+---282	شوان	شوان	NP	NP	NP	2	 _ 	 _ 	 _
+---283	خوێندنەوە	خوێندنەوە	N	N	N|SG	3	 _ 	 _ 	 _
+---334	زۆر	زۆر	ADV	ADV	ADV	4	 _ 	 _ 	 _
+---305	گرنگ	گرنگ	ADJ	ADJ	ADJ|PST	5	 _ 	 _ 	 _
+---356	و	و	CNJCOO	CNJCOO	CNJCOO	6	 _ 	 _ 	 _
+---377	پێویستە	پێویستە	N	N	N|SG|ABS	7	 _ 	 _ 	 _
+---358	،	،	CM	CM	CM	8	 _ 	 _ 	 _
+---259-10	لەم
+9	لە	PR	PR	PR	9	 _ 	 _ 	 _ 
+10	ئەم	PRN	PRN	PRN|PERS|P2|SG	10	 _ 	 _ 	 _ 
+11	سەردەمەدا	سەردەمەدا	N	N	N|SG|CLT	11	 _ 	 _ 	 _
+---3812	بووە	بوون	VBCOP	VBCOP	VBCOP|PERF|P3|SG	12	 _ 	 _ 	 _
+---4913	بە	بە	PR	PR	PR	13	 _ 	 _ 	 _
+---2714	یەکێک	یەکێک	N	N	N|SG|ABS	14	 _ 	 _ 	 _
+---3415	لە	لە	PR	PR	PR	15	 _ 	 _ 	 _
+---2716	پێویستییەکانی	پێویستی	N	N	N|PL|DEF|EZALOS	16	 _ 	 _ 	 _
+---4317	مرۆڤ	مرۆڤ	N	N	N|SG|ABS	17	 _ 	 _ 	 _
+---3318	
+#trans = ?
+#sent_id = 7
+#text: کە لە دوای هەڵمژینی هەوای پاک و خواردن و خواردنەوە و نووستن و یاریکردن ، ریزبەندی دێتە سەر خوێندنەوە 
+1	کە	کە	CNJSUB	CNJSUB	CNJSUB	1	 _ 	 _ 	 _
+---382	لە	لە	PR	PR	PR	2	 _ 	 _ 	 _
+---263	دوای	دوای	ADV	ADV	ADV	3	 _ 	 _ 	 _
+---314	هەڵمژینی	هەڵمژینی	N	N	N|SG|ABS	4	 _ 	 _ 	 _
+---365	هەوای	ھەوا	N	N	N|SG|ABS|EZALOS	5	 _ 	 _ 	 _
+---396	پاک	پاک	ADJ	ADJ	ADJ|PST	6	 _ 	 _ 	 _
+---347	و	و	CNJCOO	CNJCOO	CNJCOO	7	 _ 	 _ 	 _
+---378	خواردن	خواردن	N	N	N|SG|ABS	8	 _ 	 _ 	 _
+---349	و	و	CNJCOO	CNJCOO	CNJCOO	9	 _ 	 _ 	 _
+---3710	خواردنەوە	خواردنەوە	N	N	N|SG|CLT	10	 _ 	 _ 	 _
+---3811	و	و	CNJCOO	CNJCOO	CNJCOO	11	 _ 	 _ 	 _
+---3812	نووستن	نووستن	N	N	N|SG|ABS	12	 _ 	 _ 	 _
+---3513	و	و	CNJCOO	CNJCOO	CNJCOO	13	 _ 	 _ 	 _
+---3814	یاریکردن	یاریکردن	N	N	N|SG|ABS	14	 _ 	 _ 	 _
+---3715	،	،	CM	CM	CM	15	 _ 	 _ 	 _
+---2616	ریزبەندی	ریزبەندی	N	N	N|SG	16	 _ 	 _ 	 _
+---3317	دێتە	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	17	 _ 	 _ 	 _
+---4818	سەر	سەر	PR	PR	PR	18	 _ 	 _ 	 _
+---2819	خوێندنەوە	خوێندنەوە	N	N	N|SG|ABS|CLT	19	 _ 	 _ 	 _
+---4220	
+#trans = ? 
+#sent_id = 8
+#text: وەکو چۆن لەشمان پێویستی بە خۆاراکی هەمەجۆرە هەیە بۆ ئەوەی بڕسکێ و گەشەبکات ، خوێندنەوەش خۆراکی مێشکمانە . 
+1	وەکو	وەکو	PR	PR	PR	1	 _ 	 _ 	 _
+---282	چۆن	چۆن	N	N	N|SG|ABS	2	 _ 	 _ 	 _
+---313	لەشمان	لەش	N	N	N|SG|ABS|PX1PL	3	 _ 	 _ 	 _
+---374	پێویستی	پێویست	N	N	N|SG	4	 _ 	 _ 	 _
+---305	بە	بە	PR	PR	PR	5	 _ 	 _ 	 _
+---266	خۆاراکی	خۆاراکی	N	N	N|SG|EZALOS	6	 _ 	 _ 	 _
+---387	هەمەجۆرە	هەمەجۆرە	ADV	ADV	ADV	7	 _ 	 _ 	 _
+---358	هەیە	ھەبوون	VBHAVER	VBHAVER	VBHAVER|PRI|P3|SG	8	 _ 	 _ 	 _
+---559	بۆ	بۆ	PR	PR	PR	9	 _ 	 _ 	 _
+---2610	ئەوەی	ئەوەی	DET	DET	DET|DEM	10	 _ 	 _ 	 _
+---3711	بڕسکێ	بڕسکێ	ADJ	ADJ	ADJ	11	 _ 	 _ 	 _
+---3312	و	و	CNJCOO	CNJCOO	CNJCOO	12	 _ 	 _ 	 _
+---3813	گەشەبکات	گەشەبکات	VBLEX	VBLEX	VBLEX|IV|P3|SG	13	 _ 	 _ 	 _
+---5114	،	،	CM	CM	CM	14	 _ 	 _ 	 _
+---2615	خوێندنەوەش	خوێندنەوەش	N	N	N|SG|ABS	15	 _ 	 _ 	 _
+---3916	خۆراکی	خۆراک	N	N	N|SG|ABS|EZALOS	16	 _ 	 _ 	 _
+---4117-18	مێشکمانە
+17	مێشک	N	N	N|SG|ABS|PX1PL	17	 _ 	 _ 	 _ 
+18	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	18	 _ 	 _ 	 _ 
+19	.	.	SENT	SENT	SENT	19	 _ 	 _ 	 _
+---3220	

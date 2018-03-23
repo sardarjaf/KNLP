@@ -1,0 +1,476 @@
+﻿#trans = Shwan Atwf during receiving his prize he said the history of those tragedies which I am describing in film home and key is repeating today 
+"<شوان>"
+	"شوان" n sg abs
+"<عەتووف>"
+	"عەتووف" n sg abs
+"<لە>"
+	"لە" pr
+"<کاتی>"
+	"کات" n sg abs ezalos 
+"<وەرگرتنی>"
+	"وەرگرتن" n sg abs ezalos
+"<خەڵاتەکەیدا>"
+	"خەڵات" n sg def px3sg
+"<گوتی>"
+	"گوتن" vblex iv prs p3 sg
+"<مێژووی>"
+	"مێژوو" n sg abs ezalos
+"<ئەو>"
+	"ئەو" det dem sg
+"<تراژدیایانەی>"
+	"تراژدیا" n sg abs ezalos
+"<کە>"
+	"کە" rel prn
+"<لە>"
+	"لە" pr
+"<فیلمی>"
+	"فیلم" n sg abs ezalos
+"<“>"
+	"“" lquot
+"<ماڵ>"
+	"ماڵ" n sg abs
+"<و>"
+	"و" cnjcoo
+"<کلیل>"
+	"کلیل" n sg abs
+"<”>"
+	"”" rquot
+"<دا>"
+	"دا" post
+"<باسی>"
+	"باس" n sg abs px3sg
+"<دەکەم>"
+	"کردن" vblex tv pri p1 sg
+"<ئەمڕۆش>"	
+        "ئەمڕۆ" adv 
+"<دووبارە>"
+	"دووبارە" adv
+"<دەبێتەوە>"
+	"بوون" vblex past tv p3 sg
+
+#trans = my country is a home that searches for a key 
+"<وڵاتەکەم>"
+	"وڵات" n sg def px1sg
+"<ماڵێکە>"
+	"ماڵ" n sg ind
+"<کە>"
+	"کە" rel prn
+"<بە>"
+	"بە" pr
+"<دوای>"
+	"دوای" adv 
+"<کلیلدا>"
+	"کلیل" n sg abs
+"<دەگەڕێت>"
+	"گەڕان" vblex iv pri p3 sg
+
+#trans = this festival in many types of competitions and outside of competitions from those the ministry of higher education and science announces
+"<ئەم>"
+	"ئەم" det dem sg
+"<فیستیڤاڵە>"
+	"فیستیڤاڵ"  n sg abs
+"<لە>"
+	"لە" pr
+"<چەندین>"
+	"چەندین" prn 
+"<بەشی>"
+	"بەش" n sg abs ezalos
+
+"<پێشبڕکێی>"
+	"پێشبڕکێ" n sg abs 
+"<و>"
+	"و" cnjcoo
+"<دەرەوەی>"
+	"دەرەوە" n sg abs 
+"<پێشبڕکێی>"
+	"پێشبڕکێ" n sg abs 
+"<لەوانە>"
+	"لەوانە" adv 
+"<وتەبێژی>"
+	"وتەبێژ" n sg abs ezalos
+"<وەزارەتی>"
+	"وەزارەت" n sg abs ezalos 
+"<خوێندنی>"
+	"خوێندن" n sg abs ezalos 
+"<باڵا>"
+	"باڵا" n sg abs
+"<و>"
+	"و" cnjcoo
+"<توێژینەوەی>"
+	"توێژینەوە" n sg abs ezalos 
+"<زانستی>"
+	"زانست" adj pst
+"<ڕایدەگەنێت>"
+	"ڕاگەیاندن" vblex tv prs p3 sg
+
+ #trans = from today 15/08/ request for places in governmental/public university and college with direct university system of (377) department and school of education in university and college is very important and necessary, in this age it is becoming one of the human necessities
+"<لە>"
+	"لە" pr
+"<ئەمڕۆوە>"
+	"ئەمڕۆ" adv 
+"<(>"
+	"(" lpar
+"<١٥/٨>"
+"١٥/٨" num
+"<)>"
+	")" rpar
+"<داواکاری>"
+	"داواکار" n sg abs 
+"<بۆ>"
+	"بۆ" pr
+"<وەرگرتن>"
+	"وەرگرتن" n sg abs
+"<لە>"
+	"لە" pr
+"<زانکۆ>"
+	"زانکۆ" n sg abs
+"<و>"
+	"و" cnjcoo
+"<پەیمانگە>"
+	"پەیمانگە" n sg abs 
+"<حکومییەکان>"
+	"حکومی" n def pl abs
+"<به>"
+	"به" pr	
+"<سیستەمی>"
+	"سیستەم" n sg abs ezalos
+"<ڕاستەوخۆی>"
+	"ڕاستەوخۆ" adj 
+"<زانکۆی>"
+	"زانکۆ" n sg abs
+"<لە>"
+	"لە" pr
+"<(>"
+	"(" lpar
+
+"<٣٧٧>"
+"٣٧٧" num 
+"<)>"
+	")" rpar
+"<بەش>"
+	"بەش" n sg abs
+"<و>"
+	"و" cnjcoo
+"<کۆلێژی>"
+	"کۆلێژ" n sg abs ezalos 
+"<زانکۆ>"
+	"زانکۆ" n sg abs
+"<و>"
+	"و" cnjcoo
+"<پەیمانگەکانی>"
+	"پەیمانگە" n pl def ezalos 
+
+"<خوێندنەوە>"
+	"خوێندن" n sg abs 
+"<زۆر>"
+	"زۆر" adv
+"<گرنگ>"
+	"گرنگ" adj pst
+"<و>"
+	"و" cnjcoo
+"<پێویستە>"
+	"پێویست" adj pst
+	"بوون" vbcop pri p3 sg	
+"<،>"
+	"،" cm
+"<لەم>"
+	"لە" pr
+	"من" prn pers p1 sg
+"<سەردەمەدا>"
+	"سەردەم" n sg abs 
+"<بووە>"
+	"بوون" vbcop perf p3 sg
+"<بە>"
+	"بە" pr
+"<یەکێک>"
+	"یەکێک" n sg abs
+"<لە>"
+	"لە" pr
+"<پێویستییەکانی>"
+	"پێویست" n pl def ezalos 
+"<مرۆڤ>"
+	"مرۆڤ" n sg abs
+
+#trans = as from after inhaling clean air and eating and drinking and sleeping and playing, agreement comes on reading as how our body needs diverse food so that grows and flourish, reading is the food of our mind
+"<کە>"
+	"کە" rel prn
+"<لە>"
+	"لە" pr
+"<دوای>"
+	"دوای" adv 
+"<هەڵمژینی>"
+	"هەڵمژینی" n  
+"<هەوای>"
+	"ھەوا" n sg abs ezalos 
+"<پاک>"
+	"پاک" adj pst
+"<و>"
+	"و" cnjcoo
+"<خواردن>"
+	"خواردن" n sg abs
+"<و>"
+	"و" cnjcoo
+"<خواردنەوە>"
+	"خواردن" n sg abs 
+"<و>"
+	"و" cnjcoo
+"<نووستن>"
+	"نووستن" n sg abs 
+"<و>"
+	"و" cnjcoo
+"<یاری>"
+	"یاری" n sg abs 
+"<کردن>"
+	"کردن" vblex tv pri p3 sg
+		
+"<،>"
+	"،" cm
+"<ریزبەندی>"
+	"ریزبەندی" n sg abs 
+"<دێتە>"
+	"هاتن" vblex iv pri p3 sg
+"<سەر>"
+	"سەر" pr
+"<خوێندنەوە>"
+	"خوێندن" n sg abs 
+ 
+"<وەکو>"
+	"وەکو" adv
+"<چۆن>"
+	"چۆن" qnt
+"<لەشمان>"
+	"لەش" n sg abs px1pl
+
+"<پێویستی>"
+	"پێویست" vbmod pri p2 sg
+"<بە>"
+	"بە" pr
+"<خۆاراکی>"
+	"خۆاراک" n sg abs ezalos 
+"<هەمەجۆرە>"
+	"هەمەجۆر" adj 
+"<هەیە>"
+	"ھەبوون" vbhaver pri p3 sg
+"<بۆ>"
+	"بۆ" pr
+"<ئەوەی>"
+	"ئەوەی" prn 
+"<بڕسکێ>"
+	"بڕسکێ" vblex p3 sg 
+"<و>"
+	"و" cnjcoo
+"<گەشەبکات>"
+	"گەشەبکات" vblex p3 sg 
+"<،>"
+	"،" cm
+"<خوێندنەوەش>"
+	"خوێندن" n sg abs 
+"<خۆراکی>"
+	"خۆراک" n sg abs ezalos 
+"<مێشکمانە>"
+	"مێشک" n sg abs px1pl
+
+#trans = in way of reading diverse science and knowledge we acquire, to flourish sense and ? and ? and thought and ?
+"<لە>"
+	"لە" pr
+"<رێگای>"
+	"رێگا" n sg abs ezalos
+"<خوێندنەوەوە>"
+	"خوێندن" n sg abs clt 
+"<زانست>"
+	"زانست" n sg abs
+"<و>"
+	"و" cnjcoo
+"<زانیاری>"
+	"زانیاری" n sg abs
+"<هەمەرەنگە>"
+	"هەمەرەنگ" adj 
+"<بەدەستدەهێنین>"
+	"بەدەستدەهێنین" vblex p1 pl 
+"<،>"
+	"،" cm
+"<بۆ>"
+	"بۆ" pr
+"<گەشەکردنی>"
+	"گەشەکردن" vblex p3 sg 
+"<هۆش>"
+	"هۆش" n sg abs 
+"<و>"
+	"و" cnjcoo
+"<گۆش>"
+	"گۆش" n sg abs 
+"<و>"
+	"و" cnjcoo
+"<هزر>"
+	"هزر" n sg abs 
+"<و>"
+	"و" cnjcoo
+"<بیر>"
+	"بیر" n sg abs
+"<و>"
+	"و" cnjcoo
+"<زەینمان>"
+	"زەین" n sg abs px1pl
+
+#trans = ”reading is the exercise for senses” reading is an important learning and self education reason”
+	"”" rquot
+"<خوێندنەوە>"
+	"خوێندن" n sg abs 
+"<وەرزشی>"
+	"وەرزش" n sg abs ezalos
+"<هۆشە>"
+	"هۆش" n sg abs 
+"<”>"
+	"”" rquot
+"<خوێندنەوە>"
+	"خوێندن" n sg abs 
+"<هۆیەکی>"
+	"هۆ" n sg ind ezalos 
+"<گرنگی>"
+	"گرنگ" adj pst
+
+"<فێربوون>"
+	"فێربوون" n sg abs 
+"<و>"
+	"و" cnjcoo
+"<خۆڕۆشنبیرکردنە>"
+	"خۆڕۆشنبیر" n sg abs 
+	"كردن" vblex p3 sg 
+
+#trans = ? from ? very fundamentals of creating personalities correct and complete and successful in life
+"<بنەمایەکە>"
+	"بنەما" n sg ind
+	"بوون" vbcop pri p3 sg
+"<لە>"
+	"لە" pr
+"<بنەما>"
+	"بنەما" n sg abs
+"<هەرە>"
+	"هەرە" adv
+"<سەرەکییەکانی>"
+	"سەرەکییەکانی" adj pst pl def
+	"بوون" vbcop pri p3 sg
+"<دروستبوونی>"
+	"دروستبوون" n
+"<کەسایەتییەکی>"
+	"کەسایەتی" n sg abs ezalos
+"<دروست>"
+	"دروست" adj pst
+"<و>"
+	"و" cnjcoo
+"<تەواو>"
+	"تەواو" adj pst
+"<و>"
+	"و" cnjcoo
+"<سەرکەوتوو>"
+	"سەرکەوتن" adj pst
+"<لە>"
+	"لە" pr
+"<ژیاندا>"
+	"ژیان" n sg abs 
+
+trans = reading one of the ? important children education
+"<خوێندنەوە>"
+	"خوێندن" n sg abs 
+"<یەکێکە>"
+	"یەکێک" n sg abs
+	"بوون" vbcop pri p3 sg
+"<لە>"
+	"لە" pr
+"<کۆڵەکە>"
+	"کۆڵ" n sg def
+"<گرنگەکانی>"
+	"گرنگ" adj pst pl def
+"<رۆشنبیری>"
+	"رۆشنبیری" n sg ezalos 
+"<منداڵان>"
+	"منداڵ" n pl ind
+
+#trans = reading become a useful hobby and take enjoyment and , become of part in their lives
+"<خوێندنەوە>"
+	"خوێندن" n sg abs 
+"<ببێت>"
+	"بوون" vbmod p3 sg 
+"<بە>"
+	"بە" pr
+"<خوویەکی>" n sg abs ezalos 
+	"خوو"
+"<بەسوودیان>"
+	"بەسوودیان" adj pst px3pl
+"<و>"
+	"و" cnjcoo
+"<دەقی>"
+	"دەق" n sg abs px3sg 
+"<پێوەبگرن>"
+	"پێوەکردن" vblex p3 sg  
+"<و>"
+	"و" cnjcoo
+"<،>"
+	"،" cm
+"<ببێت>"
+	"ببێت" vbmod p3 sg 
+"<بە>"
+	"بە" pr
+"<بەشێک>"
+	"بەش" n sg ind
+"<لە>"
+	"لە" pr
+"<ژیانیان>"
+	"ژیان" n sg abs px3pl
+
+#trans = you in your house present and , with reading books, travel the world do in those beautiful sentences that on the abandoned walls of the Egyptians Faros engraved.
+"<تۆ>"
+	"تۆ" prn pers p2 sg
+"<لە>"
+	"لە" pr
+"<ماڵی>"
+	"ماڵ" n sg abs ezalos 
+"<خۆت>"
+	"خۆ" n sg abs
+		"تۆ" prn pers clt p2 sg
+"<دایت>"
+	"دایت" vblex p2 sg  
+"<و>"
+	"و" cnjcoo
+"<،>"
+	"،" cm
+"<بە>"
+	"بە" pr
+"<خوێندنەوەی>"
+	"خوێندن" n sg abs px3sg
+"<کتێب>"
+	"کتێب" n sg abs
+"<،>"
+	"،" cm
+"<گوزەری>"
+	"گوزەر" n sg abs ezalos
+"<جیهان>"
+	"جیهان" n sg abs
+"<دەکەی>"
+	"کردن" vblex tv pri p2 sg
+"<لەو>"
+	"لە" pr
+		"ئەو" prn pers p3 sg
+"<رستە>"
+	"رستە" n sg abs 
+"<جوانانەی>"
+	"جوان" adj pst pl dem
+	"بوون" vbcop pri p2 sg
+"<کە>"
+	"کە" rel prn
+"<لەسەر>"
+	"لەسەر" pr
+"<دیوارە>"
+	"دیوار" n sg abs
+	"بوون" vbcop pri p3 sg
+"<بەجێماوەکانی>"
+	"بەجێماوەکانی" n sg abs ezalos 
+"<فەرعەونییە>"
+	"فەرعەون" n sg abs ezalos
+"<میسرییەکان>"
+	"میسر" n def pl abs
+"<هەڵکۆڵراون>"
+	"هەڵکۆڵراون" vblex tv p3 pl 
+"<.>"
+	"." sent
+

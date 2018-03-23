@@ -1,0 +1,253 @@
+#trans= They may say that we make out of a big title or heading and an empty content an outstanding one; who say so
+"<له‌وانه‌یه‌>"
+	"له‌وانه‌یه‌" adv 
+"<بڵێن>"
+	"وتن" vblex iv prs p3 pl
+"<ناونیشان>"
+	"ناونیشان" n sg abs
+"<یاخود>"
+	"یاخود" adv 
+"<مانشێتێکی>"
+	"مانشێتێکی" n sg ind ezalos
+"<زه‌به‌لاح>"
+	"زه‌به‌لاح" adj
+"<و>"
+	"و" cnjcoo
+"<ناوه‌رۆکێکی>"
+	"ناوه‌رۆکێکی" n sg ind ezalos
+"<خاڵی>"
+	"خاڵ" n sg abs 
+"<به‌رجه‌سته‌>"
+	"به‌رجه‌سته‌" adj 
+"<بكه‌ین>"
+	"کردن" vblex tv prs p1 pl
+"<!>"
+	"!" sent
+"<کێ>"
+	"کێ" prn pers sg 
+"<ده‌ڵێ>"
+	"وتن" vblex tv pri p3 sg
+"<وایه‌>"
+	"وایە" adv 
+
+#trans= Who says it is not right that the possibilities themselves are within 'yes' and 'no', therefore we need to find the value of S in this complex formula of history and academia. 
+"<کێ>"
+	"کێ" prn pers sg
+"<ده‌ڵێ>"
+	"وتن" vblex tv pri p3 sg
+"<راست>"
+	"راست" n sg abs
+"<نیه‌>"
+	"بوون" vbcop pri neg p3 sg
+"<،>"
+	"،" cm
+"<ئه‌گه‌رەکان‌>"
+	"ئه‌گه‌رەکان‌" n pl def 
+"<خۆیان>"
+	"خۆ" n sg abs px3pl
+"<له‌نێوان>"
+	"له‌نێوان" pr 
+"<به‌ڵی>"
+	"به‌ڵی" n 
+"<و>"
+	"و" cnjcoo
+"<نه‌خێره‌>"
+	"نه‌خێره‌" n 
+"<،>"
+	"،" cm
+"<بۆیه‌>"
+	"بۆیە" cnjcoo
+"<ده‌بێت>"
+	"بوون" vbcop pri p3 sg
+"<نرخی>"
+	"نرخ" n sg abs ezalos
+"<سین>"
+	"سین" n 
+"<له‌م>"
+	"لە" pr
+		"ئەم" det dem sg
+"<هاوكێشه‌>"
+	"هاوکێشە" n sg abs
+"<قورسه‌>"
+	"قورس" adj pst 
+"<مێژوو>"
+	"مێژوو" n sg abs
+"<و>"
+	"و" cnjcoo
+"<ئەکادیمیە‌>"
+	"ئەکادیمیە" n sg abs 
+"<بدۆزینه‌وه‌>"
+	"بدۆزینه‌وه‌" vblex tv p1 pl 
+
+#trans= For next year the media people of sport would have their own IDs. 
+"<بۆ>"
+	"بۆ" pr
+"<ساڵی>"
+	"ساڵ" n sg abs ezalos 
+"<ئاینده‌>"
+	"ئایندە" n sg abs
+"<میدیا>"
+	"میدیا" n sg abs 
+"<كارانی>"
+	"کار" n pl ind ezalos 
+"<وه‌رزشی>"
+	"وەرزش" n sg abs ezalos 
+"<ناسنامه‌ی>"
+	"ناسنامە" n sg abs ezalos
+"<تایبه‌تی>"
+	"تایبەتی" adj pst
+"<خۆیان>"
+	"خۆ" n sg abs px3pl
+"<ده‌بێت>"
+	"دەبێت" vbcop pri p3 sg 
+"<!>"
+	"!" sent
+
+#trans= This woman is called Brisinio Baki and has lived in Chicago for 18 years while she is originally Mexican.
+"<ئەو>"
+	"ئەو" det dem sg
+"<ژنە>"
+	"ژن" n sg abs 
+	"بوون" vbcop pri p3 sg
+"<ناوی>"
+	"ناو" n sg abs px3sg
+"<بریسینیۆ>"
+	"بریسینیۆ" np 
+"<باکیە>"
+	"باکیە" np 
+	"بوون" vbcop pri p3 sg
+"<و>"
+	"و" cnjcoo
+"<ماوەی>"
+	"ماوە" n sg abs ezalos 
+"<18>"
+   "18" num
+"<ساڵە>"
+	"ساڵ" n sg abs
+	"بوون" vbcop pri p3 sg
+"<لە>"
+	"لە" pr
+"<شیکاگۆ>"
+	"شیکاگۆ" np top sg abs 
+"<دەژی>"
+	"دەژی" vblex iv p3 sg 
+"<کە>"
+	"کە" cnjsub 
+"<خۆی>"
+	"خۆ" n sg abs px3sg
+"<بە>"
+	"بە" pr
+"<رەگەز>"
+	"رەگەز" n sg abs
+"<مەکسیکییە>"
+	"مەکسیکییە" n sg
+	"بوون" vbcop pri p3 sg
+
+#trans= Concerning this event, he says all liked to see Messi. 
+"<سەبارەت>"
+	"سەبارەت" pr
+"<بەو>"
+	"بە" pr 
+		"ئەو"	prn clt p3 sg  
+"<رووداوە>"
+	"رووداوە" n sg abs 
+"<دەڵێت>"
+	"وتن" vblex tv pri p3 sg
+"<هەمووان>"
+	"هەمووان" prn pers p3 pl 
+"<ئارەزووی>"
+	"ئارەزوو" n sg abs ezalos 
+"<بینینی>"
+	"بینین" n sg abs ezalos
+"<مێسی>"
+	"مێسی" np 
+"<دەکەین>"
+	"کردن" vblex tv pri p1 pl
+
+#trans= I have never wanted this to happen but when the policemen abduced me I pull down Messi's sleeves and this happened. 
+"<هەرگیز>"
+	"هەرگیز" adv
+"<نەمویستووە>"
+	"نەمویستووە" vblex neg p1 sg 
+"<ئەوە>"
+	"ئەوە" det dem sg 
+"<رووبدات>"
+	"رووبدات" vblex tv pri p3 sg 
+"<،>"
+	"،" cm
+"<بەڵام>"
+	"بەڵام" cnjcoo
+"<ئەو>"
+	"ئەو" det dem sg
+"<کاتەی>"
+	"کاتەی" n sg abs ezalos
+"<پیاوانی>"
+	"پیاو" n pl ind ezalos 
+"<پۆلیس>"
+	"پۆلیس" n sg abs
+"<منیان>"
+	"منیان" prn sg px3pl 
+"<دوورخستەوە>"
+	"دوورخستەوە" vblex tv pri p3 sg 
+"<،>"
+	"،" cm
+"<ویستم>"
+	"ویستم" vblex p1 sg 
+"<قۆڵی>"
+	"قۆڵ" n sg abs ezalos
+"<مێسی>"
+	"مێسی" np 
+"<بگرم>"
+	"گرتن" vblex tv prs p1 sg
+"<و>"
+	"و" cnjcoo
+"<ئەوە>"
+	"ئەوە" det dem sg 
+"<روویدا>"
+	"روویدا" vblex tv pri p3 sg 
+
+#trans= I apologize, I wanted to sign and prevent that so as not to let this woman have problem with police. 
+"<داوای>"
+	"داوا" n sg abs ezalos
+"<لێبوردن>"
+	"لێبوردن" n sg abs 
+"<دەکەم>"
+	"کردن" vblex tv pri p1 sg
+"<،>"
+	"،" cm
+"<دەمویست>"
+	"دەمویست" vblex p1 sg 
+"<ئیمزاکە>"
+	"ئیمزاکە" n sg def 
+"<بکەم>"
+	"کردن" vblex tv prs p1 sg
+"<و>"
+	"و" cnjcoo
+"<ئەوە>"
+	"ئەوە" det dem sg 
+"<روو>"
+	"روو" n sg abs
+"<نەدات>"
+	"دان" vblex tv neg prs p3 sg
+"<کە>"
+	"کە" cnjsub 
+"<ئەو>"
+	"ئەو" det dem sg
+"<ژنە>"
+	"ژن" n sg abs 
+	"بوون" vbcop pri p3 sg
+"<تووشی>"
+	"تووشی" n sg abs ezalos
+"<کێشە>"
+	"کێش" n sg abs
+	"بوون" vbcop pri p3 sg
+"<ببێت>"
+	"ببێت" vbcop pri p3 sg 
+"<لەگەڵ>"
+	"لەگەڵ" pr
+"<پۆلیسدا>"
+	"پۆلیس" n sg abs 
+	"دا" clt
+"<.>"
+	"." sent
+
