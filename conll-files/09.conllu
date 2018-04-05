@@ -2,227 +2,227 @@
 #trans= The spokesman of Ministry of Higher Education and Scientific Research states.
 #sent_id = 1
 #text: وتەبێژی وەزارەتی خوێندنی باڵا و توێژینەوەی زانستی ڕایدەگەنێت 
-1	وتەبێژی	وتەبێژی	N	N	N|SG|ABS|EZALOS	1	 _ 	 _ 	 _
-2	وەزارەتی	وەزارەت	N	N	N|SG|ABS|EZALOS	2	 _ 	 _ 	 _
-3	خوێندنی	خوێندن	N	N	N|SG|ABS|EZALOS	3	 _ 	 _ 	 _
-4	باڵا	باڵا	ADJ	ADJ	ADJ|PST	4	 _ 	 _ 	 _
-5	و	و	CNJCOO	CNJCOO	CNJCOO	5	 _ 	 _ 	 _
-6	توێژینەوەی	توێژینەوە	N	N	N|SG|ABS|EZALOS	6	 _ 	 _ 	 _
-7	زانستی	زانستی	ADJ	ADJ	ADJ|PST	7	 _ 	 _ 	 _
-8	ڕایدەگەنێت	ڕایدەگەنێت	VBLEX	VBLEX	VBLEX|TV|PRS|P3|SG	8	 _ 	 _ 	 _
+1	وتەبێژی	وتەبێژی	N	N	N|SG|ABS|EZALOS	0	 _ 	 _ 	 _
+2	وەزارەتی	وەزارەت	N	N	N|SG|ABS|EZALOS	1	 _ 	 _ 	 _
+3	خوێندنی	خوێندن	N	N	N|SG|ABS|EZALOS	2	 _ 	 _ 	 _
+4	باڵا	باڵا	ADJ	ADJ	ADJ|PST	3	 _ 	 _ 	 _
+5	و	و	CNJCOO	CNJCOO	CNJCOO	4	 _ 	 _ 	 _
+6	توێژینەوەی	توێژینەوە	N	N	N|SG|ABS|EZALOS	5	 _ 	 _ 	 _
+7	زانستی	زانستی	ADJ	ADJ	ADJ|PST	6	 _ 	 _ 	 _
+8	ڕایدەگەنێت	ڕایدەگەنێت	VBLEX	VBLEX	VBLEX|TV|PRS|P3|SG	7	 _ 	 _ 	 _
 
 #trans= As of today 15/8 requests for acceptance at public universities and institutes through a direct system in 377 departments and colleges ... 
 #sent_id = 2
 #text: لە ئەمڕۆوە ( ١٥ / ٨ ) داواکاری بۆ وەرگرتن لە زانکۆ و پەیمانگە حکومییەکان بە سیستمی ڕاستەوخۆی زانکۆی لە ( ٣٧٧ ) بەش و کۆلێژی زانکۆ و پەیمانگەکانی 
-1	لە	لە	PR	PR	PR	1	 _ 	 _ 	 _
-2	ئەمڕۆوە	ئەمڕۆوە	N	N	N|SG|ABS	2	 _ 	 _ 	 _
-3	(	(	LPAR	LPAR	LPAR	3	 _ 	 _ 	 _
-4	١٥4	/4	٨4	)	)	RPAR	RPAR	RPAR	4	 _ 	 _ 	 _
-5	داواکاری	داواکاری	N	N	N|SG|ABS	5	 _ 	 _ 	 _
-6	بۆ	بۆ	PR	PR	PR	6	 _ 	 _ 	 _
-7	وەرگرتن	وەرگرتن	N	N	N|SG|ABS	7	 _ 	 _ 	 _
-8	لە	لە	PR	PR	PR	8	 _ 	 _ 	 _
-9	زانکۆ	زانکۆ	N	N	N|SG|ABS	9	 _ 	 _ 	 _
-10	و	و	CNJCOO	CNJCOO	CNJCOO	10	 _ 	 _ 	 _
-11	پەیمانگە	پەیمانگە	N	N	N|SG|ABS	11	 _ 	 _ 	 _
-12	حکومییەکان	حکومییەکان	N	N	N|PL|DEF	12	 _ 	 _ 	 _
-13	بە	بە	PR	PR	PR	13	 _ 	 _ 	 _
-14	سیستمی	سیستمی	N	N	N|SG|ABS|EZALOS	14	 _ 	 _ 	 _
-15	ڕاستەوخۆی	ڕاستەوخۆ	N	N	N|SG|ABS|EZALOS	15	 _ 	 _ 	 _
-16	زانکۆی	زانکۆ	N	N	N|SG|ABS	16	 _ 	 _ 	 _
-17	لە	لە	PR	PR	PR	17	 _ 	 _ 	 _
-18	(	(	LPAR	LPAR	LPAR	18	 _ 	 _ 	 _
-19	٣٧٧19	)	)	RPAR	RPAR	RPAR	19	 _ 	 _ 	 _
-20	بەش	بەش	N	N	N|SG|ABS	20	 _ 	 _ 	 _
-21	و	و	CNJCOO	CNJCOO	CNJCOO	21	 _ 	 _ 	 _
-22	کۆلێژی	کۆلێژی	N	N	N|SG|ABS|EZALOS	22	 _ 	 _ 	 _
-23	زانکۆ	زانکۆ	N	N	N|SG|ABS	23	 _ 	 _ 	 _
-24	و	و	CNJCOO	CNJCOO	CNJCOO	24	 _ 	 _ 	 _
-25	پەیمانگەکانی	پەیمانگەکانی	N	N	N|DEF|PL|PX3SG	25	 _ 	 _ 	 _
+1	لە	لە	PR	PR	PR	0	 _ 	 _ 	 _
+2	ئەمڕۆوە	ئەمڕۆوە	N	N	N|SG|ABS	1	 _ 	 _ 	 _
+3	(	(	LPAR	LPAR	LPAR	2	 _ 	 _ 	 _
+4	١٥4	/4	٨4	)	)	RPAR	RPAR	RPAR	3	 _ 	 _ 	 _
+5	داواکاری	داواکاری	N	N	N|SG|ABS	4	 _ 	 _ 	 _
+6	بۆ	بۆ	PR	PR	PR	5	 _ 	 _ 	 _
+7	وەرگرتن	وەرگرتن	N	N	N|SG|ABS	6	 _ 	 _ 	 _
+8	لە	لە	PR	PR	PR	7	 _ 	 _ 	 _
+9	زانکۆ	زانکۆ	N	N	N|SG|ABS	8	 _ 	 _ 	 _
+10	و	و	CNJCOO	CNJCOO	CNJCOO	9	 _ 	 _ 	 _
+11	پەیمانگە	پەیمانگە	N	N	N|SG|ABS	10	 _ 	 _ 	 _
+12	حکومییەکان	حکومییەکان	N	N	N|PL|DEF	11	 _ 	 _ 	 _
+13	بە	بە	PR	PR	PR	12	 _ 	 _ 	 _
+14	سیستمی	سیستمی	N	N	N|SG|ABS|EZALOS	13	 _ 	 _ 	 _
+15	ڕاستەوخۆی	ڕاستەوخۆ	N	N	N|SG|ABS|EZALOS	14	 _ 	 _ 	 _
+16	زانکۆی	زانکۆ	N	N	N|SG|ABS	15	 _ 	 _ 	 _
+17	لە	لە	PR	PR	PR	16	 _ 	 _ 	 _
+18	(	(	LPAR	LPAR	LPAR	17	 _ 	 _ 	 _
+19	٣٧٧19	)	)	RPAR	RPAR	RPAR	18	 _ 	 _ 	 _
+20	بەش	بەش	N	N	N|SG|ABS	19	 _ 	 _ 	 _
+21	و	و	CNJCOO	CNJCOO	CNJCOO	20	 _ 	 _ 	 _
+22	کۆلێژی	کۆلێژی	N	N	N|SG|ABS|EZALOS	21	 _ 	 _ 	 _
+23	زانکۆ	زانکۆ	N	N	N|SG|ABS	22	 _ 	 _ 	 _
+24	و	و	CNJCOO	CNJCOO	CNJCOO	23	 _ 	 _ 	 _
+25	پەیمانگەکانی	پەیمانگەکانی	N	N	N|DEF|PL|PX3SG	24	 _ 	 _ 	 _
 
 #trans= Last week a member of Kurdistan Democratic Party was executed by the Republican of Iran.
 #sent_id = 3
 #text: حەفتەی ڕابردوو ، ئەندامێکی حیزبی دیموکراتی کوردستان لە لایەن کۆماری سێدارەی ئێرانەوە ئێعدام کرا 
-1	حەفتەی	حەفتە	N	N	N|SG|ABS|EZALOS	1	 _ 	 _ 	 _
-2	ڕابردوو	ڕابردوو	N	N	N|SG|ABS	2	 _ 	 _ 	 _
-3	،	،	CM	CM	CM	3	 _ 	 _ 	 _
-4	ئەندامێکی	ئەندام	N	N	N|SG|IND|EZALOS	4	 _ 	 _ 	 _
-5	حیزبی	حیزب	N	N	N|SG|ABS|EZALOS	5	 _ 	 _ 	 _
-6	دیموکراتی	دیموکرات	N	N	N|SG|ABS|EZALOS	6	 _ 	 _ 	 _
-7	کوردستان	کوردستان	NP	NP	NP|TOP|SG|ABS	7	 _ 	 _ 	 _
-8	لە	لە	PR	PR	PR	8	 _ 	 _ 	 _
-9	لایەن	لایەن	N	N	N|SG|ABS	9	 _ 	 _ 	 _
-10	کۆماری	کۆمار	N	N	N|SG|ABS|EZALOS	10	 _ 	 _ 	 _
-11	سێدارەی	سێدارەی	N	N	N|SG|ABS|EZALOS	11	 _ 	 _ 	 _
-12	ئێرانەوە	*ئێرانەوە	NP	NP	NP|TOP|SG|ABS	12	 _ 	 _ 	 _
-13	ئێعدام	ئێعدام	N	N	N|SG|ABS	13	 _ 	 _ 	 _
-14	کرا	کرا	VBCOP	VBCOP	VBCOP|PAST|P3|SG	14	 _ 	 _ 	 _
+1	حەفتەی	حەفتە	N	N	N|SG|ABS|EZALOS	0	 _ 	 _ 	 _
+2	ڕابردوو	ڕابردوو	N	N	N|SG|ABS	1	 _ 	 _ 	 _
+3	،	،	CM	CM	CM	2	 _ 	 _ 	 _
+4	ئەندامێکی	ئەندام	N	N	N|SG|IND|EZALOS	3	 _ 	 _ 	 _
+5	حیزبی	حیزب	N	N	N|SG|ABS|EZALOS	4	 _ 	 _ 	 _
+6	دیموکراتی	دیموکرات	N	N	N|SG|ABS|EZALOS	5	 _ 	 _ 	 _
+7	کوردستان	کوردستان	NP	NP	NP|TOP|SG|ABS	6	 _ 	 _ 	 _
+8	لە	لە	PR	PR	PR	7	 _ 	 _ 	 _
+9	لایەن	لایەن	N	N	N|SG|ABS	8	 _ 	 _ 	 _
+10	کۆماری	کۆمار	N	N	N|SG|ABS|EZALOS	9	 _ 	 _ 	 _
+11	سێدارەی	سێدارەی	N	N	N|SG|ABS|EZALOS	10	 _ 	 _ 	 _
+12	ئێرانەوە	*ئێرانەوە	NP	NP	NP|TOP|SG|ABS	11	 _ 	 _ 	 _
+13	ئێعدام	ئێعدام	N	N	N|SG|ABS	12	 _ 	 _ 	 _
+14	کرا	کرا	VBCOP	VBCOP	VBCOP|PAST|P3|SG	13	 _ 	 _ 	 _
 
 #trans= Kurdistan Democratic Party of Iran was either not aware of this execution or did not want to condemn this act of the Republican of Iran. 
 #sent_id = 4
 #text: حیزبی دیموکراتی کوردستانی ئێران یان ئاگاداری ئەو ئیعدامە نەبوو یان حەزی نەکرد ئەو کردەوەیەی کۆماری سێدارەی ئێران مەحکوم بکات 
-1	حیزبی	حیزب	N	N	N|SG|ABS|EZALOS	1	 _ 	 _ 	 _
-2	دیموکراتی	دیموکرات	N	N	N|SG|ABS|EZALOS	2	 _ 	 _ 	 _
-3	کوردستانی	کوردستان	NP	NP	NP|TOP|SG|ABS|EZALOS	3	 _ 	 _ 	 _
-4	ئێران	ئێران	NP	NP	NP|TOP|SG|ABS	4	 _ 	 _ 	 _
-5	یان	یان	CNJCOO	CNJCOO	CNJCOO	5	 _ 	 _ 	 _
-6	ئاگاداری	ئاگادری	N	N	N|SG|ABS	6	 _ 	 _ 	 _
-7	ئەو	ئەو	DET	DET	DET|DEM|SG	7	 _ 	 _ 	 _
-8	ئیعدامە	ئیعدامە	"ئیعدامە"	"ئیعدامە"	"ئیعدامە"	8	 _ 	 _ 	 _
-9	نەبوو	بوون	VBCOP	VBCOP	VBCOP|PAST|NEG|P3|SG	9	 _ 	 _ 	 _
-10	یان	یان	CNJCOO	CNJCOO	CNJCOO	10	 _ 	 _ 	 _
-11	حەزی	حەز	N	N	N|SG|ABS|PX3SG	11	 _ 	 _ 	 _
-12	نەکرد	نەکرد	VBLEX	VBLEX	VBLEX|PAST|TV|NEG|P3|SG	12	 _ 	 _ 	 _
-13	ئەو	ئەو	DET	DET	DET|DEM|SG	13	 _ 	 _ 	 _
-14	کردەوەیەی	کردەوە	N	N	N|SG|ABS|EZALOS	14	 _ 	 _ 	 _
-15	کۆماری	کۆمار	N	N	N|SG|ABS|EZALOS	15	 _ 	 _ 	 _
-16	سێدارەی	سێدارەی	N	N	N|SG|ABS|EZALOS	16	 _ 	 _ 	 _
-17	ئێران	ئێران	NP	NP	NP|TOP|SG|ABS	17	 _ 	 _ 	 _
-18	مەحکوم	مەحکوم	N	N	N|SG|ABS	18	 _ 	 _ 	 _
-19	بکات	کردن	VBLEX	VBLEX	VBLEX|TV|PRS|P3|SG	19	 _ 	 _ 	 _
+1	حیزبی	حیزب	N	N	N|SG|ABS|EZALOS	0	 _ 	 _ 	 _
+2	دیموکراتی	دیموکرات	N	N	N|SG|ABS|EZALOS	1	 _ 	 _ 	 _
+3	کوردستانی	کوردستان	NP	NP	NP|TOP|SG|ABS|EZALOS	2	 _ 	 _ 	 _
+4	ئێران	ئێران	NP	NP	NP|TOP|SG|ABS	3	 _ 	 _ 	 _
+5	یان	یان	CNJCOO	CNJCOO	CNJCOO	4	 _ 	 _ 	 _
+6	ئاگاداری	ئاگادری	N	N	N|SG|ABS	5	 _ 	 _ 	 _
+7	ئەو	ئەو	DET	DET	DET|DEM|SG	6	 _ 	 _ 	 _
+8	ئیعدامە	ئیعدامە	"ئیعدامە"	"ئیعدامە"	"ئیعدامە"	7	 _ 	 _ 	 _
+9	نەبوو	بوون	VBCOP	VBCOP	VBCOP|PAST|NEG|P3|SG	8	 _ 	 _ 	 _
+10	یان	یان	CNJCOO	CNJCOO	CNJCOO	9	 _ 	 _ 	 _
+11	حەزی	حەز	N	N	N|SG|ABS|PX3SG	10	 _ 	 _ 	 _
+12	نەکرد	نەکرد	VBLEX	VBLEX	VBLEX|PAST|TV|NEG|P3|SG	11	 _ 	 _ 	 _
+13	ئەو	ئەو	DET	DET	DET|DEM|SG	12	 _ 	 _ 	 _
+14	کردەوەیەی	کردەوە	N	N	N|SG|ABS|EZALOS	13	 _ 	 _ 	 _
+15	کۆماری	کۆمار	N	N	N|SG|ABS|EZALOS	14	 _ 	 _ 	 _
+16	سێدارەی	سێدارەی	N	N	N|SG|ABS|EZALOS	15	 _ 	 _ 	 _
+17	ئێران	ئێران	NP	NP	NP|TOP|SG|ABS	16	 _ 	 _ 	 _
+18	مەحکوم	مەحکوم	N	N	N|SG|ABS	17	 _ 	 _ 	 _
+19	بکات	کردن	VBLEX	VBLEX	VBLEX|TV|PRS|P3|SG	18	 _ 	 _ 	 _
 
 #trans= Unfortunately this shows the very narrow perspective of this party.  
 #sent_id = 5
 #text: ئەمەش بەداخەوە ئەوپەڕی بەرچاوتەسکیی ئەو حیزبە نیشاندەدات 
-1	ئەمەش	ئەمەش	DET	DET	DET|DEM|SG	1	 _ 	 _ 	 _
-2	بەداخەوە	بەداخەوە	ADV	ADV	ADV	2	 _ 	 _ 	 _
-3	ئەوپەڕی	ئەوپەڕ	N	N	N|SG|ABS|EZALOS	3	 _ 	 _ 	 _
-4	بەرچاوتەسکیی	بەرچاوتەسکیی	N	N	N|SG|ABS|EZALOS	4	 _ 	 _ 	 _
-5	ئەو	ئەو	DET	DET	DET|DEM|SG	5	 _ 	 _ 	 _
-6	حیزبە	حیزب	N	N	N|SG|ABS|EZACLO	6	 _ 	 _ 	 _
-7	نیشاندەدات	نیشاندەدات	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	7	 _ 	 _ 	 _
+1	ئەمەش	ئەمەش	DET	DET	DET|DEM|SG	0	 _ 	 _ 	 _
+2	بەداخەوە	بەداخەوە	ADV	ADV	ADV	1	 _ 	 _ 	 _
+3	ئەوپەڕی	ئەوپەڕ	N	N	N|SG|ABS|EZALOS	2	 _ 	 _ 	 _
+4	بەرچاوتەسکیی	بەرچاوتەسکیی	N	N	N|SG|ABS|EZALOS	3	 _ 	 _ 	 _
+5	ئەو	ئەو	DET	DET	DET|DEM|SG	4	 _ 	 _ 	 _
+6	حیزبە	حیزب	N	N	N|SG|ABS|EZACLO	5	 _ 	 _ 	 _
+7	نیشاندەدات	نیشاندەدات	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	6	 _ 	 _ 	 _
 
 #trans= Removing or establishing the word Iran as a Kurdish party which aims at liberating Kurds and promoting democracy does not in itself add  any privilege to this party.  
 #sent_id = 6
 #text: لابردن یان چەسپاندنی وشەی ئێران بە حیزبێکی کوردیەوە ، کە ئامانجی رزگاری کورد و پێشخستنی دیموکراسی بێت ، خۆی لە خۆیدا نابێتە هیچ ئیمتیازێک بۆ ئەو حیزبە 
-1	لابردن	لابردن	N	N	N|SG|ABS	1	 _ 	 _ 	 _
-2	یان	یان	CNJCOO	CNJCOO	CNJCOO	2	 _ 	 _ 	 _
-3	چەسپاندنی	چەسپاندنی	N	N	N|SG|ABS|EZALOS	3	 _ 	 _ 	 _
-4	وشەی	وشە	N	N	N|SG|ABS|EZALOS	4	 _ 	 _ 	 _
-5	ئێران	ئێران	NP	NP	NP|TOP|SG|ABS	5	 _ 	 _ 	 _
-6	بە	بە	PR	PR	PR	6	 _ 	 _ 	 _
-7	حیزبێکی	حیزب	N	N	N|SG|IND|EZALOS	7	 _ 	 _ 	 _
-8	کوردیەوە	کوردیەوە	N	N	N|SG|ABS	8	 _ 	 _ 	 _
-9	،	،	CM	CM	CM	9	 _ 	 _ 	 _
-10	کە	کە	CNJSUB	CNJSUB	CNJSUB	10	 _ 	 _ 	 _
-11	ئامانجی	ئامانج	N	N	N|SG|ABS|EZALOS	11	 _ 	 _ 	 _
-12	رزگاری	رزگاری	N	N	N|SG|ABS	12	 _ 	 _ 	 _
-13	کورد	کورد	N	N	N|SG|ABS	13	 _ 	 _ 	 _
-14	و	و	CNJCOO	CNJCOO	CNJCOO	14	 _ 	 _ 	 _
-15	پێشخستنی	پێشخستنی	N	N	N|SG|ABS|EZALOS	15	 _ 	 _ 	 _
-16	دیموکراسی	دیموکراسی	N	N	N|SG|ABS	16	 _ 	 _ 	 _
-17	بێت	بوون	VBCOP	VBCOP	VBCOP|PRS|P3|SG	17	 _ 	 _ 	 _
-18	،	،	CM	CM	CM	18	 _ 	 _ 	 _
-19	خۆی	خۆ	N	N	N|SG|ABS|PX3SG	19	 _ 	 _ 	 _
-20	لە	لە	PR	PR	PR	20	 _ 	 _ 	 _
+1	لابردن	لابردن	N	N	N|SG|ABS	0	 _ 	 _ 	 _
+2	یان	یان	CNJCOO	CNJCOO	CNJCOO	1	 _ 	 _ 	 _
+3	چەسپاندنی	چەسپاندنی	N	N	N|SG|ABS|EZALOS	2	 _ 	 _ 	 _
+4	وشەی	وشە	N	N	N|SG|ABS|EZALOS	3	 _ 	 _ 	 _
+5	ئێران	ئێران	NP	NP	NP|TOP|SG|ABS	4	 _ 	 _ 	 _
+6	بە	بە	PR	PR	PR	5	 _ 	 _ 	 _
+7	حیزبێکی	حیزب	N	N	N|SG|IND|EZALOS	6	 _ 	 _ 	 _
+8	کوردیەوە	کوردیەوە	N	N	N|SG|ABS	7	 _ 	 _ 	 _
+9	،	،	CM	CM	CM	8	 _ 	 _ 	 _
+10	کە	کە	CNJSUB	CNJSUB	CNJSUB	9	 _ 	 _ 	 _
+11	ئامانجی	ئامانج	N	N	N|SG|ABS|EZALOS	10	 _ 	 _ 	 _
+12	رزگاری	رزگاری	N	N	N|SG|ABS	11	 _ 	 _ 	 _
+13	کورد	کورد	N	N	N|SG|ABS	12	 _ 	 _ 	 _
+14	و	و	CNJCOO	CNJCOO	CNJCOO	13	 _ 	 _ 	 _
+15	پێشخستنی	پێشخستنی	N	N	N|SG|ABS|EZALOS	14	 _ 	 _ 	 _
+16	دیموکراسی	دیموکراسی	N	N	N|SG|ABS	15	 _ 	 _ 	 _
+17	بێت	بوون	VBCOP	VBCOP	VBCOP|PRS|P3|SG	16	 _ 	 _ 	 _
+18	،	،	CM	CM	CM	17	 _ 	 _ 	 _
+19	خۆی	خۆ	N	N	N|SG|ABS|PX3SG	18	 _ 	 _ 	 _
+20	لە	لە	PR	PR	PR	19	 _ 	 _ 	 _
 21-22	خۆیدا
-21	خۆی	N	N	N|SG|ABS|PX3SG	21	 _ 	 _ 	 _ 
-22	دا	CLT	CLT	CLT	22	 _ 	 _ 	 _ 
-23	نابێتە	نابێتە	VBCOP	VBCOP	VBCOP|PRS|NEG|P3|SG	23	 _ 	 _ 	 _
-24	هیچ	هیچ	ADV	ADV	ADV	24	 _ 	 _ 	 _
-25	ئیمتیازێک	ئیمتیازێک	N	N	N|SG|IND	25	 _ 	 _ 	 _
-26	بۆ	بۆ	PR	PR	PR	26	 _ 	 _ 	 _
-27	ئەو	ئەو	DET	DET	DET|DEM|SG	27	 _ 	 _ 	 _
+21	خۆی	N	N	N|SG|ABS|PX3SG	20	 _ 	 _ 	 _ 
+22	دا	CLT	CLT	CLT	21	 _ 	 _ 	 _ 
+23	نابێتە	نابێتە	VBCOP	VBCOP	VBCOP|PRS|NEG|P3|SG	22	 _ 	 _ 	 _
+24	هیچ	هیچ	ADV	ADV	ADV	23	 _ 	 _ 	 _
+25	ئیمتیازێک	ئیمتیازێک	N	N	N|SG|IND	24	 _ 	 _ 	 _
+26	بۆ	بۆ	PR	PR	PR	25	 _ 	 _ 	 _
+27	ئەو	ئەو	DET	DET	DET|DEM|SG	26	 _ 	 _ 	 _
 28-29	حیزبە
-28	حیزب	N	N	N|SG|ABS	28	 _ 	 _ 	 _ 
-29	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	29	 _ 	 _ 	 _ 
+28	حیزب	N	N	N|SG|ABS	27	 _ 	 _ 	 _ 
+29	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	28	 _ 	 _ 	 _ 
 
 #trans= Ok, what has happened to kak Awlay Muhtadi's armed forces?
 #sent_id = 7
 #text: ئەی باشە هێزە چەکدارەکانی کاک عەوڵای موهتەدی چیێان لێهات ؟ 
-1	ئەی	ئەی	IJ	IJ	IJ	1	 _ 	 _ 	 _
+1	ئەی	ئەی	IJ	IJ	IJ	0	 _ 	 _ 	 _
 2-3	باشە
-2	باش	ADJ	ADJ	ADJ|PST	2	 _ 	 _ 	 _ 
-3	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	3	 _ 	 _ 	 _ 
-4	هێزە	هێز	N	N	N|SG|ABS|EZACLO	4	 _ 	 _ 	 _
-5	چەکدارەکانی	چەکدارەکانی	N	N	N|PL|DEF|EZALOS	5	 _ 	 _ 	 _
-6	کاک	کاک	N	N	N|SG|ABS	6	 _ 	 _ 	 _
-7	عەوڵای	عەوڵای	NP	NP	NP	7	 _ 	 _ 	 _
-8	موهتەدی	موهتەدی	NP	NP	NP	8	 _ 	 _ 	 _
-9	چیێان	چیێان	PRN	PRN	PRN|P3|PL	9	 _ 	 _ 	 _
-10	لێهات	لێهات	VBLEX	VBLEX	VBLEX|P3|SG	10	 _ 	 _ 	 _
-11	؟	؟	SENT	SENT	SENT	11	 _ 	 _ 	 _
+2	باش	ADJ	ADJ	ADJ|PST	1	 _ 	 _ 	 _ 
+3	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	2	 _ 	 _ 	 _ 
+4	هێزە	هێز	N	N	N|SG|ABS|EZACLO	3	 _ 	 _ 	 _
+5	چەکدارەکانی	چەکدارەکانی	N	N	N|PL|DEF|EZALOS	4	 _ 	 _ 	 _
+6	کاک	کاک	N	N	N|SG|ABS	5	 _ 	 _ 	 _
+7	عەوڵای	عەوڵای	NP	NP	NP	6	 _ 	 _ 	 _
+8	موهتەدی	موهتەدی	NP	NP	NP	7	 _ 	 _ 	 _
+9	چیێان	چیێان	PRN	PRN	PRN|P3|PL	8	 _ 	 _ 	 _
+10	لێهات	لێهات	VBLEX	VBLEX	VBLEX|P3|SG	9	 _ 	 _ 	 _
+11	؟	؟	SENT	SENT	SENT	10	 _ 	 _ 	 _
 
 #trans= Ok, what has happened to you the Kurds of Europe? 
 #sent_id = 8
 #text: ئەی باشە ئێوە کوردەکانی ئەوروپا ، ئێوە چیتان لێهات ؟ 
-1	ئەی	ئەی	IJ	IJ	IJ	1	 _ 	 _ 	 _
+1	ئەی	ئەی	IJ	IJ	IJ	0	 _ 	 _ 	 _
 2-3	باشە
-2	باش	ADJ	ADJ	ADJ|PST	2	 _ 	 _ 	 _ 
-3	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	3	 _ 	 _ 	 _ 
-4	ئێوە	ئێوە	PRN	PRN	PRN|PERS|P2|PL	4	 _ 	 _ 	 _
-5	کوردەکانی	کورد	N	N	N|PL|DEF|EZALOS	5	 _ 	 _ 	 _
-6	ئەوروپا	ئەوروپا	N	N	N|TOP|SG|ABS	6	 _ 	 _ 	 _
-7	،	،	CM	CM	CM	7	 _ 	 _ 	 _
-8	ئێوە	ئێوە	PRN	PRN	PRN|PERS|P2|PL	8	 _ 	 _ 	 _
-9	چیتان	چیتان	PRN	PRN	PRN|P2|PL	9	 _ 	 _ 	 _
-10	لێهات	لێهات	VBLEX	VBLEX	VBLEX|P2|SG	10	 _ 	 _ 	 _
-11	؟	؟	SENT	SENT	SENT	11	 _ 	 _ 	 _
+2	باش	ADJ	ADJ	ADJ|PST	1	 _ 	 _ 	 _ 
+3	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	2	 _ 	 _ 	 _ 
+4	ئێوە	ئێوە	PRN	PRN	PRN|PERS|P2|PL	3	 _ 	 _ 	 _
+5	کوردەکانی	کورد	N	N	N|PL|DEF|EZALOS	4	 _ 	 _ 	 _
+6	ئەوروپا	ئەوروپا	N	N	N|TOP|SG|ABS	5	 _ 	 _ 	 _
+7	،	،	CM	CM	CM	6	 _ 	 _ 	 _
+8	ئێوە	ئێوە	PRN	PRN	PRN|PERS|P2|PL	7	 _ 	 _ 	 _
+9	چیتان	چیتان	PRN	PRN	PRN|P2|PL	8	 _ 	 _ 	 _
+10	لێهات	لێهات	VBLEX	VBLEX	VBLEX|P2|SG	9	 _ 	 _ 	 _
+11	؟	؟	SENT	SENT	SENT	10	 _ 	 _ 	 _
 
 #trans= MY suggestion for those people is not to go back to their country now because they will stuck in Ordoga. 
 #sent_id = 9
 #text: پێشنیاری من بۆ ئەو کەسانە ئەوەیە کە ئێستە مەگەڕینەوە بۆ وەڵات چونکە لە ئوردوگا دا ئەچەقن 
-1	پێشنیاری	پێشنیاری	N	N	N|SG|ABS|EZALOS	1	 _ 	 _ 	 _
-2	من	من	PRN	PRN	PRN|PERS|P1|SG	2	 _ 	 _ 	 _
-3	بۆ	بۆ	PR	PR	PR	3	 _ 	 _ 	 _
-4	ئەو	ئەو	DET	DET	DET|DEM|SG	4	 _ 	 _ 	 _
-5	کەسانە	کەس	N	N	N|PL|DEM	5	 _ 	 _ 	 _
+1	پێشنیاری	پێشنیاری	N	N	N|SG|ABS|EZALOS	0	 _ 	 _ 	 _
+2	من	من	PRN	PRN	PRN|PERS|P1|SG	1	 _ 	 _ 	 _
+3	بۆ	بۆ	PR	PR	PR	2	 _ 	 _ 	 _
+4	ئەو	ئەو	DET	DET	DET|DEM|SG	3	 _ 	 _ 	 _
+5	کەسانە	کەس	N	N	N|PL|DEM	4	 _ 	 _ 	 _
 6-7	ئەوەیە
-6	ئەوەیە	DET	DET	DET|DEM|SG	6	 _ 	 _ 	 _ 
-7	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	7	 _ 	 _ 	 _ 
-8	کە	کە	CNJSUB	CNJSUB	CNJSUB	8	 _ 	 _ 	 _
-9	ئێستە	ئێستە	ADV	ADV	ADV	9	 _ 	 _ 	 _
-10	مەگەڕینەوە	مەگەڕینەوە	VBLEX	VBLEX	VBLEX|IV|PRI|P2|PL	10	 _ 	 _ 	 _
-11	بۆ	بۆ	PR	PR	PR	11	 _ 	 _ 	 _
-12	وەڵات	وەڵات	N	N	N|SG|ABS	12	 _ 	 _ 	 _
-13	چونکە	چونکە	CNJSUB	CNJSUB	CNJSUB	13	 _ 	 _ 	 _
-14	لە	لە	PR	PR	PR	14	 _ 	 _ 	 _
-15	ئوردوگا	ئوردوگا	N	N	N|TOP|SG|ABS	15	 _ 	 _ 	 _
-16	دا	دا	CLT	CLT	CLT	16	 _ 	 _ 	 _
-17	ئەچەقن	ئەچەقن	VBLEX	VBLEX	VBLEX|IV|PRI|P3|PL	17	 _ 	 _ 	 _
+6	ئەوەیە	DET	DET	DET|DEM|SG	5	 _ 	 _ 	 _ 
+7	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	6	 _ 	 _ 	 _ 
+8	کە	کە	CNJSUB	CNJSUB	CNJSUB	7	 _ 	 _ 	 _
+9	ئێستە	ئێستە	ADV	ADV	ADV	8	 _ 	 _ 	 _
+10	مەگەڕینەوە	مەگەڕینەوە	VBLEX	VBLEX	VBLEX|IV|PRI|P2|PL	9	 _ 	 _ 	 _
+11	بۆ	بۆ	PR	PR	PR	10	 _ 	 _ 	 _
+12	وەڵات	وەڵات	N	N	N|SG|ABS	11	 _ 	 _ 	 _
+13	چونکە	چونکە	CNJSUB	CNJSUB	CNJSUB	12	 _ 	 _ 	 _
+14	لە	لە	PR	PR	PR	13	 _ 	 _ 	 _
+15	ئوردوگا	ئوردوگا	N	N	N|TOP|SG|ABS	14	 _ 	 _ 	 _
+16	دا	دا	CLT	CLT	CLT	15	 _ 	 _ 	 _
+17	ئەچەقن	ئەچەقن	VBLEX	VBLEX	VBLEX|IV|PRI|P3|PL	16	 _ 	 _ 	 _
 
 #trans= This is a bad and condemned act that actually creates a question to every eastern one.
 #sent_id = 10
 #text: کردەوەیەکی نزم و مەحکووم کە بە ڕاستی پرسیار لای هەر رۆژهەڵاتیەک دروست دەکات 
-1	کردەوەیەکی	کردەوە	N	N	N|SG|IND|EZALOS	1	 _ 	 _ 	 _
-2	نزم	نزم	ADJ	ADJ	ADJ|PST	2	 _ 	 _ 	 _
-3	و	و	CNJCOO	CNJCOO	CNJCOO	3	 _ 	 _ 	 _
-4	مەحکووم	مەحکووم	N	N	N|SG|ABS	4	 _ 	 _ 	 _
-5	کە	کە	CNJSUB	CNJSUB	CNJSUB	5	 _ 	 _ 	 _
-6	بە	بە	PR	PR	PR	6	 _ 	 _ 	 _
-7	ڕاستی	ڕاستی	N	N	N|SG|ABS	7	 _ 	 _ 	 _
-8	پرسیار	پرسیار	N	N	N|SG|ABS	8	 _ 	 _ 	 _
-9	لای	لا	N	N	N|SG|ABS|EZALOS	9	 _ 	 _ 	 _
-10	هەر	هەر	ADV	ADV	ADV	10	 _ 	 _ 	 _
-11	رۆژهەڵاتیەک	رۆژهەڵاتیەک	N	N	N|SG|IND	11	 _ 	 _ 	 _
-12	دروست	دروست	N	N	N|SG|ABS	12	 _ 	 _ 	 _
-13	دەکات	کردن	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	13	 _ 	 _ 	 _
+1	کردەوەیەکی	کردەوە	N	N	N|SG|IND|EZALOS	0	 _ 	 _ 	 _
+2	نزم	نزم	ADJ	ADJ	ADJ|PST	1	 _ 	 _ 	 _
+3	و	و	CNJCOO	CNJCOO	CNJCOO	2	 _ 	 _ 	 _
+4	مەحکووم	مەحکووم	N	N	N|SG|ABS	3	 _ 	 _ 	 _
+5	کە	کە	CNJSUB	CNJSUB	CNJSUB	4	 _ 	 _ 	 _
+6	بە	بە	PR	PR	PR	5	 _ 	 _ 	 _
+7	ڕاستی	ڕاستی	N	N	N|SG|ABS	6	 _ 	 _ 	 _
+8	پرسیار	پرسیار	N	N	N|SG|ABS	7	 _ 	 _ 	 _
+9	لای	لا	N	N	N|SG|ABS|EZALOS	8	 _ 	 _ 	 _
+10	هەر	هەر	ADV	ADV	ADV	9	 _ 	 _ 	 _
+11	رۆژهەڵاتیەک	رۆژهەڵاتیەک	N	N	N|SG|IND	10	 _ 	 _ 	 _
+12	دروست	دروست	N	N	N|SG|ABS	11	 _ 	 _ 	 _
+13	دەکات	کردن	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	12	 _ 	 _ 	 _
 
 #trans= Just because the names of your previous friends are the same as theirs. [Samira: not sure of this trans] 
 #sent_id = 11
 #text: هەر لەبەر ئەوەی ناوی “ هاوڕیانی پێشوتان ” وەک ئەوەی خۆیان هەن نەبەن 
-1	هەر	هەر	ADV	ADV	ADV	1	 _ 	 _ 	 _
-2	لەبەر	لەبەر	PR	PR	PR	2	 _ 	 _ 	 _
-3	ئەوەی	ئەوەی	DET	DET	DET|DEM|SG|EZALOS	3	 _ 	 _ 	 _
-4	ناوی	ناو	N	N	N|SG|ABS|EZALOS	4	 _ 	 _ 	 _
-5	“	“	LQUOT	LQUOT	LQUOT	5	 _ 	 _ 	 _
-6	هاوڕیانی	هاوڕیانی	N	N	N|PL|EZALOS	6	 _ 	 _ 	 _
-7	پێشوتان	پێشوتان	N	N	N|SG|ABS|PX2PL	7	 _ 	 _ 	 _
-8	”	”	RQUOT	RQUOT	RQUOT	8	 _ 	 _ 	 _
-9	وەک	وەک	PR	PR	PR	9	 _ 	 _ 	 _
-10	ئەوەی	ئەوەی	DET	DET	DET|DEM|SG|EZALOS	10	 _ 	 _ 	 _
-11	خۆیان	خۆ	N	N	N|SG|ABS|PX3PL	11	 _ 	 _ 	 _
-12	هەن	هەن	VBCOP	VBCOP	VBCOP	12	 _ 	 _ 	 _
-13	نەبەن	بردن	VBLEX	VBLEX	VBLEX|TV|NEG|PRS|P3|PL	13	 _ 	 _ 	 _
+1	هەر	هەر	ADV	ADV	ADV	0	 _ 	 _ 	 _
+2	لەبەر	لەبەر	PR	PR	PR	1	 _ 	 _ 	 _
+3	ئەوەی	ئەوەی	DET	DET	DET|DEM|SG|EZALOS	2	 _ 	 _ 	 _
+4	ناوی	ناو	N	N	N|SG|ABS|EZALOS	3	 _ 	 _ 	 _
+5	“	“	LQUOT	LQUOT	LQUOT	4	 _ 	 _ 	 _
+6	هاوڕیانی	هاوڕیانی	N	N	N|PL|EZALOS	5	 _ 	 _ 	 _
+7	پێشوتان	پێشوتان	N	N	N|SG|ABS|PX2PL	6	 _ 	 _ 	 _
+8	”	”	RQUOT	RQUOT	RQUOT	7	 _ 	 _ 	 _
+9	وەک	وەک	PR	PR	PR	8	 _ 	 _ 	 _
+10	ئەوەی	ئەوەی	DET	DET	DET|DEM|SG|EZALOS	9	 _ 	 _ 	 _
+11	خۆیان	خۆ	N	N	N|SG|ABS|PX3PL	10	 _ 	 _ 	 _
+12	هەن	هەن	VBCOP	VBCOP	VBCOP	11	 _ 	 _ 	 _
+13	نەبەن	بردن	VBLEX	VBLEX	VBLEX|TV|NEG|PRS|P3|PL	12	 _ 	 _ 	 _
 
 #trans= What a big disaster it is. 
 #sent_id = 12
 #text: ئای چ کارەساتێکی گەورەیە . 
-1	ئای	ئای	IJ	IJ	IJ	1	 _ 	 _ 	 _
-2	چ	چ	PRN	PRN	PRN	2	 _ 	 _ 	 _
-3	کارەساتێکی	کارەسات	N	N	N|SG|IND|EZALOS	3	 _ 	 _ 	 _
+1	ئای	ئای	IJ	IJ	IJ	0	 _ 	 _ 	 _
+2	چ	چ	PRN	PRN	PRN	1	 _ 	 _ 	 _
+3	کارەساتێکی	کارەسات	N	N	N|SG|IND|EZALOS	2	 _ 	 _ 	 _
 4-5	گەورەیە
-4	گەورە	ADJ	ADJ	ADJ|PST	4	 _ 	 _ 	 _ 
-5	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	5	 _ 	 _ 	 _ 
-6	.	.	SENT	SENT	SENT	6	 _ 	 _ 	 _
+4	گەورە	ADJ	ADJ	ADJ|PST	3	 _ 	 _ 	 _ 
+5	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	4	 _ 	 _ 	 _ 
+6	.	.	SENT	SENT	SENT	5	 _ 	 _ 	 _
 

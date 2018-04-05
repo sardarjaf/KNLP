@@ -2,101 +2,101 @@
 #trans = ?
 #sent_id = 1
 #text: بۆ كێشه‌ ناوخۆیه‌كانی خۆشیان پێیان باشه‌ به‌رپرسانی هه‌رێم رۆڵی ناوبژیوانی بگێڕن 
-1	بۆ	بۆ	PR	PR	PR	1	 _ 	 _ 	 _
-2	كێشه‌	کێش	N	N	N|SG|ABS	2	 _ 	 _ 	 _
-3	ناوخۆیه‌كانی	ناوخۆ	N	N	N|PL|DEF|EZALOS	3	 _ 	 _ 	 _
-4	خۆشیان	خۆش	N	N	N|SG|ABS|PX3PL	4	 _ 	 _ 	 _
-5	پێیان	پێیان	PR	PR	PR|PRN|CLT|P3|PL	5	 _ 	 _ 	 _
+1	بۆ	بۆ	PR	PR	PR	0	 _ 	 _ 	 _
+2	كێشه‌	کێش	N	N	N|SG|ABS	1	 _ 	 _ 	 _
+3	ناوخۆیه‌كانی	ناوخۆ	N	N	N|PL|DEF|EZALOS	2	 _ 	 _ 	 _
+4	خۆشیان	خۆش	N	N	N|SG|ABS|PX3PL	3	 _ 	 _ 	 _
+5	پێیان	پێیان	PR	PR	PR|PRN|CLT|P3|PL	4	 _ 	 _ 	 _
 6-7	باشه‌
-6	باش	ADJ	ADJ	ADJ|PST	6	 _ 	 _ 	 _ 
-7	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	7	 _ 	 _ 	 _ 
-8	به‌رپرسانی	به‌رپرسانی	N	N	N|PL|ABS|AZALOS	8	 _ 	 _ 	 _
-9	هه‌رێم	هەرێم	N	N	N|SG|ABS	9	 _ 	 _ 	 _
-10	رۆڵی	رۆڵی	N	N	N|SG|ABS|EZALOS	10	 _ 	 _ 	 _
-11	ناوبژیوانی	ناوبژیوانی	N	N	N|PL|AZALOS	11	 _ 	 _ 	 _
-12	بگێڕن	بگێڕن	VBLEX	VBLEX	VBLEX|TV|P3|SG	12	 _ 	 _ 	 _
+6	باش	ADJ	ADJ	ADJ|PST	5	 _ 	 _ 	 _ 
+7	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	6	 _ 	 _ 	 _ 
+8	به‌رپرسانی	به‌رپرسانی	N	N	N|PL|ABS|AZALOS	7	 _ 	 _ 	 _
+9	هه‌رێم	هەرێم	N	N	N|SG|ABS	8	 _ 	 _ 	 _
+10	رۆڵی	رۆڵی	N	N	N|SG|ABS|EZALOS	9	 _ 	 _ 	 _
+11	ناوبژیوانی	ناوبژیوانی	N	N	N|PL|AZALOS	10	 _ 	 _ 	 _
+12	بگێڕن	بگێڕن	VBLEX	VBLEX	VBLEX|TV|P3|SG	11	 _ 	 _ 	 _
 
 #trans = ?
 #sent_id = 2
 #text: ئه‌وه‌ پاره‌یه‌ وایکردوە ، كه‌سێك توانای كاركردنی نه‌بێ و ئه‌وه‌نده‌ خاوه‌ن ئیراده‌ی خۆی نه‌بێ نه‌توانێ به‌رگه‌ی ماندوێتی ژیانی رۆژانه‌ی كاركردن بگرێ ناچار ده‌بێت 
-1	ئه‌وه‌	ئه‌وه‌	DET	DET	DET|DEM|SG	1	 _ 	 _ 	 _
+1	ئه‌وه‌	ئه‌وه‌	DET	DET	DET|DEM|SG	0	 _ 	 _ 	 _
 2-3	پاره‌یه‌
-2	پارە	N	N	N|SG|ABS	2	 _ 	 _ 	 _ 
-3	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	3	 _ 	 _ 	 _ 
-4	وایکردوە	وایکردوە	VBLEX	VBLEX	VBLEX|TV|P3|SG	4	 _ 	 _ 	 _
-5	،	،	CM	CM	CM	5	 _ 	 _ 	 _
-6	كه‌سێك	کەس	N	N	N|SG|IND	6	 _ 	 _ 	 _
-7	توانای	توانا	N	N	N|SG|ABS|EZALOS	7	 _ 	 _ 	 _
-8	كاركردنی	کارکردن	N	N	N|SG|ABS|PX3SG	8	 _ 	 _ 	 _
-9	نه‌بێ	نه‌بێ	VBCOP	VBCOP	VBCOP|NEG|P3|SG	9	 _ 	 _ 	 _
-10	و	و	CNJCOO	CNJCOO	CNJCOO	10	 _ 	 _ 	 _
-11	ئه‌وه‌نده‌	ئه‌وه‌نده‌	ADV	ADV	ADV	11	 _ 	 _ 	 _
-12	خاوه‌ن	خاوەن	N	N	N|SG|ABS	12	 _ 	 _ 	 _
-13	ئیراده‌ی	ئیراده‌ی	N	N	N|SG|ABS|EZALOS	13	 _ 	 _ 	 _
-14	خۆی	خۆ	N	N	N|SG|ABS|PX3SG	14	 _ 	 _ 	 _
-15	نه‌بێ	نه‌بێ	VBCOP	VBCOP	VBCOP|NEG|P3|SG	15	 _ 	 _ 	 _
-16	نه‌توانێ	نه‌توانێ	VBMOD	VBMOD	VBMOD|NEG|P3|SG	16	 _ 	 _ 	 _
-17	به‌رگه‌ی	بەرگە	N	N	N|SG|ABS|EZALOS	17	 _ 	 _ 	 _
-18	ماندوێتی	ماندوێتی	N	N	N|SG|ABS|EZALOS	18	 _ 	 _ 	 _
-19	ژیانی	ژیان	N	N	N|SG|ABS|EZALOS	19	 _ 	 _ 	 _
-20	رۆژانه‌ی	رۆژ	N	N	N|PL|DEM|EZALOS	20	 _ 	 _ 	 _
-21	كاركردن	کارکردن	N	N	N|SG|ABS	21	 _ 	 _ 	 _
-22	بگرێ	گرتن	VBLEX	VBLEX	VBLEX|TV|PRS|P3|SG	22	 _ 	 _ 	 _
-23	ناچار	ناچار	ADJ	ADJ	ADJ|PST	23	 _ 	 _ 	 _
-24	ده‌بێت	دەبێت	VBCOP	VBCOP	VBCOP|PRI|P3|SG	24	 _ 	 _ 	 _
+2	پارە	N	N	N|SG|ABS	1	 _ 	 _ 	 _ 
+3	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	2	 _ 	 _ 	 _ 
+4	وایکردوە	وایکردوە	VBLEX	VBLEX	VBLEX|TV|P3|SG	3	 _ 	 _ 	 _
+5	،	،	CM	CM	CM	4	 _ 	 _ 	 _
+6	كه‌سێك	کەس	N	N	N|SG|IND	5	 _ 	 _ 	 _
+7	توانای	توانا	N	N	N|SG|ABS|EZALOS	6	 _ 	 _ 	 _
+8	كاركردنی	کارکردن	N	N	N|SG|ABS|PX3SG	7	 _ 	 _ 	 _
+9	نه‌بێ	نه‌بێ	VBCOP	VBCOP	VBCOP|NEG|P3|SG	8	 _ 	 _ 	 _
+10	و	و	CNJCOO	CNJCOO	CNJCOO	9	 _ 	 _ 	 _
+11	ئه‌وه‌نده‌	ئه‌وه‌نده‌	ADV	ADV	ADV	10	 _ 	 _ 	 _
+12	خاوه‌ن	خاوەن	N	N	N|SG|ABS	11	 _ 	 _ 	 _
+13	ئیراده‌ی	ئیراده‌ی	N	N	N|SG|ABS|EZALOS	12	 _ 	 _ 	 _
+14	خۆی	خۆ	N	N	N|SG|ABS|PX3SG	13	 _ 	 _ 	 _
+15	نه‌بێ	نه‌بێ	VBCOP	VBCOP	VBCOP|NEG|P3|SG	14	 _ 	 _ 	 _
+16	نه‌توانێ	نه‌توانێ	VBMOD	VBMOD	VBMOD|NEG|P3|SG	15	 _ 	 _ 	 _
+17	به‌رگه‌ی	بەرگە	N	N	N|SG|ABS|EZALOS	16	 _ 	 _ 	 _
+18	ماندوێتی	ماندوێتی	N	N	N|SG|ABS|EZALOS	17	 _ 	 _ 	 _
+19	ژیانی	ژیان	N	N	N|SG|ABS|EZALOS	18	 _ 	 _ 	 _
+20	رۆژانه‌ی	رۆژ	N	N	N|PL|DEM|EZALOS	19	 _ 	 _ 	 _
+21	كاركردن	کارکردن	N	N	N|SG|ABS	20	 _ 	 _ 	 _
+22	بگرێ	گرتن	VBLEX	VBLEX	VBLEX|TV|PRS|P3|SG	21	 _ 	 _ 	 _
+23	ناچار	ناچار	ADJ	ADJ	ADJ|PST	22	 _ 	 _ 	 _
+24	ده‌بێت	دەبێت	VBCOP	VBCOP	VBCOP|PRI|P3|SG	23	 _ 	 _ 	 _
 
 #trans = ?
 #sent_id = 3
 #text: دراو پاره‌ كارێكی وا ده‌كات 
-1	دراو	دراو	N	N	N|SG|ABS	1	 _ 	 _ 	 _
-2	پاره‌	پارە	N	N	N|SG|ABS	2	 _ 	 _ 	 _
-3	كارێكی	کار	N	N	N|SG|IND|PX3SG	3	 _ 	 _ 	 _
-4	وا	وا	ADV	ADV	ADV	4	 _ 	 _ 	 _
-5	ده‌كات	کردن	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	5	 _ 	 _ 	 _
+1	دراو	دراو	N	N	N|SG|ABS	0	 _ 	 _ 	 _
+2	پاره‌	پارە	N	N	N|SG|ABS	1	 _ 	 _ 	 _
+3	كارێكی	کار	N	N	N|SG|IND|PX3SG	2	 _ 	 _ 	 _
+4	وا	وا	ADV	ADV	ADV	3	 _ 	 _ 	 _
+5	ده‌كات	کردن	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	4	 _ 	 _ 	 _
 
 #trans = ?
 #sent_id = 4
 #text: ره‌نگه‌ ئێمه‌ بتوانین خۆمان له‌گه‌ڵ مه‌رگ یه‌ک لای بكه‌ینه‌وه‌ 
-1	ره‌نگه‌	رەنگ	N	N	N|SG|ABS	1	 _ 	 _ 	 _
-2	ئێمه‌	ئێمە	PRN	PRN	PRN|PERS|P1|PL	2	 _ 	 _ 	 _
-3	بتوانین	بتوانین	VBMOD	VBMOD	VBMOD|P1|PL	3	 _ 	 _ 	 _
-4	خۆمان	خۆ	N	N	N|SG|ABS|PX1PL	4	 _ 	 _ 	 _
-5	له‌گه‌ڵ	لەگەڵ	PR	PR	PR	5	 _ 	 _ 	 _
-6	مه‌رگ	مەرگ	N	N	N|SG|ABS	6	 _ 	 _ 	 _
-7	یه‌ک	یەک	N	N	N|QNT	7	 _ 	 _ 	 _
-8	لای	لا	N	N	N|SG|ABS|PX3SG	8	 _ 	 _ 	 _
-9	بكه‌ینه‌وه‌	کردنەوە	VBLEX	VBLEX	VBLEX|TV|PRS|P1|PL	9	 _ 	 _ 	 _
+1	ره‌نگه‌	رەنگ	N	N	N|SG|ABS	0	 _ 	 _ 	 _
+2	ئێمه‌	ئێمە	PRN	PRN	PRN|PERS|P1|PL	1	 _ 	 _ 	 _
+3	بتوانین	بتوانین	VBMOD	VBMOD	VBMOD|P1|PL	2	 _ 	 _ 	 _
+4	خۆمان	خۆ	N	N	N|SG|ABS|PX1PL	3	 _ 	 _ 	 _
+5	له‌گه‌ڵ	لەگەڵ	PR	PR	PR	4	 _ 	 _ 	 _
+6	مه‌رگ	مەرگ	N	N	N|SG|ABS	5	 _ 	 _ 	 _
+7	یه‌ک	یەک	N	N	N|QNT	6	 _ 	 _ 	 _
+8	لای	لا	N	N	N|SG|ABS|PX3SG	7	 _ 	 _ 	 _
+9	بكه‌ینه‌وه‌	کردنەوە	VBLEX	VBLEX	VBLEX|TV|PRS|P1|PL	8	 _ 	 _ 	 _
 
 #trans = ?
 #sent_id = 5
 #text: قه‌ناعه‌تمان وابێ هه‌ر یه‌كه‌مان بە ‌جۆرێک بۆ نموونه‌ بە ‌لای منه‌وه‌ مه‌رگ گرنگیه‌کی ئه‌وتۆ لە ‌ژیانمدا نیه‌ که‌چی بە ‌لای که‌سانێکی تر مه‌رگ گرنگه‌ !. 
-1	قه‌ناعه‌تمان	قه‌ناعه‌تمان	N	N	N|SG|ABS|PX1PL	1	 _ 	 _ 	 _
+1	قه‌ناعه‌تمان	قه‌ناعه‌تمان	N	N	N|SG|ABS|PX1PL	0	 _ 	 _ 	 _
 2-3	وابێ
-2	وابێ	ADV	ADV	ADV	2	 _ 	 _ 	 _ 
-3	بوون	VBCOP	VBCOP	VBCOP|PRI|P1|SG	3	 _ 	 _ 	 _ 
-4	هه‌ر	هەر	ADV	ADV	ADV	4	 _ 	 _ 	 _
-5	یه‌كه‌مان	یەکە	N	N	N|SG|ABS|PX1PL	5	 _ 	 _ 	 _
-6	بە	بە	PR	PR	PR	6	 _ 	 _ 	 _
-7	‌جۆرێک	‌جۆرێک	N	N	N|SG|IND	7	 _ 	 _ 	 _
-8	بۆ	بۆ	PR	PR	PR	8	 _ 	 _ 	 _
-9	نموونه‌	نموونه‌	N	N	N|SG|ABS	9	 _ 	 _ 	 _
-10	بە	بە	PR	PR	PR	10	 _ 	 _ 	 _
-11	‌لای	‌لای	N	N	N|SG|ABS|EZALOS	11	 _ 	 _ 	 _
-12	منه‌وه‌	من‌	PRN	PRN	PRN|PERS|P1|SG|CLT	12	 _ 	 _ 	 _
-13	مه‌رگ	مەرگ	N	N	N|SG|ABS	13	 _ 	 _ 	 _
-14	گرنگیه‌کی	گرنگ	N	N	N|SG|IND|PX3SG	14	 _ 	 _ 	 _
-15	ئه‌وتۆ	ئەوتۆ	ADJ	ADJ	ADJ|PST	15	 _ 	 _ 	 _
-16	لە	لە	PR	PR	PR	16	 _ 	 _ 	 _
-17	‌ژیانمدا	‌ژیانم	N	N	N|SG|ABS|PX1SG|CLT	17	 _ 	 _ 	 _
-18	نیه‌	بوون	VBCOP	VBCOP	VBCOP|PRI|NEG|P3|SG	18	 _ 	 _ 	 _
-19	که‌چی	که‌چی	ADV	ADV	ADV	19	 _ 	 _ 	 _
-20	بە	بە	PR	PR	PR	20	 _ 	 _ 	 _
-21	‌لای	‌لای	N	N	N|SG|ABS|EZALOS	21	 _ 	 _ 	 _
-22	که‌سانێکی	که‌سانێکی	N	N	N|SG|IND|EZALOS	22	 _ 	 _ 	 _
-23	تر	تر	PRN	PRN	PRN	23	 _ 	 _ 	 _
-24	مه‌رگ	مەرگ	N	N	N|SG|ABS	24	 _ 	 _ 	 _
+2	وابێ	ADV	ADV	ADV	1	 _ 	 _ 	 _ 
+3	بوون	VBCOP	VBCOP	VBCOP|PRI|P1|SG	2	 _ 	 _ 	 _ 
+4	هه‌ر	هەر	ADV	ADV	ADV	3	 _ 	 _ 	 _
+5	یه‌كه‌مان	یەکە	N	N	N|SG|ABS|PX1PL	4	 _ 	 _ 	 _
+6	بە	بە	PR	PR	PR	5	 _ 	 _ 	 _
+7	‌جۆرێک	‌جۆرێک	N	N	N|SG|IND	6	 _ 	 _ 	 _
+8	بۆ	بۆ	PR	PR	PR	7	 _ 	 _ 	 _
+9	نموونه‌	نموونه‌	N	N	N|SG|ABS	8	 _ 	 _ 	 _
+10	بە	بە	PR	PR	PR	9	 _ 	 _ 	 _
+11	‌لای	‌لای	N	N	N|SG|ABS|EZALOS	10	 _ 	 _ 	 _
+12	منه‌وه‌	من‌	PRN	PRN	PRN|PERS|P1|SG|CLT	11	 _ 	 _ 	 _
+13	مه‌رگ	مەرگ	N	N	N|SG|ABS	12	 _ 	 _ 	 _
+14	گرنگیه‌کی	گرنگ	N	N	N|SG|IND|PX3SG	13	 _ 	 _ 	 _
+15	ئه‌وتۆ	ئەوتۆ	ADJ	ADJ	ADJ|PST	14	 _ 	 _ 	 _
+16	لە	لە	PR	PR	PR	15	 _ 	 _ 	 _
+17	‌ژیانمدا	‌ژیانم	N	N	N|SG|ABS|PX1SG|CLT	16	 _ 	 _ 	 _
+18	نیه‌	بوون	VBCOP	VBCOP	VBCOP|PRI|NEG|P3|SG	17	 _ 	 _ 	 _
+19	که‌چی	که‌چی	ADV	ADV	ADV	18	 _ 	 _ 	 _
+20	بە	بە	PR	PR	PR	19	 _ 	 _ 	 _
+21	‌لای	‌لای	N	N	N|SG|ABS|EZALOS	20	 _ 	 _ 	 _
+22	که‌سانێکی	که‌سانێکی	N	N	N|SG|IND|EZALOS	21	 _ 	 _ 	 _
+23	تر	تر	PRN	PRN	PRN	22	 _ 	 _ 	 _
+24	مه‌رگ	مەرگ	N	N	N|SG|ABS	23	 _ 	 _ 	 _
 25-26	گرنگه‌
-25	گرنگ	ADJ	ADJ	ADJ|PST	25	 _ 	 _ 	 _ 
-26	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	26	 _ 	 _ 	 _ 
-27	!.	!.	SENT	SENT	SENT	27	 _ 	 _ 	 _
+25	گرنگ	ADJ	ADJ	ADJ|PST	24	 _ 	 _ 	 _ 
+26	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	25	 _ 	 _ 	 _ 
+27	!.	!.	SENT	SENT	SENT	26	 _ 	 _ 	 _
 

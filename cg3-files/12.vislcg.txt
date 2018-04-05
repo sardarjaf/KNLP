@@ -237,4 +237,3 @@
 	"کردن" vblex tv prs p3 pl
 "<.>"
 	"." sent
-

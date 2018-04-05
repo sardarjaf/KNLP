@@ -502,4 +502,3 @@
 	"کراون" vblex iv past p3 pl
 "<.>"
 	"." sent
-

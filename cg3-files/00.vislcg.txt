@@ -38,7 +38,7 @@
 "<بخەین>"
 	"خستن" vblex tv prs p1 pl 
 
-#translation = Girls have their own way to know and feel what you feel
+#trans = Girls have their own way to know and feel what you feel
 "<کچان>"
 	"کچ" n pl ind
 "<ڕێگای>"
@@ -71,27 +71,27 @@
 "<.>"
 	"." sent
 
-# trans = But they always like to listen to him/her. 
+#trans = But they always like to listen to him/her. 
 "<بەڵام>"
-	"بەڵام" cnjcoo @cc #1->6
+	"بەڵام" cnjcoo 
 "<هەمیشەش>"
-	"هەمیشە" adv @advmod #2->6
-	"ش" clt @x #3->2
+	"هەمیشە" adv 
+	"ش" clt 
 "<حەز>"
-	"حەز" n sg abs @compound:lvc #4->5
+	"حەز" n sg abs 
 "<دەکەن>"
-	"کردن" vblex tv pri p3 pl @root #5->0
+	"کردن" vblex tv pri p3 pl 
 "<گوێ>"
-	"گوێ" n sg abs @ccomp #6->5
+	"گوێ" n sg abs 
 "<بیستی>"
-	"بیست" vblex iv @flat #7->6
-	"ئەو" prn pers clt p3 sg" @obl #8->6
+	"بیست" vblex iv 
+	"ئەو" prn pers clt p3 sg 
 "<بن>"
-	"بوون" vbcop prs p3 pl @cop #9->6
+	"بوون" vbcop prs p3 pl 
 "<.>"
 	"." sent @punct #10->6
 
-# trans = On 8th March we will support the law of comprehensive equality of men and women in Kurdistan.  
+#trans = On 8th March we will support the law of comprehensive equality of men and women in Kurdistan.  
 "<لە>"
 	"لە" pr
  "<٨>" 
@@ -124,7 +124,7 @@
 "<دەکەین>"
 	"کردن" vblex tv pri p1 pl
 
-# trans = After a while love is unilateral 
+#trans = After a while love is unilateral 
 "<دوای>"
 	"دوای" adv
 "<ماوەیەك>"
@@ -135,68 +135,68 @@
 	"یەک" num sg
 "<لایەنە>"
 	"لایەن" n sg abs
-		"بوون" vbcop pri p3 sg
+	"بوون" vbcop pri p3 sg
 
-# trans = An originally Arab maestro says that Kuridsh music is richer than Arab music. 
+#trans = An originally Arab maestro says that Kuridsh music is richer than Arab music. 
 "<مایسترۆیەکی>"
-	"مایسترۆ" n sg ind ezalos @nsubj #1->5
+	"مایسترۆ" n sg ind ezalos 
 "<بە>"
-	"بە" pr @case #2->3
+	"بە" pr 
 "<ڕەگەز>"
-	"ڕەگەز" n sg abs @obl #3->1
+	"ڕەگەز" n sg abs 
 "<عەرەب>"
-	"عەرەب" n sg abs @nmod:poss #4->3
+	"عەرەب" n sg abs 
 "<دەڵێت>"
-	"وتن" vblex tv pri p3 sg @root #5->0
+	"وتن" vblex tv pri p3 sg 
 "<کە>"
-	"کە" cnjsub @mark #6->10  
+	"کە" cnjsub   
 "<مۆسیقای>"
-	"مۆسیقا" n sg abs ezalos @nsubj #7->10
+	"مۆسیقا" n sg abs ezalos 
 "<کوردی>"
-	"کورد" adj pst @amod #8->7
+	"کورد" adj pst 
 "<زۆر>"
-	"زۆر" adv @advmod #9->10
+	"زۆر" adv 
 "<دەوڵەمەندترە>"
-	"دەوڵەمەند" adj comp @ccomp #10->5 
-		"بوون" vbcop pri p3 sg @cop #11->10
+	"دەوڵەمەند" adj comp  
+		"بوون" vbcop pri p3 sg 
 "<لە>"
-	"لە" pr @case #12->13
+	"لە" pr 
 "<مۆسیقای>"
-	"مۆسیقا" n sg abs ezalos @obl #13->10
+	"مۆسیقا" n sg abs ezalos 
 "<عەرەبی>"
-	"عەرەبی" adj @amod #14->13
+	"عەرەبی" adj 
 
-# trans = He/she serves the Kuridsh music in Kurdistan.
+#trans = He/she serves the Kuridsh music in Kurdistan.
 "<لە>"
-	"لە" pr @case #1->2
+	"لە" pr 
 "<کوردستان>"
-	"کوردستان" np top sg abs @obl #2->6
+	"کوردستان" np top sg abs 
 "<خزمەتی>"
-	"خزمەت" n sg abs ezalos @obj #3->6
+	"خزمەت" n sg abs ezalos 
 "<مۆسیقای>"
-	"مۆسیقا" n sg abs ezalos @nmod:poss #4->3
+	"مۆسیقا" n sg abs ezalos 
 "<کوردی>"
-	"کوردی" adj pst @amod #5->4
+	"کوردی" adj pst
 "<دەکات>"
-	"کردن" vblex tv pri p3 sg @root #6->0
+	"کردن" vblex tv pri p3 sg 
 
-# trans = this number forms half of Syria population
+#trans = this number forms half of Syria population
 "<ئەم>"
-	"ئەم" det dem sg @det #1->2
+	"ئەم" det dem sg 
 "<ژمارەیە>"
-	"ژمارە"  n sg absn sg dem @nsubj #2->7
+	"ژمارە"  n sg absn sg dem 
 "<نیوەی>"
-	"نیو" adv @obj #3->7  
+	"نیو" adv   
 "<دانیشتوانی>"
-	"دانیشتوان" n sg abs ezalos + px3sg @nmod:poss #4->3
+	"دانیشتوان" n sg abs ezalos px3sg 
 "<سوریا>"
-	"سوریا" np top sg abs @nmod:poss #5->4
+	"سوریا" np top sg abs 
 "<پێك>"
-	"پێک" adv @compound:lvc #6->7  
+	"پێک" adv   
 "<دەهێنێت>"
-	"هێنان" vblex tv pri p3 sg @root #7->0
+	"هێنان" vblex tv pri p3 sg 
 
-# trans = One of them is not from where he was during war. 
+#trans = One of them is not from where he was during war. 
 "<،>"
 	"،" cm
 "<یەكێكیان>"
@@ -206,7 +206,7 @@
 	"ئەو" prn pers p3 sg
 "<شوێنە>"
 	"شوێن" n sg dem
-		"بوون" vbcop pri p3 sg
+	"بوون" vbcop pri p3 sg
 "<نییە>"
 	"بوون" vbcop pri neg p3 sg
 "<كە>"
@@ -217,13 +217,13 @@
 	"جەنگ" n sg abs
 "<لێی>"
 	"لە" pr
-		"ی" prn clt p3 sg
+	"ی" prn clt p3 sg
 "<بووە>"
 	"بوون" vbcop perf p3 sg
 "<.>"
 	"." sent
 
-# trans = At 9:23 when I go to work and recite them the story, they don't promise to cover up my last troubling and not to decrease my salaray as a punishment.  
+#trans = At 9:23 when I go to work and recite them the story, they don't promise to cover up my last troubling and not to decrease my salaray as a punishment.  
 "<كاتژمێر>"
 	"کاتژمێر" n sg abs
 "<9>"
@@ -293,13 +293,13 @@
 "<.>"
 	"." sent
 
-# trans = Advantages and profits of massive companies and diplomatic relations of countries at no time consider human rights. 
+#trans = Advantages and profits of massive companies and diplomatic relations of countries at no time consider human rights. 
 "<سوود>"
-	"سوود" n sg abs @nsubj #1->
+	"سوود" n sg abs ->
 "<و>" 
-	"<و>" cnjcoo @cc #2->3
+	"<و>" cnjcoo 
 "<قازانجی>"
-	"قازانج" n sg abs ezalos @conj #3->1
+	"قازانج" n sg abs ezalos 
 "<کۆمپانیا>"
 	"کۆمپانیا" n sg abs
 "<زەبەلاحەکان>"
@@ -352,9 +352,9 @@
 "<؟>"
 	"؟" sent
 
-#trans = It is for how many decades has it been that cinema is part of modern human's life.	
+#trans = It is for how many decades has it been that cinema is part of modern human's life.
 "<ئەوە>"
-  "ئەوە" prn pers p3 sg
+	"ئەوە" prn pers p3 sg
 "<بۆ>"
 	"بۆ" pr
 "<چەند>"
@@ -380,8 +380,8 @@
 	"سەردەم" n sg abs
 "<.>"
 	"." sent
- 
-# trans = The city of Halabja falls to the north-east of Sulaymaniye province.
+
+#trans = The city of Halabja falls to the north-east of Sulaymaniye province.
 "<شاری>"
 	"شار" n sg abs ezalos 
 "<هەڵەبجە>"
@@ -398,4 +398,3 @@
 	"سلێمانی" np top sg abs
 "<.>"
 	"." sent
-

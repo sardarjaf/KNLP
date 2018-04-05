@@ -2,160 +2,160 @@
 #trans= They may say that we make out of a big title or heading and an empty content an outstanding one; who say so
 #sent_id = 1
 #text: له‌وانه‌یه‌ بڵێن ناونیشان یاخود مانشێتێکی زه‌به‌لاح و ناوه‌رۆکێکی خاڵی به‌رجه‌سته‌ بكه‌ین ! کێ ده‌ڵێ وایه‌ 
-1	له‌وانه‌یه‌	له‌وانه‌یه‌	ADV	ADV	ADV	1	 _ 	 _ 	 _
-2	بڵێن	وتن	VBLEX	VBLEX	VBLEX|IV|PRS|P3|PL	2	 _ 	 _ 	 _
-3	ناونیشان	ناونیشان	N	N	N|SG|ABS	3	 _ 	 _ 	 _
-4	یاخود	یاخود	ADV	ADV	ADV	4	 _ 	 _ 	 _
-5	مانشێتێکی	مانشێتێکی	N	N	N|SG|IND|EZALOS	5	 _ 	 _ 	 _
-6	زه‌به‌لاح	زه‌به‌لاح	ADJ	ADJ	ADJ	6	 _ 	 _ 	 _
-7	و	و	CNJCOO	CNJCOO	CNJCOO	7	 _ 	 _ 	 _
-8	ناوه‌رۆکێکی	ناوه‌رۆکێکی	N	N	N|SG|IND|EZALOS	8	 _ 	 _ 	 _
-9	خاڵی	خاڵ	N	N	N|SG|ABS	9	 _ 	 _ 	 _
-10	به‌رجه‌سته‌	به‌رجه‌سته‌	ADJ	ADJ	ADJ	10	 _ 	 _ 	 _
-11	بكه‌ین	کردن	VBLEX	VBLEX	VBLEX|TV|PRS|P1|PL	11	 _ 	 _ 	 _
-12	!	!	SENT	SENT	SENT	12	 _ 	 _ 	 _
-13	کێ	کێ	PRN	PRN	PRN|PERS|SG	13	 _ 	 _ 	 _
-14	ده‌ڵێ	وتن	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	14	 _ 	 _ 	 _
-15	وایه‌	وایە	ADV	ADV	ADV	15	 _ 	 _ 	 _
+1	له‌وانه‌یه‌	له‌وانه‌یه‌	ADV	ADV	ADV	0	 _ 	 _ 	 _
+2	بڵێن	وتن	VBLEX	VBLEX	VBLEX|IV|PRS|P3|PL	1	 _ 	 _ 	 _
+3	ناونیشان	ناونیشان	N	N	N|SG|ABS	2	 _ 	 _ 	 _
+4	یاخود	یاخود	ADV	ADV	ADV	3	 _ 	 _ 	 _
+5	مانشێتێکی	مانشێتێکی	N	N	N|SG|IND|EZALOS	4	 _ 	 _ 	 _
+6	زه‌به‌لاح	زه‌به‌لاح	ADJ	ADJ	ADJ	5	 _ 	 _ 	 _
+7	و	و	CNJCOO	CNJCOO	CNJCOO	6	 _ 	 _ 	 _
+8	ناوه‌رۆکێکی	ناوه‌رۆکێکی	N	N	N|SG|IND|EZALOS	7	 _ 	 _ 	 _
+9	خاڵی	خاڵ	N	N	N|SG|ABS	8	 _ 	 _ 	 _
+10	به‌رجه‌سته‌	به‌رجه‌سته‌	ADJ	ADJ	ADJ	9	 _ 	 _ 	 _
+11	بكه‌ین	کردن	VBLEX	VBLEX	VBLEX|TV|PRS|P1|PL	10	 _ 	 _ 	 _
+12	!	!	SENT	SENT	SENT	11	 _ 	 _ 	 _
+13	کێ	کێ	PRN	PRN	PRN|PERS|SG	12	 _ 	 _ 	 _
+14	ده‌ڵێ	وتن	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	13	 _ 	 _ 	 _
+15	وایه‌	وایە	ADV	ADV	ADV	14	 _ 	 _ 	 _
 
 #trans= Who says it is not right that the possibilities themselves are within 'yes' and 'no', therefore we need to find the value of S in this complex formula of history and academia. 
 #sent_id = 2
 #text: کێ ده‌ڵێ راست نیه‌ ، ئه‌گه‌رەکان‌ خۆیان له‌نێوان به‌ڵی و نه‌خێره‌ ، بۆیه‌ ده‌بێت نرخی سین له‌م هاوكێشه‌ قورسه‌ مێژوو و ئەکادیمیە‌ بدۆزینه‌وه‌ 
-1	کێ	کێ	PRN	PRN	PRN|PERS|SG	1	 _ 	 _ 	 _
-2	ده‌ڵێ	وتن	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	2	 _ 	 _ 	 _
-3	راست	راست	N	N	N|SG|ABS	3	 _ 	 _ 	 _
-4	نیه‌	بوون	VBCOP	VBCOP	VBCOP|PRI|NEG|P3|SG	4	 _ 	 _ 	 _
-5	،	،	CM	CM	CM	5	 _ 	 _ 	 _
-6	ئه‌گه‌رەکان‌	ئه‌گه‌رەکان‌	N	N	N|PL|DEF	6	 _ 	 _ 	 _
-7	خۆیان	خۆ	N	N	N|SG|ABS|PX3PL	7	 _ 	 _ 	 _
-8	له‌نێوان	له‌نێوان	PR	PR	PR	8	 _ 	 _ 	 _
-9	به‌ڵی	به‌ڵی	N	N	N	9	 _ 	 _ 	 _
-10	و	و	CNJCOO	CNJCOO	CNJCOO	10	 _ 	 _ 	 _
-11	نه‌خێره‌	نه‌خێره‌	N	N	N	11	 _ 	 _ 	 _
-12	،	،	CM	CM	CM	12	 _ 	 _ 	 _
-13	بۆیه‌	بۆیە	CNJCOO	CNJCOO	CNJCOO	13	 _ 	 _ 	 _
-14	ده‌بێت	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	14	 _ 	 _ 	 _
-15	نرخی	نرخ	N	N	N|SG|ABS|EZALOS	15	 _ 	 _ 	 _
-16	سین	سین	N	N	N	16	 _ 	 _ 	 _
+1	کێ	کێ	PRN	PRN	PRN|PERS|SG	0	 _ 	 _ 	 _
+2	ده‌ڵێ	وتن	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	1	 _ 	 _ 	 _
+3	راست	راست	N	N	N|SG|ABS	2	 _ 	 _ 	 _
+4	نیه‌	بوون	VBCOP	VBCOP	VBCOP|PRI|NEG|P3|SG	3	 _ 	 _ 	 _
+5	،	،	CM	CM	CM	4	 _ 	 _ 	 _
+6	ئه‌گه‌رەکان‌	ئه‌گه‌رەکان‌	N	N	N|PL|DEF	5	 _ 	 _ 	 _
+7	خۆیان	خۆ	N	N	N|SG|ABS|PX3PL	6	 _ 	 _ 	 _
+8	له‌نێوان	له‌نێوان	PR	PR	PR	7	 _ 	 _ 	 _
+9	به‌ڵی	به‌ڵی	N	N	N	8	 _ 	 _ 	 _
+10	و	و	CNJCOO	CNJCOO	CNJCOO	9	 _ 	 _ 	 _
+11	نه‌خێره‌	نه‌خێره‌	N	N	N	10	 _ 	 _ 	 _
+12	،	،	CM	CM	CM	11	 _ 	 _ 	 _
+13	بۆیه‌	بۆیە	CNJCOO	CNJCOO	CNJCOO	12	 _ 	 _ 	 _
+14	ده‌بێت	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	13	 _ 	 _ 	 _
+15	نرخی	نرخ	N	N	N|SG|ABS|EZALOS	14	 _ 	 _ 	 _
+16	سین	سین	N	N	N	15	 _ 	 _ 	 _
 17-18	له‌م
-17	لە	PR	PR	PR	17	 _ 	 _ 	 _ 
-18	ئەم	DET	DET	DET|DEM|SG	18	 _ 	 _ 	 _ 
-19	هاوكێشه‌	هاوکێشە	N	N	N|SG|ABS	19	 _ 	 _ 	 _
-20	قورسه‌	قورس	ADJ	ADJ	ADJ|PST	20	 _ 	 _ 	 _
-21	مێژوو	مێژوو	N	N	N|SG|ABS	21	 _ 	 _ 	 _
-22	و	و	CNJCOO	CNJCOO	CNJCOO	22	 _ 	 _ 	 _
-23	ئەکادیمیە‌	ئەکادیمیە	N	N	N|SG|ABS	23	 _ 	 _ 	 _
-24	بدۆزینه‌وه‌	بدۆزینه‌وه‌	VBLEX	VBLEX	VBLEX|TV|P1|PL	24	 _ 	 _ 	 _
+17	لە	PR	PR	PR	16	 _ 	 _ 	 _ 
+18	ئەم	DET	DET	DET|DEM|SG	17	 _ 	 _ 	 _ 
+19	هاوكێشه‌	هاوکێشە	N	N	N|SG|ABS	18	 _ 	 _ 	 _
+20	قورسه‌	قورس	ADJ	ADJ	ADJ|PST	19	 _ 	 _ 	 _
+21	مێژوو	مێژوو	N	N	N|SG|ABS	20	 _ 	 _ 	 _
+22	و	و	CNJCOO	CNJCOO	CNJCOO	21	 _ 	 _ 	 _
+23	ئەکادیمیە‌	ئەکادیمیە	N	N	N|SG|ABS	22	 _ 	 _ 	 _
+24	بدۆزینه‌وه‌	بدۆزینه‌وه‌	VBLEX	VBLEX	VBLEX|TV|P1|PL	23	 _ 	 _ 	 _
 
 #trans= For next year the media people of sport would have their own IDs. 
 #sent_id = 3
 #text: بۆ ساڵی ئاینده‌ میدیا كارانی وه‌رزشی ناسنامه‌ی تایبه‌تی خۆیان ده‌بێت ! 
-1	بۆ	بۆ	PR	PR	PR	1	 _ 	 _ 	 _
-2	ساڵی	ساڵ	N	N	N|SG|ABS|EZALOS	2	 _ 	 _ 	 _
-3	ئاینده‌	ئایندە	N	N	N|SG|ABS	3	 _ 	 _ 	 _
-4	میدیا	میدیا	N	N	N|SG|ABS	4	 _ 	 _ 	 _
-5	كارانی	کار	N	N	N|PL|IND|EZALOS	5	 _ 	 _ 	 _
-6	وه‌رزشی	وەرزش	N	N	N|SG|ABS|EZALOS	6	 _ 	 _ 	 _
-7	ناسنامه‌ی	ناسنامە	N	N	N|SG|ABS|EZALOS	7	 _ 	 _ 	 _
-8	تایبه‌تی	تایبەتی	ADJ	ADJ	ADJ|PST	8	 _ 	 _ 	 _
-9	خۆیان	خۆ	N	N	N|SG|ABS|PX3PL	9	 _ 	 _ 	 _
-10	ده‌بێت	دەبێت	VBCOP	VBCOP	VBCOP|PRI|P3|SG	10	 _ 	 _ 	 _
-11	!	!	SENT	SENT	SENT	11	 _ 	 _ 	 _
+1	بۆ	بۆ	PR	PR	PR	0	 _ 	 _ 	 _
+2	ساڵی	ساڵ	N	N	N|SG|ABS|EZALOS	1	 _ 	 _ 	 _
+3	ئاینده‌	ئایندە	N	N	N|SG|ABS	2	 _ 	 _ 	 _
+4	میدیا	میدیا	N	N	N|SG|ABS	3	 _ 	 _ 	 _
+5	كارانی	کار	N	N	N|PL|IND|EZALOS	4	 _ 	 _ 	 _
+6	وه‌رزشی	وەرزش	N	N	N|SG|ABS|EZALOS	5	 _ 	 _ 	 _
+7	ناسنامه‌ی	ناسنامە	N	N	N|SG|ABS|EZALOS	6	 _ 	 _ 	 _
+8	تایبه‌تی	تایبەتی	ADJ	ADJ	ADJ|PST	7	 _ 	 _ 	 _
+9	خۆیان	خۆ	N	N	N|SG|ABS|PX3PL	8	 _ 	 _ 	 _
+10	ده‌بێت	دەبێت	VBCOP	VBCOP	VBCOP|PRI|P3|SG	9	 _ 	 _ 	 _
+11	!	!	SENT	SENT	SENT	10	 _ 	 _ 	 _
 
 #trans= This woman is called Brisinio Baki and has lived in Chicago for 18 years while she is originally Mexican.
 #sent_id = 4
 #text: ئەو ژنە ناوی بریسینیۆ باکیە و ماوەی 18 ساڵە لە شیکاگۆ دەژی کە خۆی بە رەگەز مەکسیکییە 
-1	ئەو	ئەو	DET	DET	DET|DEM|SG	1	 _ 	 _ 	 _
+1	ئەو	ئەو	DET	DET	DET|DEM|SG	0	 _ 	 _ 	 _
 2-3	ژنە
-2	ژن	N	N	N|SG|ABS	2	 _ 	 _ 	 _ 
-3	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	3	 _ 	 _ 	 _ 
-4	ناوی	ناو	N	N	N|SG|ABS|PX3SG	4	 _ 	 _ 	 _
-5	بریسینیۆ	بریسینیۆ	NP	NP	NP	5	 _ 	 _ 	 _
+2	ژن	N	N	N|SG|ABS	1	 _ 	 _ 	 _ 
+3	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	2	 _ 	 _ 	 _ 
+4	ناوی	ناو	N	N	N|SG|ABS|PX3SG	3	 _ 	 _ 	 _
+5	بریسینیۆ	بریسینیۆ	NP	NP	NP	4	 _ 	 _ 	 _
 6-7	باکیە
-6	باکیە	NP	NP	NP	6	 _ 	 _ 	 _ 
-7	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	7	 _ 	 _ 	 _ 
-8	و	و	CNJCOO	CNJCOO	CNJCOO	8	 _ 	 _ 	 _
-9	ماوەی	ماوە	N	N	N|SG|ABS|EZALOS	9	 _ 	 _ 	 _
+6	باکیە	NP	NP	NP	5	 _ 	 _ 	 _ 
+7	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	6	 _ 	 _ 	 _ 
+8	و	و	CNJCOO	CNJCOO	CNJCOO	7	 _ 	 _ 	 _
+9	ماوەی	ماوە	N	N	N|SG|ABS|EZALOS	8	 _ 	 _ 	 _
 10	1810-11	ساڵە
-10	ساڵ	N	N	N|SG|ABS	10	 _ 	 _ 	 _ 
-11	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	11	 _ 	 _ 	 _ 
-12	لە	لە	PR	PR	PR	12	 _ 	 _ 	 _
-13	شیکاگۆ	شیکاگۆ	NP	NP	NP|TOP|SG|ABS	13	 _ 	 _ 	 _
-14	دەژی	دەژی	VBLEX	VBLEX	VBLEX|IV|P3|SG	14	 _ 	 _ 	 _
-15	کە	کە	CNJSUB	CNJSUB	CNJSUB	15	 _ 	 _ 	 _
-16	خۆی	خۆ	N	N	N|SG|ABS|PX3SG	16	 _ 	 _ 	 _
-17	بە	بە	PR	PR	PR	17	 _ 	 _ 	 _
-18	رەگەز	رەگەز	N	N	N|SG|ABS	18	 _ 	 _ 	 _
+10	ساڵ	N	N	N|SG|ABS	9	 _ 	 _ 	 _ 
+11	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	10	 _ 	 _ 	 _ 
+12	لە	لە	PR	PR	PR	11	 _ 	 _ 	 _
+13	شیکاگۆ	شیکاگۆ	NP	NP	NP|TOP|SG|ABS	12	 _ 	 _ 	 _
+14	دەژی	دەژی	VBLEX	VBLEX	VBLEX|IV|P3|SG	13	 _ 	 _ 	 _
+15	کە	کە	CNJSUB	CNJSUB	CNJSUB	14	 _ 	 _ 	 _
+16	خۆی	خۆ	N	N	N|SG|ABS|PX3SG	15	 _ 	 _ 	 _
+17	بە	بە	PR	PR	PR	16	 _ 	 _ 	 _
+18	رەگەز	رەگەز	N	N	N|SG|ABS	17	 _ 	 _ 	 _
 19-20	مەکسیکییە
-19	مەکسیکییە	N	N	N|SG	19	 _ 	 _ 	 _ 
-20	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	20	 _ 	 _ 	 _ 
+19	مەکسیکییە	N	N	N|SG	18	 _ 	 _ 	 _ 
+20	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	19	 _ 	 _ 	 _ 
 
 #trans= Concerning this event, he says all liked to see Messi. 
 #sent_id = 5
 #text: سەبارەت بەو رووداوە دەڵێت هەمووان ئارەزووی بینینی مێسی دەکەین 
-1	سەبارەت	سەبارەت	PR	PR	PR	1	 _ 	 _ 	 _
+1	سەبارەت	سەبارەت	PR	PR	PR	0	 _ 	 _ 	 _
 2-3	بەو
-2	بە	PR	PR	PR	2	 _ 	 _ 	 _ 
-3	ئەو	prn	CLT	CLT	CLT|P3|SG	3	 _ 	 _ 	 _ 
-4	رووداوە	رووداوە	N	N	N|SG|ABS	4	 _ 	 _ 	 _
-5	دەڵێت	وتن	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	5	 _ 	 _ 	 _
-6	هەمووان	هەمووان	PRN	PRN	PRN|PERS|P3|PL	6	 _ 	 _ 	 _
-7	ئارەزووی	ئارەزوو	N	N	N|SG|ABS|EZALOS	7	 _ 	 _ 	 _
-8	بینینی	بینین	N	N	N|SG|ABS|EZALOS	8	 _ 	 _ 	 _
-9	مێسی	مێسی	NP	NP	NP	9	 _ 	 _ 	 _
-10	دەکەین	کردن	VBLEX	VBLEX	VBLEX|TV|PRI|P1|PL	10	 _ 	 _ 	 _
+2	بە	PR	PR	PR	1	 _ 	 _ 	 _ 
+3	ئەو	prn	CLT	CLT	CLT|P3|SG	2	 _ 	 _ 	 _ 
+4	رووداوە	رووداوە	N	N	N|SG|ABS	3	 _ 	 _ 	 _
+5	دەڵێت	وتن	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	4	 _ 	 _ 	 _
+6	هەمووان	هەمووان	PRN	PRN	PRN|PERS|P3|PL	5	 _ 	 _ 	 _
+7	ئارەزووی	ئارەزوو	N	N	N|SG|ABS|EZALOS	6	 _ 	 _ 	 _
+8	بینینی	بینین	N	N	N|SG|ABS|EZALOS	7	 _ 	 _ 	 _
+9	مێسی	مێسی	NP	NP	NP	8	 _ 	 _ 	 _
+10	دەکەین	کردن	VBLEX	VBLEX	VBLEX|TV|PRI|P1|PL	9	 _ 	 _ 	 _
 
 #trans= I have never wanted this to happen but when the policemen abduced me I pull down Messi's sleeves and this happened. 
 #sent_id = 6
 #text: هەرگیز نەمویستووە ئەوە رووبدات ، بەڵام ئەو کاتەی پیاوانی پۆلیس منیان دوورخستەوە ، ویستم قۆڵی مێسی بگرم و ئەوە روویدا 
-1	هەرگیز	هەرگیز	ADV	ADV	ADV	1	 _ 	 _ 	 _
-2	نەمویستووە	نەمویستووە	VBLEX	VBLEX	VBLEX|NEG|P1|SG	2	 _ 	 _ 	 _
-3	ئەوە	ئەوە	DET	DET	DET|DEM|SG	3	 _ 	 _ 	 _
-4	رووبدات	رووبدات	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	4	 _ 	 _ 	 _
-5	،	،	CM	CM	CM	5	 _ 	 _ 	 _
-6	بەڵام	بەڵام	CNJCOO	CNJCOO	CNJCOO	6	 _ 	 _ 	 _
-7	ئەو	ئەو	DET	DET	DET|DEM|SG	7	 _ 	 _ 	 _
-8	کاتەی	کاتەی	N	N	N|SG|ABS|EZALOS	8	 _ 	 _ 	 _
-9	پیاوانی	پیاو	N	N	N|PL|IND|EZALOS	9	 _ 	 _ 	 _
-10	پۆلیس	پۆلیس	N	N	N|SG|ABS	10	 _ 	 _ 	 _
-11	منیان	منیان	PRN	PRN	PRN|SG|PX3PL	11	 _ 	 _ 	 _
-12	دوورخستەوە	دوورخستەوە	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	12	 _ 	 _ 	 _
-13	،	،	CM	CM	CM	13	 _ 	 _ 	 _
-14	ویستم	ویستم	VBLEX	VBLEX	VBLEX|P1|SG	14	 _ 	 _ 	 _
-15	قۆڵی	قۆڵ	N	N	N|SG|ABS|EZALOS	15	 _ 	 _ 	 _
-16	مێسی	مێسی	NP	NP	NP	16	 _ 	 _ 	 _
-17	بگرم	گرتن	VBLEX	VBLEX	VBLEX|TV|PRS|P1|SG	17	 _ 	 _ 	 _
-18	و	و	CNJCOO	CNJCOO	CNJCOO	18	 _ 	 _ 	 _
-19	ئەوە	ئەوە	DET	DET	DET|DEM|SG	19	 _ 	 _ 	 _
-20	روویدا	روویدا	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	20	 _ 	 _ 	 _
+1	هەرگیز	هەرگیز	ADV	ADV	ADV	0	 _ 	 _ 	 _
+2	نەمویستووە	نەمویستووە	VBLEX	VBLEX	VBLEX|NEG|P1|SG	1	 _ 	 _ 	 _
+3	ئەوە	ئەوە	DET	DET	DET|DEM|SG	2	 _ 	 _ 	 _
+4	رووبدات	رووبدات	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	3	 _ 	 _ 	 _
+5	،	،	CM	CM	CM	4	 _ 	 _ 	 _
+6	بەڵام	بەڵام	CNJCOO	CNJCOO	CNJCOO	5	 _ 	 _ 	 _
+7	ئەو	ئەو	DET	DET	DET|DEM|SG	6	 _ 	 _ 	 _
+8	کاتەی	کاتەی	N	N	N|SG|ABS|EZALOS	7	 _ 	 _ 	 _
+9	پیاوانی	پیاو	N	N	N|PL|IND|EZALOS	8	 _ 	 _ 	 _
+10	پۆلیس	پۆلیس	N	N	N|SG|ABS	9	 _ 	 _ 	 _
+11	منیان	منیان	PRN	PRN	PRN|SG|PX3PL	10	 _ 	 _ 	 _
+12	دوورخستەوە	دوورخستەوە	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	11	 _ 	 _ 	 _
+13	،	،	CM	CM	CM	12	 _ 	 _ 	 _
+14	ویستم	ویستم	VBLEX	VBLEX	VBLEX|P1|SG	13	 _ 	 _ 	 _
+15	قۆڵی	قۆڵ	N	N	N|SG|ABS|EZALOS	14	 _ 	 _ 	 _
+16	مێسی	مێسی	NP	NP	NP	15	 _ 	 _ 	 _
+17	بگرم	گرتن	VBLEX	VBLEX	VBLEX|TV|PRS|P1|SG	16	 _ 	 _ 	 _
+18	و	و	CNJCOO	CNJCOO	CNJCOO	17	 _ 	 _ 	 _
+19	ئەوە	ئەوە	DET	DET	DET|DEM|SG	18	 _ 	 _ 	 _
+20	روویدا	روویدا	VBLEX	VBLEX	VBLEX|TV|PRI|P3|SG	19	 _ 	 _ 	 _
 
 #trans= I apologize, I wanted to sign and prevent that so as not to let this woman have problem with police. 
 #sent_id = 7
 #text: داوای لێبوردن دەکەم ، دەمویست ئیمزاکە بکەم و ئەوە روو نەدات کە ئەو ژنە تووشی کێشە ببێت لەگەڵ پۆلیسدا . 
-1	داوای	داوا	N	N	N|SG|ABS|EZALOS	1	 _ 	 _ 	 _
-2	لێبوردن	لێبوردن	N	N	N|SG|ABS	2	 _ 	 _ 	 _
-3	دەکەم	کردن	VBLEX	VBLEX	VBLEX|TV|PRI|P1|SG	3	 _ 	 _ 	 _
-4	،	،	CM	CM	CM	4	 _ 	 _ 	 _
-5	دەمویست	دەمویست	VBLEX	VBLEX	VBLEX|P1|SG	5	 _ 	 _ 	 _
-6	ئیمزاکە	ئیمزاکە	N	N	N|SG|DEF	6	 _ 	 _ 	 _
-7	بکەم	کردن	VBLEX	VBLEX	VBLEX|TV|PRS|P1|SG	7	 _ 	 _ 	 _
-8	و	و	CNJCOO	CNJCOO	CNJCOO	8	 _ 	 _ 	 _
-9	ئەوە	ئەوە	DET	DET	DET|DEM|SG	9	 _ 	 _ 	 _
-10	روو	روو	N	N	N|SG|ABS	10	 _ 	 _ 	 _
-11	نەدات	دان	VBLEX	VBLEX	VBLEX|TV|NEG|PRS|P3|SG	11	 _ 	 _ 	 _
-12	کە	کە	CNJSUB	CNJSUB	CNJSUB	12	 _ 	 _ 	 _
-13	ئەو	ئەو	DET	DET	DET|DEM|SG	13	 _ 	 _ 	 _
+1	داوای	داوا	N	N	N|SG|ABS|EZALOS	0	 _ 	 _ 	 _
+2	لێبوردن	لێبوردن	N	N	N|SG|ABS	1	 _ 	 _ 	 _
+3	دەکەم	کردن	VBLEX	VBLEX	VBLEX|TV|PRI|P1|SG	2	 _ 	 _ 	 _
+4	،	،	CM	CM	CM	3	 _ 	 _ 	 _
+5	دەمویست	دەمویست	VBLEX	VBLEX	VBLEX|P1|SG	4	 _ 	 _ 	 _
+6	ئیمزاکە	ئیمزاکە	N	N	N|SG|DEF	5	 _ 	 _ 	 _
+7	بکەم	کردن	VBLEX	VBLEX	VBLEX|TV|PRS|P1|SG	6	 _ 	 _ 	 _
+8	و	و	CNJCOO	CNJCOO	CNJCOO	7	 _ 	 _ 	 _
+9	ئەوە	ئەوە	DET	DET	DET|DEM|SG	8	 _ 	 _ 	 _
+10	روو	روو	N	N	N|SG|ABS	9	 _ 	 _ 	 _
+11	نەدات	دان	VBLEX	VBLEX	VBLEX|TV|NEG|PRS|P3|SG	10	 _ 	 _ 	 _
+12	کە	کە	CNJSUB	CNJSUB	CNJSUB	11	 _ 	 _ 	 _
+13	ئەو	ئەو	DET	DET	DET|DEM|SG	12	 _ 	 _ 	 _
 14-15	ژنە
-14	ژن	N	N	N|SG|ABS	14	 _ 	 _ 	 _ 
-15	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	15	 _ 	 _ 	 _ 
-16	تووشی	تووشی	N	N	N|SG|ABS|EZALOS	16	 _ 	 _ 	 _
+14	ژن	N	N	N|SG|ABS	13	 _ 	 _ 	 _ 
+15	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	14	 _ 	 _ 	 _ 
+16	تووشی	تووشی	N	N	N|SG|ABS|EZALOS	15	 _ 	 _ 	 _
 17-18	کێشە
-17	کێش	N	N	N|SG|ABS	17	 _ 	 _ 	 _ 
-18	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	18	 _ 	 _ 	 _ 
-19	ببێت	ببێت	VBCOP	VBCOP	VBCOP|PRI|P3|SG	19	 _ 	 _ 	 _
-20	لەگەڵ	لەگەڵ	PR	PR	PR	20	 _ 	 _ 	 _
+17	کێش	N	N	N|SG|ABS	16	 _ 	 _ 	 _ 
+18	بوون	VBCOP	VBCOP	VBCOP|PRI|P3|SG	17	 _ 	 _ 	 _ 
+19	ببێت	ببێت	VBCOP	VBCOP	VBCOP|PRI|P3|SG	18	 _ 	 _ 	 _
+20	لەگەڵ	لەگەڵ	PR	PR	PR	19	 _ 	 _ 	 _
 21-22	پۆلیسدا
-21	پۆلیس	N	N	N|SG|ABS	21	 _ 	 _ 	 _ 
-22	دا	CLT	CLT	CLT	22	 _ 	 _ 	 _ 
-23	.	.	SENT	SENT	SENT	23	 _ 	 _ 	 _
+21	پۆلیس	N	N	N|SG|ABS	20	 _ 	 _ 	 _ 
+22	دا	CLT	CLT	CLT	21	 _ 	 _ 	 _ 
+23	.	.	SENT	SENT	SENT	22	 _ 	 _ 	 _
 

@@ -396,4 +396,3 @@ SVP
 	"نێونێرا" vblex tv pri p3 sg 
 "<.>"
 	"." sent
-

@@ -1,5 +1,4 @@
-﻿#trans = Shwan Atwf during receiving his prize he said the history of those tragedies which I am describing in film home and key is repeating today 
-"<شوان>"
+﻿"<شوان>"
 	"شوان" n sg abs
 "<عەتووف>"
 	"عەتووف" n sg abs
@@ -26,7 +25,7 @@
 "<فیلمی>"
 	"فیلم" n sg abs ezalos
 "<“>"
-	"“" lquot
+"“" lquot
 "<ماڵ>"
 	"ماڵ" n sg abs
 "<و>"
@@ -34,7 +33,7 @@
 "<کلیل>"
 	"کلیل" n sg abs
 "<”>"
-	"”" rquot
+"”" rquot
 "<دا>"
 	"دا" post
 "<باسی>"
@@ -103,7 +102,7 @@
 "<ڕایدەگەنێت>"
 	"ڕاگەیاندن" vblex tv prs p3 sg
 
- #trans = from today 15/08/ request for places in governmental/public university and college with direct university system of (377) department and school of education in university and college is very important and necessary, in this age it is becoming one of the human necessities
+#trans = from today 15/08/ request for places in governmental/public university and college with direct university system of (377) department and school of education in university and college is very important and necessary, in this age it is becoming one of the human necessities
 "<لە>"
 	"لە" pr
 "<ئەمڕۆوە>"
@@ -369,7 +368,7 @@
 "<ژیاندا>"
 	"ژیان" n sg abs 
 
-trans = reading one of the ? important children education
+#trans = reading one of the ? important children education
 "<خوێندنەوە>"
 	"خوێندن" n sg abs 
 "<یەکێکە>"
@@ -473,4 +472,3 @@ trans = reading one of the ? important children education
 	"هەڵکۆڵراون" vblex tv p3 pl 
 "<.>"
 	"." sent
-

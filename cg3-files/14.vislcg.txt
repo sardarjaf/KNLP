@@ -239,4 +239,3 @@
 		"بوون" vbcop pri p3 sg
 "<.>"
 	"." sent
-

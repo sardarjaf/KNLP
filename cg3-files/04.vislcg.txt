@@ -48,7 +48,7 @@
 	"بەرد" n sg abs
 "<وایە>"
 	"وا" n sg abs
-		"بوون" vbcop pri p3 sg
+	"بوون" vbcop pri p3 sg
 
 #trans =  It is fine that a child do not make use of their parents' library, however its existence in the house will strengthen and enhance his love for science and creativity.  
 "<دەشێ>"
@@ -206,7 +206,7 @@
 "<لە>"
 	"لە" pr
 "<هەر>"
-	"هەر" det ind sg | adv
+	"هەر" det ind sg 
 "<ماڵێکیشدا>"
 	"ماڵێکیشدا" n sg ind 
 	"دا" clt
@@ -221,7 +221,7 @@
 "<ژووری>"
 	"ژوور" n sg abs ezalos
 "<هەر>"
-	"هەر" det ind sg | adv
+	"هەر" det ind sg 
 "<منداڵیکیشدا>"
 	"منداڵیکیشدا" n sg ind 
 	"دا" clt
@@ -236,7 +236,7 @@
 "<لە>"
 	"لە" pr
 "<هەر>"
-	"هەر" det ind sg | adv
+	"هەر" det ind sg 
 "<شەقام>"
 	"شەقام" n sg abs
 "<و>"
@@ -415,4 +415,3 @@
 	"کتێبخانە" n pl def px3pl
 "<.>"
 	"." sent
-

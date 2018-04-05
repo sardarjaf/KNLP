@@ -455,4 +455,3 @@
 	"بوون" vbcop perf p3 sg
 "<.>"
 	"." sent
-
